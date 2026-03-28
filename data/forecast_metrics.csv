@@ -1,0 +1,18 @@
+category,mae,mape,rmse,reliability,show_in_ui
+Entertainment,99.51,13.21,104.01,high,True
+Gifts & Charity,309.2,25.95,309.2,high,True
+Food & Dining,123.29,26.66,149.18,high,True
+Fitness,716.37,41.9,808.69,medium,True
+Cash Withdrawal,662.6,53.1,780.9,medium,True
+Transport,150.28,58.64,161.15,medium,True
+Investments,2517.73,76.62,2596.45,low,True
+Utilities,1793.21,79.1,1862.38,low,True
+Travel,4627.59,84.86,4639.63,low,True
+Education,513.58,95.51,514.25,low,True
+Healthcare,609.1,96.46,615.13,low,True
+Subscriptions,716.82,99.24,717.11,low,True
+Rent & Housing,12706.16,100.0,12706.17,unreliable,False
+Shopping,1166.26,100.0,1168.21,unreliable,False
+Loan / Emi,7042.47,134.46,7405.3,unreliable,False
+Insurance,3200.09,145.27,3711.81,unreliable,False
+Groceries,2851.24,249.52,2851.36,unreliable,False
