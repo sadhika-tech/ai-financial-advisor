@@ -2,6 +2,8 @@ import { useEffect, useState } from "react";
 import { getBudgetPlan, getCluster } from "../api";
 import Loader   from "../components/Loader";
 import ErrorBox from "../components/ErrorBox";
+import { TipSkeleton, StatCardSkeleton } from "../components/Skeleton";
+import PageWrapper from "../components/PageWrapper";
 
 const PRIORITY_STYLE = {
   high  : { bg: "#fef2f2", border: "#fecaca", dot: "#dc2626", label: "High"   },
@@ -24,12 +26,24 @@ export default function CoachPage() {
       .finally(() => setLoading(false));
   }, [months]);
 
-  if (loading) return <Loader text="Generating your budget plan..." />;
+  if (loading) return (
+    <div style={{ maxWidth: 800, margin: "2rem auto", padding: "0 1rem" }}>
+        <div style={{
+        display: "grid", gridTemplateColumns: "repeat(3, 1fr)",
+        gap: 12, marginBottom: "1.5rem",
+        }}>
+      {[1,2,3].map(i => <StatCardSkeleton key={i} />)}
+    </div>
+    <div style={{ display: "flex", flexDirection: "column", gap: 12 }}>
+      <TipSkeleton />
+    </div>
+  </div>
+  );
   if (error)   return <div style={{ padding: "2rem" }}><ErrorBox message={error} /></div>;
   if (!plan)   return null;
 
   return (
-    <div style={{ maxWidth: 800, margin: "2rem auto", padding: "0 1rem" }}>
+   <PageWrapper maxWidth={860}>
 
       {/* Header */}
       <div style={{
@@ -53,7 +67,7 @@ export default function CoachPage() {
 
       {/* Persona card */}
       {cluster && (
-        <div style={{
+        <div className="hover-lift" style={{
           background: "linear-gradient(135deg, #f0fdf4, #dcfce7)",
           border: "1px solid #bbf7d0", borderRadius: 12,
           padding: "1.5rem", marginBottom: "1.5rem",
@@ -91,7 +105,7 @@ export default function CoachPage() {
       )}
 
       {/* Summary stats */}
-      <div style={{
+      <div className="summary-grid hover-lift" style={{
         display: "grid", gridTemplateColumns: "repeat(3, 1fr)",
         gap: 12, marginBottom: "1.5rem",
       }}>
@@ -112,7 +126,7 @@ export default function CoachPage() {
       </div>
 
       {/* Tips */}
-      <div style={{ display: "flex", flexDirection: "column", gap: 12 }}>
+      <div className="hover-lift"  style={{ display: "flex", flexDirection: "column", gap: 12 }}>
         {plan.tips.map((tip, i) => {
           const s = PRIORITY_STYLE[tip.priority] || PRIORITY_STYLE.low;
           return (
@@ -143,6 +157,6 @@ export default function CoachPage() {
           );
         })}
       </div>
-    </div>
+    </PageWrapper>
   );
 }

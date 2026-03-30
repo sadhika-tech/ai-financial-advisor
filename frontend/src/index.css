@@ -24,3 +24,49 @@ body {
 
 a { text-decoration: none; color: inherit; }
 button { cursor: pointer; font-family: inherit; }
+
+@media (max-width: 640px) {
+  .stat-grid    { grid-template-columns: 1fr 1fr !important; }
+  .cat-grid     { grid-template-columns: 1fr !important; }
+  .pred-grid    { grid-template-columns: 1fr !important; }
+  .summary-grid { grid-template-columns: 1fr !important; }
+}
+
+@media (max-width: 420px) {
+  .stat-grid { grid-template-columns: 1fr !important; }}
+
+/* Smooth page transitions */
+.page-enter {
+  opacity: 0;
+  transform: translateY(8px);
+}
+
+/* Scrollbar styling */
+::-webkit-scrollbar       { width: 6px; height: 6px; }
+::-webkit-scrollbar-track { background: transparent; }
+::-webkit-scrollbar-thumb { background: #d1d5db; border-radius: 3px; }
+::-webkit-scrollbar-thumb:hover { background: #9ca3af; }
+
+/* Focus rings */
+button:focus-visible,
+select:focus-visible,
+input:focus-visible {
+  outline: 2px solid var(--green);
+  outline-offset: 2px;
+}
+
+/* Recharts tooltip */
+.recharts-tooltip-wrapper .recharts-default-tooltip {
+  border-radius: 8px !important;
+  border: 1px solid var(--border) !important;
+  font-size: 12px !important;
+}
+
+/* Smooth hover on cards */
+.hover-lift {
+  transition: transform 0.15s ease, box-shadow 0.15s ease;
+}
+.hover-lift:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 4px 12px rgba(0,0,0,0.07);
+}

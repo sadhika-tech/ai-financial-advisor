@@ -7,6 +7,9 @@ import {
   BarChart, Bar, XAxis, YAxis, Tooltip,
   ResponsiveContainer, Cell,
 } from "recharts";
+import { StatCardSkeleton, ChartSkeleton } from "../components/Skeleton";
+import EmptyState from "../components/EmptyState";
+import PageWrapper from "../components/PageWrapper";
 
 const COLORS = [
   "#1D9E75","#378ADD","#BA7517","#D85A30","#7F77DD",
@@ -31,17 +34,30 @@ export default function DashboardPage() {
       .finally(() => setLoading(false));
   }, [months]);
 
-  if (loading) return <Loader text="Loading dashboard..." />;
-  if (error)   return <div style={{ padding: "2rem" }}><ErrorBox message={error} /></div>;
-  if (!summary) return null;
+    if (loading) return (
+        <div style={{ maxWidth: 960, margin: "2rem auto", padding: "0 1rem" }}>
+        <div style={{
+        display: "grid", gridTemplateColumns: "repeat(4, 1fr)",
+        gap: 12, marginBottom: "1.5rem",
+        }}>
+        {[1,2,3,4].map(i => <StatCardSkeleton key={i} />)}
+        </div>
+        <ChartSkeleton height={260} />
+    </div>
+    );
+    if (error) {
+        if (error.includes("Upload") || error.includes("404")) {
+        return <EmptyState />;
+        }
+        return <div style={{ padding: "2rem" }}><ErrorBox message={error} /></div>;
+    }
+    if (!summary) return null;
 
   const mom = summary.mom_change_pct;
 
   return (
-    <div style={{ maxWidth: 960, margin: "2rem auto", padding: "0 1rem" }}>
-
-      {/* Header row */}
-      <div style={{
+    <PageWrapper>
+        <div style={{
         display: "flex", justifyContent: "space-between",
         alignItems: "center", marginBottom: "1.5rem",
       }}>
@@ -61,7 +77,7 @@ export default function DashboardPage() {
       </div>
 
       {/* Stat cards */}
-      <div style={{
+      <div className="stat-grid hover-lift" style={{
         display: "grid", gridTemplateColumns: "repeat(4, 1fr)",
         gap: 12, marginBottom: "1.5rem",
       }}>
@@ -153,6 +169,6 @@ export default function DashboardPage() {
           </div>
         </div>
       )}
-    </div>
+    </PageWrapper>
   );
 }

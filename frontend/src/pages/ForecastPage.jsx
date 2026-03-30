@@ -6,6 +6,7 @@ import {
   LineChart, Line, XAxis, YAxis, Tooltip, Legend,
   ResponsiveContainer, Area, AreaChart, ReferenceLine,
 } from "recharts";
+import PageWrapper from "../components/PageWrapper";
 
 const CATS = [
   "Food & Dining","Transport","Groceries","Shopping",
@@ -50,7 +51,7 @@ export default function ForecastPage() {
   const lastActualMonth = history.at(-1)?.month;
 
   return (
-    <div style={{ maxWidth: 900, margin: "2rem auto", padding: "0 1rem" }}>
+    <PageWrapper maxWidth={860}>
       <div style={{
         display: "flex", justifyContent: "space-between",
         alignItems: "center", marginBottom: "1.5rem",
@@ -129,7 +130,7 @@ export default function ForecastPage() {
           </div>
 
           {/* Prediction cards */}
-          <div style={{
+          <div className="pred-grid" style={{
             display: "grid", gridTemplateColumns: "repeat(3, 1fr)", gap: 12,
           }}>
             {(forecast.predictions || []).map((p, i) => (
@@ -150,6 +151,6 @@ export default function ForecastPage() {
           </div>
         </>
       )}
-    </div>
+    </PageWrapper>
   );
 }
