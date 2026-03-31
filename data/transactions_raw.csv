@@ -1,0 +1,1460 @@
+date,description,amount,category,type
+2023-03-28,shopping,187.77,Shopping,debit
+2023-03-28,transport,10.0,Transport,debit
+2023-03-29,shopping,518.42,Shopping,debit
+2023-03-29,salary credit,45892.0,Income,credit
+2023-03-30,groceries,274.94,Groceries,debit
+2023-03-30,food & dining,22.49,Food & Dining,debit
+2023-03-31,transport,10.0,Transport,debit
+2023-04-01,cash withdrawal,986.21,Cash Withdrawal,debit
+2023-04-02,transport,10.0,Transport,debit
+2023-04-04,shopping,166.7,Shopping,debit
+2023-04-05,food & dining,101.01,Food & Dining,debit
+2023-04-06,entertainment,374.82,Entertainment,debit
+2023-04-06,investments,1973.26,Investments,debit
+2023-04-07,groceries,298.83,Groceries,debit
+2023-04-07,food & dining,105.34,Food & Dining,debit
+2023-04-08,subscriptions,531.21,Subscriptions,debit
+2023-04-11,food & dining,82.11,Food & Dining,debit
+2023-04-12,subscriptions,118.71,Subscriptions,debit
+2023-04-13,loan / emi,5007.05,Loan / EMI,debit
+2023-04-13,transport,10.0,Transport,debit
+2023-04-14,transport,21.83,Transport,debit
+2023-04-16,entertainment,174.14,Entertainment,debit
+2023-04-16,groceries,50.81,Groceries,debit
+2023-04-19,education,663.22,Education,debit
+2023-04-19,groceries,118.41,Groceries,debit
+2023-04-20,transport,27.73,Transport,debit
+2023-04-20,rent & housing,11981.28,Rent & Housing,debit
+2023-04-20,investments,1281.77,Investments,debit
+2023-04-21,food & dining,10.0,Food & Dining,debit
+2023-04-21,transport,30.39,Transport,debit
+2023-04-23,utilities,1846.46,Utilities,debit
+2023-04-24,transport,107.02,Transport,debit
+2023-04-24,food & dining,85.89,Food & Dining,debit
+2023-04-25,transport,42.46,Transport,debit
+2023-04-25,fitness,1002.1,Fitness,debit
+2023-04-27,insurance,2013.0,Insurance,debit
+2023-04-27,healthcare,429.5,Healthcare,debit
+2023-04-27,food & dining,102.57,Food & Dining,debit
+2023-04-27,groceries,451.76,Groceries,debit
+2023-04-28,transport,10.0,Transport,debit
+2023-04-29,salary credit,51992.51,Income,credit
+2023-04-30,groceries,16.04,Groceries,debit
+2023-05-01,groceries,207.97,Groceries,debit
+2023-05-02,groceries,220.83,Groceries,debit
+2023-05-04,shopping,379.68,Shopping,debit
+2023-05-05,transport,60.31,Transport,debit
+2023-05-05,subscriptions,416.57,Subscriptions,debit
+2023-05-05,cash withdrawal,969.59,Cash Withdrawal,debit
+2023-05-06,groceries,66.89,Groceries,debit
+2023-05-06,transport,10.0,Transport,debit
+2023-05-07,food & dining,122.65,Food & Dining,debit
+2023-05-07,shopping,99.05,Shopping,debit
+2023-05-08,shopping,238.36,Shopping,debit
+2023-05-08,transport,14.48,Transport,debit
+2023-05-08,education,1021.47,Education,debit
+2023-05-08,loan / emi,4997.38,Loan / EMI,debit
+2023-05-10,food & dining,21.38,Food & Dining,debit
+2023-05-10,transport,52.78,Transport,debit
+2023-05-11,fitness,1000.74,Fitness,debit
+2023-05-11,transport,10.0,Transport,debit
+2023-05-13,food & dining,86.33,Food & Dining,debit
+2023-05-14,groceries,10.42,Groceries,debit
+2023-05-14,investments,3157.27,Investments,debit
+2023-05-15,utilities,390.02,Utilities,debit
+2023-05-15,food & dining,25.12,Food & Dining,debit
+2023-05-16,rent & housing,11951.81,Rent & Housing,debit
+2023-05-19,travel,5286.57,Travel,debit
+2023-05-19,transport,10.0,Transport,debit
+2023-05-19,subscriptions,240.0,Subscriptions,debit
+2023-05-20,transport,29.07,Transport,debit
+2023-05-20,travel,2262.55,Travel,debit
+2023-05-21,utilities,1230.65,Utilities,debit
+2023-05-22,food & dining,141.62,Food & Dining,debit
+2023-05-23,entertainment,325.92,Entertainment,debit
+2023-05-23,transport,21.28,Transport,debit
+2023-05-24,shopping,53.87,Shopping,debit
+2023-05-25,insurance,2007.58,Insurance,debit
+2023-05-26,entertainment,279.67,Entertainment,debit
+2023-05-26,groceries,620.29,Groceries,debit
+2023-05-27,healthcare,398.53,Healthcare,debit
+2023-05-27,food & dining,40.63,Food & Dining,debit
+2023-05-28,subscriptions,161.65,Subscriptions,debit
+2023-05-28,food & dining,82.55,Food & Dining,debit
+2023-05-29,salary credit,48964.03,Income,credit
+2023-05-29,cash withdrawal,306.94,Cash Withdrawal,debit
+2023-05-31,utilities,956.22,Utilities,debit
+2023-06-02,shopping,485.96,Shopping,debit
+2023-06-02,investments,877.48,Investments,debit
+2023-06-03,transport,27.9,Transport,debit
+2023-06-04,transport,10.0,Transport,debit
+2023-06-05,education,1295.15,Education,debit
+2023-06-05,shopping,106.87,Shopping,debit
+2023-06-05,transport,45.62,Transport,debit
+2023-06-05,groceries,327.25,Groceries,debit
+2023-06-07,food & dining,104.29,Food & Dining,debit
+2023-06-09,food & dining,34.73,Food & Dining,debit
+2023-06-09,transport,10.0,Transport,debit
+2023-06-10,utilities,595.06,Utilities,debit
+2023-06-12,loan / emi,5003.11,Loan / EMI,debit
+2023-06-12,insurance,2007.07,Insurance,debit
+2023-06-12,groceries,110.39,Groceries,debit
+2023-06-12,entertainment,387.49,Entertainment,debit
+2023-06-12,fitness,999.67,Fitness,debit
+2023-06-12,transport,59.55,Transport,debit
+2023-06-14,food & dining,88.76,Food & Dining,debit
+2023-06-14,investments,2224.15,Investments,debit
+2023-06-15,rent & housing,11933.97,Rent & Housing,debit
+2023-06-17,food & dining,42.58,Food & Dining,debit
+2023-06-17,subscriptions,455.94,Subscriptions,debit
+2023-06-18,food & dining,21.13,Food & Dining,debit
+2023-06-19,healthcare,523.18,Healthcare,debit
+2023-06-21,groceries,60.33,Groceries,debit
+2023-06-21,food & dining,10.25,Food & Dining,debit
+2023-06-21,cash withdrawal,433.06,Cash Withdrawal,debit
+2023-06-23,entertainment,99.14,Entertainment,debit
+2023-06-23,groceries,178.83,Groceries,debit
+2023-06-26,transport,61.67,Transport,debit
+2023-06-26,groceries,509.77,Groceries,debit
+2023-06-27,subscriptions,46.15,Subscriptions,debit
+2023-06-27,groceries,82.02,Groceries,debit
+2023-06-27,shopping,208.37,Shopping,debit
+2023-06-28,transport,18.49,Transport,debit
+2023-06-28,healthcare,518.4,Healthcare,debit
+2023-06-28,cash withdrawal,557.33,Cash Withdrawal,debit
+2023-06-29,subscriptions,339.62,Subscriptions,debit
+2023-06-29,salary credit,51250.14,Income,credit
+2023-06-30,transport,10.0,Transport,debit
+2023-06-30,food & dining,30.03,Food & Dining,debit
+2023-07-04,subscriptions,90.32,Subscriptions,debit
+2023-07-05,subscriptions,232.7,Subscriptions,debit
+2023-07-05,utilities,1709.97,Utilities,debit
+2023-07-05,groceries,262.4,Groceries,debit
+2023-07-06,entertainment,656.71,Entertainment,debit
+2023-07-06,investments,2392.68,Investments,debit
+2023-07-07,groceries,328.12,Groceries,debit
+2023-07-07,loan / emi,5003.49,Loan / EMI,debit
+2023-07-07,shopping,146.74,Shopping,debit
+2023-07-10,groceries,40.7,Groceries,debit
+2023-07-10,shopping,474.64,Shopping,debit
+2023-07-10,transport,14.96,Transport,debit
+2023-07-11,transport,10.0,Transport,debit
+2023-07-11,groceries,127.49,Groceries,debit
+2023-07-12,fitness,1004.38,Fitness,debit
+2023-07-12,transport,54.26,Transport,debit
+2023-07-13,insurance,2016.93,Insurance,debit
+2023-07-13,transport,10.0,Transport,debit
+2023-07-13,shopping,236.59,Shopping,debit
+2023-07-13,cash withdrawal,182.43,Cash Withdrawal,debit
+2023-07-13,food & dining,61.0,Food & Dining,debit
+2023-07-14,education,1679.17,Education,debit
+2023-07-14,food & dining,50.87,Food & Dining,debit
+2023-07-15,food & dining,34.8,Food & Dining,debit
+2023-07-16,investments,742.06,Investments,debit
+2023-07-17,transport,35.06,Transport,debit
+2023-07-18,entertainment,36.04,Entertainment,debit
+2023-07-19,food & dining,74.91,Food & Dining,debit
+2023-07-19,transport,62.54,Transport,debit
+2023-07-19,groceries,358.32,Groceries,debit
+2023-07-20,groceries,281.39,Groceries,debit
+2023-07-20,food & dining,38.44,Food & Dining,debit
+2023-07-20,shopping,53.06,Shopping,debit
+2023-07-21,rent & housing,11938.48,Rent & Housing,debit
+2023-07-25,transport,10.0,Transport,debit
+2023-07-27,food & dining,142.36,Food & Dining,debit
+2023-07-28,food & dining,78.04,Food & Dining,debit
+2023-07-28,subscriptions,231.1,Subscriptions,debit
+2023-07-29,transport,10.0,Transport,debit
+2023-07-29,salary credit,49495.91,Income,credit
+2023-07-29,food & dining,10.0,Food & Dining,debit
+2023-07-30,food & dining,241.64,Food & Dining,debit
+2023-07-31,groceries,145.31,Groceries,debit
+2023-07-31,shopping,185.37,Shopping,debit
+2023-07-31,cash withdrawal,399.4,Cash Withdrawal,debit
+2023-07-31,investments,226.26,Investments,debit
+2023-08-01,healthcare,544.94,Healthcare,debit
+2023-08-01,fitness,1007.63,Fitness,debit
+2023-08-02,food & dining,37.26,Food & Dining,debit
+2023-08-03,entertainment,459.97,Entertainment,debit
+2023-08-04,transport,83.07,Transport,debit
+2023-08-04,food & dining,20.08,Food & Dining,debit
+2023-08-04,subscriptions,22.93,Subscriptions,debit
+2023-08-07,education,1654.95,Education,debit
+2023-08-08,shopping,324.0,Shopping,debit
+2023-08-09,transport,10.0,Transport,debit
+2023-08-12,transport,12.85,Transport,debit
+2023-08-13,cash withdrawal,664.33,Cash Withdrawal,debit
+2023-08-15,entertainment,32.18,Entertainment,debit
+2023-08-15,utilities,349.39,Utilities,debit
+2023-08-16,shopping,267.97,Shopping,debit
+2023-08-16,transport,28.0,Transport,debit
+2023-08-17,loan / emi,5008.61,Loan / EMI,debit
+2023-08-17,groceries,76.94,Groceries,debit
+2023-08-19,food & dining,11.28,Food & Dining,debit
+2023-08-19,transport,10.0,Transport,debit
+2023-08-20,groceries,82.61,Groceries,debit
+2023-08-21,utilities,1374.82,Utilities,debit
+2023-08-22,subscriptions,412.84,Subscriptions,debit
+2023-08-22,groceries,393.85,Groceries,debit
+2023-08-23,groceries,380.01,Groceries,debit
+2023-08-24,transport,64.35,Transport,debit
+2023-08-27,rent & housing,11943.94,Rent & Housing,debit
+2023-08-27,groceries,206.2,Groceries,debit
+2023-08-27,shopping,17.97,Shopping,debit
+2023-08-27,insurance,2013.77,Insurance,debit
+2023-08-27,investments,2959.36,Investments,debit
+2023-08-28,cash withdrawal,433.56,Cash Withdrawal,debit
+2023-08-29,insurance,2013.31,Insurance,debit
+2023-08-29,subscriptions,523.97,Subscriptions,debit
+2023-08-29,salary credit,48402.3,Income,credit
+2023-08-30,utilities,1365.3,Utilities,debit
+2023-09-01,groceries,14.18,Groceries,debit
+2023-09-01,food & dining,88.91,Food & Dining,debit
+2023-09-02,entertainment,600.28,Entertainment,debit
+2023-09-02,food & dining,13.11,Food & Dining,debit
+2023-09-03,transport,10.0,Transport,debit
+2023-09-05,entertainment,112.26,Entertainment,debit
+2023-09-07,transport,10.0,Transport,debit
+2023-09-07,shopping,237.54,Shopping,debit
+2023-09-08,shopping,74.61,Shopping,debit
+2023-09-09,healthcare,587.34,Healthcare,debit
+2023-09-10,investments,3509.12,Investments,debit
+2023-09-10,food & dining,56.62,Food & Dining,debit
+2023-09-12,food & dining,78.31,Food & Dining,debit
+2023-09-14,education,1406.08,Education,debit
+2023-09-15,food & dining,10.0,Food & Dining,debit
+2023-09-16,groceries,362.06,Groceries,debit
+2023-09-16,transport,19.97,Transport,debit
+2023-09-18,food & dining,32.55,Food & Dining,debit
+2023-09-18,groceries,218.74,Groceries,debit
+2023-09-19,food & dining,54.26,Food & Dining,debit
+2023-09-19,subscriptions,88.44,Subscriptions,debit
+2023-09-20,transport,17.66,Transport,debit
+2023-09-21,transport,24.42,Transport,debit
+2023-09-21,rent & housing,11957.36,Rent & Housing,debit
+2023-09-22,fitness,1005.24,Fitness,debit
+2023-09-22,transport,39.69,Transport,debit
+2023-09-22,loan / emi,5015.71,Loan / EMI,debit
+2023-09-23,shopping,435.39,Shopping,debit
+2023-09-23,food & dining,16.99,Food & Dining,debit
+2023-09-23,groceries,318.72,Groceries,debit
+2023-09-23,transport,45.76,Transport,debit
+2023-09-24,food & dining,104.94,Food & Dining,debit
+2023-09-24,subscriptions,53.36,Subscriptions,debit
+2023-09-27,groceries,409.48,Groceries,debit
+2023-09-27,cash withdrawal,815.22,Cash Withdrawal,debit
+2023-09-28,transport,10.0,Transport,debit
+2023-09-29,salary credit,48708.25,Income,credit
+2023-09-29,food & dining,302.97,Food & Dining,debit
+2023-09-29,entertainment,654.97,Entertainment,debit
+2023-09-30,healthcare,519.22,Healthcare,debit
+2023-09-30,groceries,362.59,Groceries,debit
+2023-10-01,food & dining,50.96,Food & Dining,debit
+2023-10-02,subscriptions,368.98,Subscriptions,debit
+2023-10-04,transport,63.16,Transport,debit
+2023-10-04,groceries,179.82,Groceries,debit
+2023-10-06,subscriptions,305.79,Subscriptions,debit
+2023-10-07,entertainment,117.25,Entertainment,debit
+2023-10-07,cash withdrawal,622.78,Cash Withdrawal,debit
+2023-10-08,food & dining,85.57,Food & Dining,debit
+2023-10-09,groceries,420.3,Groceries,debit
+2023-10-09,shopping,765.83,Shopping,debit
+2023-10-10,transport,13.78,Transport,debit
+2023-10-10,investments,3540.93,Investments,debit
+2023-10-11,insurance,2020.69,Insurance,debit
+2023-10-12,transport,19.99,Transport,debit
+2023-10-14,shopping,93.2,Shopping,debit
+2023-10-15,transport,10.0,Transport,debit
+2023-10-19,shopping,147.69,Shopping,debit
+2023-10-19,cash withdrawal,308.64,Cash Withdrawal,debit
+2023-10-19,transport,13.34,Transport,debit
+2023-10-20,transport,28.91,Transport,debit
+2023-10-20,fitness,998.73,Fitness,debit
+2023-10-22,loan / emi,5023.57,Loan / EMI,debit
+2023-10-22,food & dining,10.0,Food & Dining,debit
+2023-10-23,transport,22.05,Transport,debit
+2023-10-24,utilities,1413.58,Utilities,debit
+2023-10-24,groceries,370.67,Groceries,debit
+2023-10-25,shopping,133.81,Shopping,debit
+2023-10-25,food & dining,21.41,Food & Dining,debit
+2023-10-26,education,1153.74,Education,debit
+2023-10-26,rent & housing,11958.0,Rent & Housing,debit
+2023-10-27,transport,10.0,Transport,debit
+2023-10-29,salary credit,52273.16,Income,credit
+2023-10-29,food & dining,10.0,Food & Dining,debit
+2023-10-30,food & dining,10.0,Food & Dining,debit
+2023-10-31,investments,103.93,Investments,debit
+2023-10-31,groceries,1226.17,Groceries,debit
+2023-11-01,investments,3510.41,Investments,debit
+2023-11-02,transport,10.0,Transport,debit
+2023-11-03,transport,68.81,Transport,debit
+2023-11-05,transport,22.63,Transport,debit
+2023-11-06,transport,10.0,Transport,debit
+2023-11-07,food & dining,105.57,Food & Dining,debit
+2023-11-07,loan / emi,5032.75,Loan / EMI,debit
+2023-11-09,utilities,475.5,Utilities,debit
+2023-11-10,subscriptions,89.02,Subscriptions,debit
+2023-11-11,transport,10.0,Transport,debit
+2023-11-11,fitness,998.38,Fitness,debit
+2023-11-12,shopping,224.2,Shopping,debit
+2023-11-12,cash withdrawal,636.66,Cash Withdrawal,debit
+2023-11-13,transport,21.87,Transport,debit
+2023-11-14,food & dining,10.0,Food & Dining,debit
+2023-11-15,shopping,760.46,Shopping,debit
+2023-11-16,subscriptions,588.33,Subscriptions,debit
+2023-11-17,rent & housing,11951.57,Rent & Housing,debit
+2023-11-17,utilities,1140.75,Utilities,debit
+2023-11-18,food & dining,42.16,Food & Dining,debit
+2023-11-19,food & dining,61.87,Food & Dining,debit
+2023-11-19,groceries,44.2,Groceries,debit
+2023-11-20,food & dining,26.37,Food & Dining,debit
+2023-11-23,entertainment,800.54,Entertainment,debit
+2023-11-23,transport,51.4,Transport,debit
+2023-11-24,insurance,2024.96,Insurance,debit
+2023-11-24,groceries,278.73,Groceries,debit
+2023-11-24,food & dining,71.09,Food & Dining,debit
+2023-11-25,education,860.16,Education,debit
+2023-11-26,food & dining,161.41,Food & Dining,debit
+2023-11-26,cash withdrawal,410.02,Cash Withdrawal,debit
+2023-11-27,transport,10.0,Transport,debit
+2023-11-27,healthcare,614.45,Healthcare,debit
+2023-11-28,rent & housing,11925.58,Rent & Housing,debit
+2023-11-29,groceries,504.88,Groceries,debit
+2023-11-29,salary credit,54904.83,Income,credit
+2023-12-01,utilities,1204.33,Utilities,debit
+2023-12-01,subscriptions,69.74,Subscriptions,debit
+2023-12-02,transport,83.69,Transport,debit
+2023-12-02,food & dining,105.64,Food & Dining,debit
+2023-12-04,subscriptions,46.67,Subscriptions,debit
+2023-12-04,healthcare,887.55,Healthcare,debit
+2023-12-07,cash withdrawal,122.39,Cash Withdrawal,debit
+2023-12-08,gifts & charity,739.07,Gifts & Charity,debit
+2023-12-08,transport,10.48,Transport,debit
+2023-12-08,cash withdrawal,972.72,Cash Withdrawal,debit
+2023-12-09,education,1568.83,Education,debit
+2023-12-09,food & dining,118.5,Food & Dining,debit
+2023-12-09,utilities,899.9,Utilities,debit
+2023-12-10,groceries,25.98,Groceries,debit
+2023-12-12,food & dining,122.57,Food & Dining,debit
+2023-12-12,transport,10.0,Transport,debit
+2023-12-14,investments,3754.47,Investments,debit
+2023-12-15,groceries,710.13,Groceries,debit
+2023-12-15,transport,36.53,Transport,debit
+2023-12-16,transport,20.91,Transport,debit
+2023-12-17,transport,17.31,Transport,debit
+2023-12-17,groceries,44.2,Groceries,debit
+2023-12-18,food & dining,10.0,Food & Dining,debit
+2023-12-18,fitness,1000.1,Fitness,debit
+2023-12-19,shopping,569.74,Shopping,debit
+2023-12-19,insurance,2038.06,Insurance,debit
+2023-12-19,food & dining,86.88,Food & Dining,debit
+2023-12-20,transport,10.0,Transport,debit
+2023-12-20,shopping,286.98,Shopping,debit
+2023-12-21,groceries,134.39,Groceries,debit
+2023-12-21,subscriptions,562.97,Subscriptions,debit
+2023-12-23,loan / emi,5031.19,Loan / EMI,debit
+2023-12-23,transport,12.59,Transport,debit
+2023-12-24,food & dining,72.24,Food & Dining,debit
+2023-12-25,shopping,551.19,Shopping,debit
+2023-12-25,entertainment,458.53,Entertainment,debit
+2023-12-26,entertainment,364.82,Entertainment,debit
+2023-12-28,investments,1503.32,Investments,debit
+2023-12-28,entertainment,408.57,Entertainment,debit
+2023-12-29,salary credit,46457.37,Income,credit
+2023-12-29,fitness,1002.56,Fitness,debit
+2023-12-30,food & dining,26.66,Food & Dining,debit
+2023-12-30,transport,28.0,Transport,debit
+2023-12-31,groceries,118.31,Groceries,debit
+2024-01-01,utilities,1804.76,Utilities,debit
+2024-01-01,shopping,1023.62,Shopping,debit
+2024-01-01,cash withdrawal,1157.53,Cash Withdrawal,debit
+2024-01-01,food & dining,43.84,Food & Dining,debit
+2024-01-02,transport,10.88,Transport,debit
+2024-01-04,groceries,186.71,Groceries,debit
+2024-01-04,food & dining,38.09,Food & Dining,debit
+2024-01-04,transport,94.8,Transport,debit
+2024-01-05,subscriptions,112.78,Subscriptions,debit
+2024-01-05,insurance,2045.52,Insurance,debit
+2024-01-07,transport,28.06,Transport,debit
+2024-01-07,shopping,86.21,Shopping,debit
+2024-01-07,food & dining,68.44,Food & Dining,debit
+2024-01-07,loan / emi,5034.01,Loan / EMI,debit
+2024-01-10,subscriptions,565.35,Subscriptions,debit
+2024-01-11,food & dining,145.04,Food & Dining,debit
+2024-01-12,shopping,310.68,Shopping,debit
+2024-01-14,transport,23.19,Transport,debit
+2024-01-15,transport,26.69,Transport,debit
+2024-01-16,transport,45.47,Transport,debit
+2024-01-17,education,1388.64,Education,debit
+2024-01-18,groceries,674.28,Groceries,debit
+2024-01-21,investments,2023.99,Investments,debit
+2024-01-22,transport,12.94,Transport,debit
+2024-01-23,food & dining,21.08,Food & Dining,debit
+2024-01-23,gifts & charity,60.0,Gifts & Charity,debit
+2024-01-23,groceries,391.4,Groceries,debit
+2024-01-24,healthcare,473.06,Healthcare,debit
+2024-01-26,rent & housing,11916.01,Rent & Housing,debit
+2024-01-27,food & dining,65.34,Food & Dining,debit
+2024-01-27,groceries,96.92,Groceries,debit
+2024-01-27,entertainment,620.31,Entertainment,debit
+2024-01-28,subscriptions,646.16,Subscriptions,debit
+2024-01-29,salary credit,52108.73,Income,credit
+2024-01-29,rent & housing,11953.1,Rent & Housing,debit
+2024-01-29,shopping,642.17,Shopping,debit
+2024-01-30,transport,45.67,Transport,debit
+2024-01-31,transport,78.09,Transport,debit
+2024-02-03,transport,12.46,Transport,debit
+2024-02-04,food & dining,33.96,Food & Dining,debit
+2024-02-06,transport,23.06,Transport,debit
+2024-02-06,shopping,535.86,Shopping,debit
+2024-02-07,cash withdrawal,1192.67,Cash Withdrawal,debit
+2024-02-07,groceries,337.94,Groceries,debit
+2024-02-08,groceries,116.47,Groceries,debit
+2024-02-09,food & dining,60.79,Food & Dining,debit
+2024-02-11,groceries,113.73,Groceries,debit
+2024-02-12,food & dining,10.0,Food & Dining,debit
+2024-02-12,utilities,1794.12,Utilities,debit
+2024-02-13,transport,10.0,Transport,debit
+2024-02-13,investments,1306.02,Investments,debit
+2024-02-14,food & dining,63.17,Food & Dining,debit
+2024-02-15,food & dining,97.35,Food & Dining,debit
+2024-02-15,entertainment,390.59,Entertainment,debit
+2024-02-16,loan / emi,5055.83,Loan / EMI,debit
+2024-02-16,transport,23.33,Transport,debit
+2024-02-17,food & dining,56.79,Food & Dining,debit
+2024-02-17,transport,13.6,Transport,debit
+2024-02-17,shopping,46.16,Shopping,debit
+2024-02-18,groceries,895.44,Groceries,debit
+2024-02-18,transport,35.66,Transport,debit
+2024-02-19,food & dining,15.25,Food & Dining,debit
+2024-02-19,subscriptions,27.88,Subscriptions,debit
+2024-02-21,insurance,2058.29,Insurance,debit
+2024-02-22,education,1371.36,Education,debit
+2024-02-23,entertainment,348.45,Entertainment,debit
+2024-02-23,food & dining,10.0,Food & Dining,debit
+2024-02-25,investments,2231.96,Investments,debit
+2024-02-26,healthcare,488.12,Healthcare,debit
+2024-02-26,transport,24.62,Transport,debit
+2024-02-26,groceries,31.09,Groceries,debit
+2024-02-27,fitness,1009.38,Fitness,debit
+2024-02-28,groceries,652.8,Groceries,debit
+2024-02-29,salary credit,56780.91,Income,credit
+2024-02-29,shopping,357.65,Shopping,debit
+2024-03-01,food & dining,54.6,Food & Dining,debit
+2024-03-03,food & dining,160.57,Food & Dining,debit
+2024-03-03,groceries,24.7,Groceries,debit
+2024-03-03,utilities,823.03,Utilities,debit
+2024-03-05,utilities,1066.33,Utilities,debit
+2024-03-05,subscriptions,352.66,Subscriptions,debit
+2024-03-06,healthcare,477.87,Healthcare,debit
+2024-03-06,transport,93.83,Transport,debit
+2024-03-07,subscriptions,325.4,Subscriptions,debit
+2024-03-09,food & dining,10.0,Food & Dining,debit
+2024-03-11,groceries,126.99,Groceries,debit
+2024-03-13,investments,3557.2,Investments,debit
+2024-03-14,food & dining,33.34,Food & Dining,debit
+2024-03-14,education,1512.15,Education,debit
+2024-03-14,transport,11.07,Transport,debit
+2024-03-16,food & dining,74.4,Food & Dining,debit
+2024-03-16,loan / emi,5048.44,Loan / EMI,debit
+2024-03-16,transport,68.33,Transport,debit
+2024-03-17,insurance,2063.33,Insurance,debit
+2024-03-18,transport,10.0,Transport,debit
+2024-03-18,groceries,306.46,Groceries,debit
+2024-03-20,cash withdrawal,1412.61,Cash Withdrawal,debit
+2024-03-20,food & dining,40.57,Food & Dining,debit
+2024-03-21,transport,96.37,Transport,debit
+2024-03-21,rent & housing,11966.27,Rent & Housing,debit
+2024-03-21,shopping,672.02,Shopping,debit
+2024-03-22,transport,10.0,Transport,debit
+2024-03-22,shopping,84.76,Shopping,debit
+2024-03-22,fitness,1011.44,Fitness,debit
+2024-03-22,entertainment,648.7,Entertainment,debit
+2024-03-23,groceries,154.5,Groceries,debit
+2024-03-24,transport,10.0,Transport,debit
+2024-03-27,food & dining,13.25,Food & Dining,debit
+2024-03-29,salary credit,50883.14,Income,credit
+2024-03-29,shopping,904.33,Shopping,debit
+2024-03-30,transport,93.82,Transport,debit
+2024-04-01,subscriptions,93.94,Subscriptions,debit
+2024-04-01,food & dining,222.4,Food & Dining,debit
+2024-04-02,insurance,2087.77,Insurance,debit
+2024-04-03,healthcare,113.1,Healthcare,debit
+2024-04-03,rent & housing,11967.41,Rent & Housing,debit
+2024-04-04,investments,3513.49,Investments,debit
+2024-04-04,groceries,88.3,Groceries,debit
+2024-04-05,food & dining,10.0,Food & Dining,debit
+2024-04-06,food & dining,10.0,Food & Dining,debit
+2024-04-07,loan / emi,5058.43,Loan / EMI,debit
+2024-04-08,food & dining,34.59,Food & Dining,debit
+2024-04-08,groceries,208.88,Groceries,debit
+2024-04-09,transport,23.14,Transport,debit
+2024-04-09,shopping,61.26,Shopping,debit
+2024-04-10,transport,12.41,Transport,debit
+2024-04-10,fitness,1001.89,Fitness,debit
+2024-04-11,transport,10.0,Transport,debit
+2024-04-12,groceries,198.5,Groceries,debit
+2024-04-12,food & dining,50.26,Food & Dining,debit
+2024-04-15,shopping,55.3,Shopping,debit
+2024-04-17,groceries,91.69,Groceries,debit
+2024-04-18,entertainment,383.51,Entertainment,debit
+2024-04-19,food & dining,84.35,Food & Dining,debit
+2024-04-19,transport,52.51,Transport,debit
+2024-04-21,subscriptions,146.58,Subscriptions,debit
+2024-04-21,cash withdrawal,850.76,Cash Withdrawal,debit
+2024-04-21,transport,10.0,Transport,debit
+2024-04-22,groceries,517.05,Groceries,debit
+2024-04-22,entertainment,261.61,Entertainment,debit
+2024-04-23,shopping,390.39,Shopping,debit
+2024-04-24,transport,30.72,Transport,debit
+2024-04-25,transport,62.03,Transport,debit
+2024-04-25,education,1176.71,Education,debit
+2024-04-26,utilities,1742.12,Utilities,debit
+2024-04-27,cash withdrawal,84.63,Cash Withdrawal,debit
+2024-04-27,subscriptions,440.24,Subscriptions,debit
+2024-04-28,transport,18.59,Transport,debit
+2024-04-29,food & dining,24.27,Food & Dining,debit
+2024-04-29,salary credit,53555.25,Income,credit
+2024-04-30,groceries,91.31,Groceries,debit
+2024-04-30,food & dining,94.0,Food & Dining,debit
+2024-05-02,groceries,510.58,Groceries,debit
+2024-05-04,healthcare,161.49,Healthcare,debit
+2024-05-06,groceries,406.22,Groceries,debit
+2024-05-07,rent & housing,11992.5,Rent & Housing,debit
+2024-05-08,insurance,2086.65,Insurance,debit
+2024-05-08,transport,12.49,Transport,debit
+2024-05-09,food & dining,10.0,Food & Dining,debit
+2024-05-09,investments,3644.39,Investments,debit
+2024-05-09,utilities,1833.14,Utilities,debit
+2024-05-09,fitness,1012.49,Fitness,debit
+2024-05-12,groceries,95.68,Groceries,debit
+2024-05-14,food & dining,81.77,Food & Dining,debit
+2024-05-14,transport,40.42,Transport,debit
+2024-05-15,food & dining,136.79,Food & Dining,debit
+2024-05-15,loan / emi,5073.61,Loan / EMI,debit
+2024-05-15,education,778.85,Education,debit
+2024-05-16,shopping,198.8,Shopping,debit
+2024-05-16,cash withdrawal,1048.11,Cash Withdrawal,debit
+2024-05-19,entertainment,77.0,Entertainment,debit
+2024-05-20,transport,128.03,Transport,debit
+2024-05-20,shopping,935.25,Shopping,debit
+2024-05-21,travel,3824.84,Travel,debit
+2024-05-21,subscriptions,120.0,Subscriptions,debit
+2024-05-22,entertainment,650.34,Entertainment,debit
+2024-05-22,food & dining,26.23,Food & Dining,debit
+2024-05-22,transport,12.65,Transport,debit
+2024-05-23,transport,25.88,Transport,debit
+2024-05-24,food & dining,81.76,Food & Dining,debit
+2024-05-24,transport,57.72,Transport,debit
+2024-05-25,subscriptions,562.96,Subscriptions,debit
+2024-05-26,food & dining,10.0,Food & Dining,debit
+2024-05-26,groceries,145.5,Groceries,debit
+2024-05-27,shopping,207.24,Shopping,debit
+2024-05-29,shopping,125.63,Shopping,debit
+2024-05-29,food & dining,93.37,Food & Dining,debit
+2024-05-29,salary credit,51550.87,Income,credit
+2024-05-30,transport,10.0,Transport,debit
+2024-05-31,education,1145.26,Education,debit
+2024-06-01,food & dining,10.0,Food & Dining,debit
+2024-06-01,rent & housing,12020.87,Rent & Housing,debit
+2024-06-02,transport,34.26,Transport,debit
+2024-06-03,loan / emi,5069.52,Loan / EMI,debit
+2024-06-05,food & dining,77.73,Food & Dining,debit
+2024-06-05,groceries,255.5,Groceries,debit
+2024-06-06,food & dining,90.46,Food & Dining,debit
+2024-06-08,shopping,284.41,Shopping,debit
+2024-06-08,transport,48.58,Transport,debit
+2024-06-09,insurance,2092.15,Insurance,debit
+2024-06-10,fitness,1010.31,Fitness,debit
+2024-06-10,transport,97.93,Transport,debit
+2024-06-11,transport,16.71,Transport,debit
+2024-06-12,healthcare,396.58,Healthcare,debit
+2024-06-13,utilities,2046.46,Utilities,debit
+2024-06-13,shopping,424.43,Shopping,debit
+2024-06-16,travel,11062.73,Travel,debit
+2024-06-16,cash withdrawal,325.39,Cash Withdrawal,debit
+2024-06-16,transport,10.0,Transport,debit
+2024-06-17,investments,3703.68,Investments,debit
+2024-06-18,transport,10.0,Transport,debit
+2024-06-19,groceries,73.52,Groceries,debit
+2024-06-21,food & dining,20.61,Food & Dining,debit
+2024-06-21,transport,10.0,Transport,debit
+2024-06-21,entertainment,1106.38,Entertainment,debit
+2024-06-22,groceries,94.24,Groceries,debit
+2024-06-23,subscriptions,94.46,Subscriptions,debit
+2024-06-23,shopping,131.38,Shopping,debit
+2024-06-24,subscriptions,10.0,Subscriptions,debit
+2024-06-24,food & dining,81.42,Food & Dining,debit
+2024-06-24,groceries,325.18,Groceries,debit
+2024-06-25,groceries,509.39,Groceries,debit
+2024-06-25,subscriptions,590.12,Subscriptions,debit
+2024-06-25,cash withdrawal,715.67,Cash Withdrawal,debit
+2024-06-27,transport,79.73,Transport,debit
+2024-06-27,food & dining,60.32,Food & Dining,debit
+2024-06-29,groceries,186.54,Groceries,debit
+2024-06-29,salary credit,48717.9,Income,credit
+2024-07-02,transport,10.0,Transport,debit
+2024-07-03,insurance,2089.27,Insurance,debit
+2024-07-03,shopping,199.96,Shopping,debit
+2024-07-04,shopping,403.33,Shopping,debit
+2024-07-05,transport,16.29,Transport,debit
+2024-07-07,entertainment,520.06,Entertainment,debit
+2024-07-07,food & dining,10.0,Food & Dining,debit
+2024-07-08,education,1271.94,Education,debit
+2024-07-09,food & dining,11.24,Food & Dining,debit
+2024-07-10,transport,10.68,Transport,debit
+2024-07-11,subscriptions,202.5,Subscriptions,debit
+2024-07-11,investments,3777.72,Investments,debit
+2024-07-11,rent & housing,12053.63,Rent & Housing,debit
+2024-07-12,cash withdrawal,1035.93,Cash Withdrawal,debit
+2024-07-13,food & dining,40.42,Food & Dining,debit
+2024-07-14,transport,48.27,Transport,debit
+2024-07-14,food & dining,92.16,Food & Dining,debit
+2024-07-15,food & dining,174.35,Food & Dining,debit
+2024-07-17,utilities,1495.29,Utilities,debit
+2024-07-17,groceries,183.64,Groceries,debit
+2024-07-17,transport,39.06,Transport,debit
+2024-07-18,food & dining,49.76,Food & Dining,debit
+2024-07-18,utilities,410.91,Utilities,debit
+2024-07-19,transport,10.0,Transport,debit
+2024-07-19,healthcare,507.18,Healthcare,debit
+2024-07-20,loan / emi,5081.08,Loan / EMI,debit
+2024-07-20,transport,73.58,Transport,debit
+2024-07-20,food & dining,10.0,Food & Dining,debit
+2024-07-20,shopping,273.1,Shopping,debit
+2024-07-21,groceries,370.33,Groceries,debit
+2024-07-21,food & dining,72.82,Food & Dining,debit
+2024-07-22,groceries,255.65,Groceries,debit
+2024-07-25,subscriptions,488.31,Subscriptions,debit
+2024-07-25,groceries,247.15,Groceries,debit
+2024-07-26,shopping,10.0,Shopping,debit
+2024-07-26,transport,30.52,Transport,debit
+2024-07-27,transport,111.24,Transport,debit
+2024-07-27,fitness,1010.25,Fitness,debit
+2024-07-27,food & dining,11.06,Food & Dining,debit
+2024-07-28,entertainment,255.32,Entertainment,debit
+2024-07-29,transport,40.66,Transport,debit
+2024-07-29,salary credit,52444.02,Income,credit
+2024-07-29,cash withdrawal,475.09,Cash Withdrawal,debit
+2024-07-31,subscriptions,178.11,Subscriptions,debit
+2024-07-31,utilities,694.52,Utilities,debit
+2024-08-01,food & dining,28.46,Food & Dining,debit
+2024-08-01,shopping,107.22,Shopping,debit
+2024-08-02,groceries,667.53,Groceries,debit
+2024-08-03,groceries,57.64,Groceries,debit
+2024-08-03,transport,35.1,Transport,debit
+2024-08-03,fitness,1009.06,Fitness,debit
+2024-08-03,food & dining,28.73,Food & Dining,debit
+2024-08-04,education,775.12,Education,debit
+2024-08-04,groceries,130.85,Groceries,debit
+2024-08-04,cash withdrawal,628.05,Cash Withdrawal,debit
+2024-08-05,entertainment,335.18,Entertainment,debit
+2024-08-05,food & dining,194.7,Food & Dining,debit
+2024-08-05,groceries,178.42,Groceries,debit
+2024-08-06,transport,13.35,Transport,debit
+2024-08-09,utilities,1199.44,Utilities,debit
+2024-08-09,investments,1606.66,Investments,debit
+2024-08-09,shopping,22.64,Shopping,debit
+2024-08-10,transport,33.57,Transport,debit
+2024-08-11,loan / emi,5085.23,Loan / EMI,debit
+2024-08-11,transport,22.14,Transport,debit
+2024-08-11,shopping,420.62,Shopping,debit
+2024-08-12,insurance,2096.36,Insurance,debit
+2024-08-14,groceries,25.54,Groceries,debit
+2024-08-15,healthcare,549.93,Healthcare,debit
+2024-08-16,investments,2179.16,Investments,debit
+2024-08-18,food & dining,10.0,Food & Dining,debit
+2024-08-19,transport,26.09,Transport,debit
+2024-08-20,food & dining,30.7,Food & Dining,debit
+2024-08-21,food & dining,54.02,Food & Dining,debit
+2024-08-21,transport,46.17,Transport,debit
+2024-08-21,rent & housing,12090.36,Rent & Housing,debit
+2024-08-22,shopping,384.69,Shopping,debit
+2024-08-22,food & dining,80.74,Food & Dining,debit
+2024-08-23,transport,32.79,Transport,debit
+2024-08-26,subscriptions,520.23,Subscriptions,debit
+2024-08-27,food & dining,77.38,Food & Dining,debit
+2024-08-27,transport,36.11,Transport,debit
+2024-08-28,travel,8638.05,Travel,debit
+2024-08-28,transport,10.0,Transport,debit
+2024-08-29,shopping,347.06,Shopping,debit
+2024-08-29,salary credit,56314.68,Income,credit
+2024-08-30,food & dining,185.59,Food & Dining,debit
+2024-08-31,cash withdrawal,729.94,Cash Withdrawal,debit
+2024-08-31,loan / emi,5092.42,Loan / EMI,debit
+2024-08-31,shopping,98.19,Shopping,debit
+2024-09-02,subscriptions,501.79,Subscriptions,debit
+2024-09-02,groceries,141.23,Groceries,debit
+2024-09-02,food & dining,30.6,Food & Dining,debit
+2024-09-04,transport,24.75,Transport,debit
+2024-09-04,groceries,295.83,Groceries,debit
+2024-09-05,food & dining,10.0,Food & Dining,debit
+2024-09-06,transport,59.15,Transport,debit
+2024-09-07,investments,1732.72,Investments,debit
+2024-09-07,entertainment,749.7,Entertainment,debit
+2024-09-07,food & dining,110.48,Food & Dining,debit
+2024-09-08,education,1109.6,Education,debit
+2024-09-08,transport,39.86,Transport,debit
+2024-09-09,cash withdrawal,398.0,Cash Withdrawal,debit
+2024-09-09,utilities,1806.92,Utilities,debit
+2024-09-10,shopping,107.26,Shopping,debit
+2024-09-11,food & dining,64.89,Food & Dining,debit
+2024-09-12,subscriptions,174.52,Subscriptions,debit
+2024-09-12,groceries,395.24,Groceries,debit
+2024-09-13,food & dining,10.0,Food & Dining,debit
+2024-09-16,shopping,32.55,Shopping,debit
+2024-09-18,groceries,285.53,Groceries,debit
+2024-09-18,transport,19.56,Transport,debit
+2024-09-19,transport,10.0,Transport,debit
+2024-09-20,groceries,81.93,Groceries,debit
+2024-09-21,transport,150.48,Transport,debit
+2024-09-21,food & dining,64.42,Food & Dining,debit
+2024-09-21,insurance,2107.27,Insurance,debit
+2024-09-22,healthcare,584.5,Healthcare,debit
+2024-09-22,fitness,1005.24,Fitness,debit
+2024-09-22,utilities,100.15,Utilities,debit
+2024-09-23,transport,11.46,Transport,debit
+2024-09-23,rent & housing,12080.83,Rent & Housing,debit
+2024-09-25,food & dining,94.11,Food & Dining,debit
+2024-09-26,investments,1685.51,Investments,debit
+2024-09-27,shopping,427.5,Shopping,debit
+2024-09-27,subscriptions,29.42,Subscriptions,debit
+2024-09-27,food & dining,21.53,Food & Dining,debit
+2024-09-28,healthcare,489.77,Healthcare,debit
+2024-09-29,salary credit,57323.9,Income,credit
+2024-10-02,shopping,361.87,Shopping,debit
+2024-10-02,groceries,566.58,Groceries,debit
+2024-10-04,food & dining,91.36,Food & Dining,debit
+2024-10-04,cash withdrawal,1384.02,Cash Withdrawal,debit
+2024-10-05,groceries,464.96,Groceries,debit
+2024-10-07,transport,10.0,Transport,debit
+2024-10-07,subscriptions,110.19,Subscriptions,debit
+2024-10-07,education,600.19,Education,debit
+2024-10-09,shopping,600.43,Shopping,debit
+2024-10-09,transport,10.0,Transport,debit
+2024-10-09,investments,2923.71,Investments,debit
+2024-10-10,groceries,58.01,Groceries,debit
+2024-10-10,transport,33.36,Transport,debit
+2024-10-10,loan / emi,5086.96,Loan / EMI,debit
+2024-10-11,transport,182.92,Transport,debit
+2024-10-12,transport,29.45,Transport,debit
+2024-10-12,groceries,178.71,Groceries,debit
+2024-10-14,transport,10.0,Transport,debit
+2024-10-14,groceries,40.25,Groceries,debit
+2024-10-15,groceries,66.54,Groceries,debit
+2024-10-17,food & dining,170.94,Food & Dining,debit
+2024-10-17,subscriptions,158.47,Subscriptions,debit
+2024-10-17,investments,489.43,Investments,debit
+2024-10-18,food & dining,85.86,Food & Dining,debit
+2024-10-19,transport,15.88,Transport,debit
+2024-10-19,rent & housing,12086.67,Rent & Housing,debit
+2024-10-20,shopping,135.29,Shopping,debit
+2024-10-21,insurance,2125.61,Insurance,debit
+2024-10-22,food & dining,68.12,Food & Dining,debit
+2024-10-22,transport,10.0,Transport,debit
+2024-10-23,fitness,1014.0,Fitness,debit
+2024-10-24,food & dining,87.31,Food & Dining,debit
+2024-10-25,transport,59.34,Transport,debit
+2024-10-26,subscriptions,447.2,Subscriptions,debit
+2024-10-27,food & dining,82.72,Food & Dining,debit
+2024-10-27,utilities,1848.28,Utilities,debit
+2024-10-27,entertainment,809.4,Entertainment,debit
+2024-10-27,transport,17.58,Transport,debit
+2024-10-28,groceries,380.77,Groceries,debit
+2024-10-28,transport,13.35,Transport,debit
+2024-10-28,shopping,10.0,Shopping,debit
+2024-10-28,food & dining,47.58,Food & Dining,debit
+2024-10-29,salary credit,57282.0,Income,credit
+2024-10-29,groceries,43.22,Groceries,debit
+2024-10-30,entertainment,95.41,Entertainment,debit
+2024-10-30,loan / emi,5084.03,Loan / EMI,debit
+2024-10-31,fitness,1007.58,Fitness,debit
+2024-10-31,food & dining,149.34,Food & Dining,debit
+2024-11-01,food & dining,127.28,Food & Dining,debit
+2024-11-04,transport,81.8,Transport,debit
+2024-11-04,groceries,356.89,Groceries,debit
+2024-11-05,groceries,316.44,Groceries,debit
+2024-11-05,transport,114.48,Transport,debit
+2024-11-06,shopping,567.91,Shopping,debit
+2024-11-06,cash withdrawal,1197.17,Cash Withdrawal,debit
+2024-11-07,subscriptions,22.5,Subscriptions,debit
+2024-11-07,food & dining,60.2,Food & Dining,debit
+2024-11-09,transport,61.86,Transport,debit
+2024-11-10,subscriptions,582.54,Subscriptions,debit
+2024-11-11,food & dining,99.94,Food & Dining,debit
+2024-11-12,transport,10.0,Transport,debit
+2024-11-12,shopping,146.27,Shopping,debit
+2024-11-13,gifts & charity,1258.76,Gifts & Charity,debit
+2024-11-13,food & dining,42.17,Food & Dining,debit
+2024-11-14,insurance,2129.78,Insurance,debit
+2024-11-14,food & dining,123.75,Food & Dining,debit
+2024-11-14,transport,37.12,Transport,debit
+2024-11-14,investments,3337.93,Investments,debit
+2024-11-16,transport,32.78,Transport,debit
+2024-11-16,groceries,272.71,Groceries,debit
+2024-11-18,education,702.46,Education,debit
+2024-11-20,subscriptions,111.02,Subscriptions,debit
+2024-11-21,groceries,10.0,Groceries,debit
+2024-11-21,healthcare,393.16,Healthcare,debit
+2024-11-22,shopping,718.43,Shopping,debit
+2024-11-23,transport,34.09,Transport,debit
+2024-11-23,food & dining,15.65,Food & Dining,debit
+2024-11-25,rent & housing,12119.54,Rent & Housing,debit
+2024-11-26,entertainment,37.73,Entertainment,debit
+2024-11-27,utilities,1731.02,Utilities,debit
+2024-11-28,transport,10.0,Transport,debit
+2024-11-28,healthcare,845.42,Healthcare,debit
+2024-11-28,education,687.42,Education,debit
+2024-11-29,salary credit,47946.98,Income,credit
+2024-11-30,shopping,819.27,Shopping,debit
+2024-11-30,transport,37.91,Transport,debit
+2024-12-01,entertainment,558.61,Entertainment,debit
+2024-12-02,food & dining,95.61,Food & Dining,debit
+2024-12-04,transport,29.57,Transport,debit
+2024-12-05,food & dining,107.35,Food & Dining,debit
+2024-12-05,subscriptions,675.61,Subscriptions,debit
+2024-12-06,food & dining,42.43,Food & Dining,debit
+2024-12-07,transport,41.67,Transport,debit
+2024-12-07,shopping,126.65,Shopping,debit
+2024-12-09,groceries,410.84,Groceries,debit
+2024-12-09,rent & housing,12152.84,Rent & Housing,debit
+2024-12-09,transport,10.0,Transport,debit
+2024-12-11,groceries,125.27,Groceries,debit
+2024-12-11,food & dining,70.06,Food & Dining,debit
+2024-12-11,cash withdrawal,1215.66,Cash Withdrawal,debit
+2024-12-11,transport,11.31,Transport,debit
+2024-12-12,investments,2188.97,Investments,debit
+2024-12-13,loan / emi,5087.68,Loan / EMI,debit
+2024-12-14,transport,63.97,Transport,debit
+2024-12-15,groceries,437.5,Groceries,debit
+2024-12-15,food & dining,36.97,Food & Dining,debit
+2024-12-16,investments,1241.88,Investments,debit
+2024-12-16,fitness,1005.74,Fitness,debit
+2024-12-18,utilities,1855.55,Utilities,debit
+2024-12-19,groceries,40.01,Groceries,debit
+2024-12-19,gifts & charity,102.75,Gifts & Charity,debit
+2024-12-20,food & dining,51.04,Food & Dining,debit
+2024-12-20,groceries,329.6,Groceries,debit
+2024-12-20,shopping,124.34,Shopping,debit
+2024-12-20,subscriptions,42.15,Subscriptions,debit
+2024-12-20,insurance,2124.19,Insurance,debit
+2024-12-23,shopping,423.95,Shopping,debit
+2024-12-23,gifts & charity,953.5,Gifts & Charity,debit
+2024-12-24,transport,10.0,Transport,debit
+2024-12-25,transport,67.68,Transport,debit
+2024-12-27,transport,50.71,Transport,debit
+2024-12-27,food & dining,219.35,Food & Dining,debit
+2024-12-28,groceries,86.18,Groceries,debit
+2024-12-28,transport,66.98,Transport,debit
+2024-12-29,salary credit,57527.43,Income,credit
+2024-12-29,food & dining,141.28,Food & Dining,debit
+2024-12-29,shopping,154.04,Shopping,debit
+2024-12-30,shopping,280.14,Shopping,debit
+2025-01-01,groceries,320.31,Groceries,debit
+2025-01-03,groceries,445.65,Groceries,debit
+2025-01-03,insurance,2125.18,Insurance,debit
+2025-01-04,transport,60.03,Transport,debit
+2025-01-04,gifts & charity,169.58,Gifts & Charity,debit
+2025-01-04,food & dining,33.58,Food & Dining,debit
+2025-01-05,shopping,470.67,Shopping,debit
+2025-01-07,groceries,30.86,Groceries,debit
+2025-01-07,subscriptions,227.5,Subscriptions,debit
+2025-01-07,transport,36.38,Transport,debit
+2025-01-09,subscriptions,61.6,Subscriptions,debit
+2025-01-09,entertainment,511.3,Entertainment,debit
+2025-01-11,entertainment,347.88,Entertainment,debit
+2025-01-11,cash withdrawal,190.79,Cash Withdrawal,debit
+2025-01-11,gifts & charity,800.53,Gifts & Charity,debit
+2025-01-11,subscriptions,425.08,Subscriptions,debit
+2025-01-12,cash withdrawal,920.16,Cash Withdrawal,debit
+2025-01-12,investments,3602.03,Investments,debit
+2025-01-13,food & dining,102.66,Food & Dining,debit
+2025-01-13,transport,61.77,Transport,debit
+2025-01-14,loan / emi,5091.73,Loan / EMI,debit
+2025-01-15,groceries,122.72,Groceries,debit
+2025-01-17,transport,34.41,Transport,debit
+2025-01-18,groceries,140.68,Groceries,debit
+2025-01-19,fitness,1014.08,Fitness,debit
+2025-01-19,utilities,1919.97,Utilities,debit
+2025-01-21,groceries,121.27,Groceries,debit
+2025-01-21,food & dining,126.78,Food & Dining,debit
+2025-01-23,education,847.43,Education,debit
+2025-01-25,transport,18.65,Transport,debit
+2025-01-25,food & dining,175.56,Food & Dining,debit
+2025-01-26,food & dining,92.57,Food & Dining,debit
+2025-01-26,shopping,864.13,Shopping,debit
+2025-01-27,rent & housing,12161.09,Rent & Housing,debit
+2025-01-27,food & dining,16.73,Food & Dining,debit
+2025-01-27,healthcare,534.75,Healthcare,debit
+2025-01-27,transport,38.79,Transport,debit
+2025-01-28,healthcare,919.64,Healthcare,debit
+2025-01-29,salary credit,48049.95,Income,credit
+2025-01-30,gifts & charity,427.8,Gifts & Charity,debit
+2025-01-30,entertainment,281.64,Entertainment,debit
+2025-01-31,subscriptions,567.57,Subscriptions,debit
+2025-01-31,groceries,110.75,Groceries,debit
+2025-02-01,transport,64.27,Transport,debit
+2025-02-02,insurance,2131.97,Insurance,debit
+2025-02-03,transport,33.79,Transport,debit
+2025-02-03,cash withdrawal,1216.83,Cash Withdrawal,debit
+2025-02-04,shopping,646.5,Shopping,debit
+2025-02-04,groceries,446.71,Groceries,debit
+2025-02-05,utilities,152.98,Utilities,debit
+2025-02-05,food & dining,176.37,Food & Dining,debit
+2025-02-06,shopping,48.18,Shopping,debit
+2025-02-06,food & dining,17.04,Food & Dining,debit
+2025-02-06,investments,1709.76,Investments,debit
+2025-02-06,groceries,31.45,Groceries,debit
+2025-02-07,groceries,495.74,Groceries,debit
+2025-02-07,transport,27.52,Transport,debit
+2025-02-09,investments,1847.77,Investments,debit
+2025-02-10,food & dining,10.0,Food & Dining,debit
+2025-02-11,transport,49.02,Transport,debit
+2025-02-14,groceries,133.09,Groceries,debit
+2025-02-14,loan / emi,5096.51,Loan / EMI,debit
+2025-02-14,gifts & charity,58.42,Gifts & Charity,debit
+2025-02-14,fitness,1013.95,Fitness,debit
+2025-02-16,food & dining,75.43,Food & Dining,debit
+2025-02-18,entertainment,332.63,Entertainment,debit
+2025-02-19,food & dining,63.75,Food & Dining,debit
+2025-02-21,transport,84.16,Transport,debit
+2025-02-21,rent & housing,12187.46,Rent & Housing,debit
+2025-02-22,food & dining,166.36,Food & Dining,debit
+2025-02-23,food & dining,12.49,Food & Dining,debit
+2025-02-23,transport,20.4,Transport,debit
+2025-02-25,shopping,428.74,Shopping,debit
+2025-02-25,education,585.91,Education,debit
+2025-02-25,subscriptions,148.58,Subscriptions,debit
+2025-02-26,groceries,113.51,Groceries,debit
+2025-02-27,shopping,340.93,Shopping,debit
+2025-02-27,utilities,1752.37,Utilities,debit
+2025-03-01,shopping,383.74,Shopping,debit
+2025-03-01,transport,77.66,Transport,debit
+2025-03-01,salary credit,57692.86,Income,credit
+2025-03-02,food & dining,91.32,Food & Dining,debit
+2025-03-03,cash withdrawal,1198.13,Cash Withdrawal,debit
+2025-03-03,food & dining,30.29,Food & Dining,debit
+2025-03-04,transport,10.0,Transport,debit
+2025-03-05,food & dining,44.64,Food & Dining,debit
+2025-03-07,investments,2150.92,Investments,debit
+2025-03-07,healthcare,1159.57,Healthcare,debit
+2025-03-08,fitness,1010.62,Fitness,debit
+2025-03-08,transport,108.06,Transport,debit
+2025-03-08,shopping,359.21,Shopping,debit
+2025-03-09,rent & housing,12241.4,Rent & Housing,debit
+2025-03-12,shopping,213.86,Shopping,debit
+2025-03-12,entertainment,587.2,Entertainment,debit
+2025-03-12,food & dining,148.53,Food & Dining,debit
+2025-03-13,transport,20.4,Transport,debit
+2025-03-14,groceries,709.21,Groceries,debit
+2025-03-14,transport,10.0,Transport,debit
+2025-03-15,subscriptions,655.93,Subscriptions,debit
+2025-03-15,groceries,356.83,Groceries,debit
+2025-03-16,food & dining,32.49,Food & Dining,debit
+2025-03-16,education,257.47,Education,debit
+2025-03-17,transport,10.0,Transport,debit
+2025-03-17,subscriptions,69.98,Subscriptions,debit
+2025-03-18,food & dining,44.99,Food & Dining,debit
+2025-03-18,groceries,271.84,Groceries,debit
+2025-03-19,transport,10.0,Transport,debit
+2025-03-19,loan / emi,5095.47,Loan / EMI,debit
+2025-03-20,food & dining,114.56,Food & Dining,debit
+2025-03-20,groceries,144.28,Groceries,debit
+2025-03-21,entertainment,320.85,Entertainment,debit
+2025-03-21,insurance,2130.28,Insurance,debit
+2025-03-22,investments,1324.72,Investments,debit
+2025-03-22,transport,67.34,Transport,debit
+2025-03-24,shopping,371.98,Shopping,debit
+2025-03-25,food & dining,20.82,Food & Dining,debit
+2025-03-26,utilities,1253.45,Utilities,debit
+2025-03-27,utilities,688.91,Utilities,debit
+2025-03-27,transport,10.0,Transport,debit
+2025-03-29,transport,26.72,Transport,debit
+2025-03-29,education,729.04,Education,debit
+2025-03-29,salary credit,51406.69,Income,credit
+2025-03-30,food & dining,50.85,Food & Dining,debit
+2025-03-31,shopping,128.72,Shopping,debit
+2025-03-31,food & dining,55.87,Food & Dining,debit
+2025-04-01,transport,53.55,Transport,debit
+2025-04-02,healthcare,644.21,Healthcare,debit
+2025-04-02,transport,14.01,Transport,debit
+2025-04-02,subscriptions,15.72,Subscriptions,debit
+2025-04-02,fitness,1019.39,Fitness,debit
+2025-04-02,food & dining,57.02,Food & Dining,debit
+2025-04-03,entertainment,415.9,Entertainment,debit
+2025-04-03,utilities,2012.68,Utilities,debit
+2025-04-03,groceries,706.78,Groceries,debit
+2025-04-06,groceries,262.61,Groceries,debit
+2025-04-08,entertainment,112.24,Entertainment,debit
+2025-04-09,transport,10.0,Transport,debit
+2025-04-10,transport,10.0,Transport,debit
+2025-04-12,transport,36.48,Transport,debit
+2025-04-12,groceries,52.39,Groceries,debit
+2025-04-13,groceries,105.9,Groceries,debit
+2025-04-15,insurance,2147.89,Insurance,debit
+2025-04-15,shopping,704.29,Shopping,debit
+2025-04-16,transport,28.56,Transport,debit
+2025-04-18,cash withdrawal,632.08,Cash Withdrawal,debit
+2025-04-18,food & dining,154.74,Food & Dining,debit
+2025-04-19,food & dining,65.45,Food & Dining,debit
+2025-04-20,groceries,337.85,Groceries,debit
+2025-04-20,shopping,477.9,Shopping,debit
+2025-04-20,rent & housing,12321.41,Rent & Housing,debit
+2025-04-20,transport,88.27,Transport,debit
+2025-04-21,investments,3720.23,Investments,debit
+2025-04-22,transport,21.8,Transport,debit
+2025-04-22,food & dining,171.99,Food & Dining,debit
+2025-04-23,loan / emi,5113.5,Loan / EMI,debit
+2025-04-24,groceries,22.48,Groceries,debit
+2025-04-25,cash withdrawal,752.8,Cash Withdrawal,debit
+2025-04-26,subscriptions,361.33,Subscriptions,debit
+2025-04-27,subscriptions,350.21,Subscriptions,debit
+2025-04-28,food & dining,17.88,Food & Dining,debit
+2025-04-29,salary credit,58530.52,Income,credit
+2025-04-29,groceries,430.28,Groceries,debit
+2025-04-29,investments,4202.71,Investments,debit
+2025-05-01,food & dining,36.12,Food & Dining,debit
+2025-05-01,rent & housing,12364.39,Rent & Housing,debit
+2025-05-04,food & dining,204.38,Food & Dining,debit
+2025-05-05,healthcare,727.19,Healthcare,debit
+2025-05-06,shopping,396.01,Shopping,debit
+2025-05-07,food & dining,10.0,Food & Dining,debit
+2025-05-09,cash withdrawal,671.41,Cash Withdrawal,debit
+2025-05-11,entertainment,226.53,Entertainment,debit
+2025-05-12,education,1084.52,Education,debit
+2025-05-12,transport,122.29,Transport,debit
+2025-05-13,transport,53.27,Transport,debit
+2025-05-13,fitness,1029.24,Fitness,debit
+2025-05-14,cash withdrawal,641.36,Cash Withdrawal,debit
+2025-05-14,shopping,413.03,Shopping,debit
+2025-05-14,transport,10.0,Transport,debit
+2025-05-14,food & dining,10.68,Food & Dining,debit
+2025-05-15,transport,21.69,Transport,debit
+2025-05-15,groceries,547.83,Groceries,debit
+2025-05-16,entertainment,493.46,Entertainment,debit
+2025-05-17,gifts & charity,860.98,Gifts & Charity,debit
+2025-05-18,transport,13.06,Transport,debit
+2025-05-20,groceries,248.88,Groceries,debit
+2025-05-21,utilities,1985.27,Utilities,debit
+2025-05-22,loan / emi,5123.29,Loan / EMI,debit
+2025-05-22,groceries,117.36,Groceries,debit
+2025-05-22,insurance,2145.86,Insurance,debit
+2025-05-24,shopping,111.24,Shopping,debit
+2025-05-24,subscriptions,591.3,Subscriptions,debit
+2025-05-24,food & dining,179.71,Food & Dining,debit
+2025-05-25,shopping,167.36,Shopping,debit
+2025-05-25,subscriptions,144.42,Subscriptions,debit
+2025-05-25,transport,77.9,Transport,debit
+2025-05-26,groceries,234.87,Groceries,debit
+2025-05-28,insurance,2148.57,Insurance,debit
+2025-05-29,salary credit,57144.78,Income,credit
+2025-05-30,investments,4234.66,Investments,debit
+2025-05-30,transport,10.0,Transport,debit
+2025-05-30,subscriptions,573.9,Subscriptions,debit
+2025-05-30,shopping,131.07,Shopping,debit
+2025-05-30,groceries,139.45,Groceries,debit
+2025-06-01,groceries,314.47,Groceries,debit
+2025-06-02,food & dining,315.61,Food & Dining,debit
+2025-06-03,transport,24.79,Transport,debit
+2025-06-05,food & dining,27.59,Food & Dining,debit
+2025-06-06,travel,3466.84,Travel,debit
+2025-06-07,food & dining,50.99,Food & Dining,debit
+2025-06-07,loan / emi,5149.61,Loan / EMI,debit
+2025-06-08,groceries,481.04,Groceries,debit
+2025-06-08,shopping,681.82,Shopping,debit
+2025-06-09,entertainment,957.39,Entertainment,debit
+2025-06-09,subscriptions,51.94,Subscriptions,debit
+2025-06-10,groceries,198.73,Groceries,debit
+2025-06-11,transport,10.0,Transport,debit
+2025-06-13,transport,51.7,Transport,debit
+2025-06-14,utilities,1999.23,Utilities,debit
+2025-06-14,food & dining,45.67,Food & Dining,debit
+2025-06-15,education,848.12,Education,debit
+2025-06-16,groceries,407.35,Groceries,debit
+2025-06-16,cash withdrawal,956.84,Cash Withdrawal,debit
+2025-06-17,transport,25.35,Transport,debit
+2025-06-19,shopping,138.61,Shopping,debit
+2025-06-21,transport,10.0,Transport,debit
+2025-06-22,transport,40.24,Transport,debit
+2025-06-22,food & dining,10.0,Food & Dining,debit
+2025-06-23,rent & housing,12381.05,Rent & Housing,debit
+2025-06-23,subscriptions,109.17,Subscriptions,debit
+2025-06-24,shopping,216.39,Shopping,debit
+2025-06-24,fitness,1029.9,Fitness,debit
+2025-06-24,transport,55.52,Transport,debit
+2025-06-25,healthcare,934.58,Healthcare,debit
+2025-06-26,utilities,275.91,Utilities,debit
+2025-06-27,transport,19.04,Transport,debit
+2025-06-28,transport,19.19,Transport,debit
+2025-06-29,salary credit,51093.46,Income,credit
+2025-06-29,food & dining,10.0,Food & Dining,debit
+2025-07-01,transport,47.24,Transport,debit
+2025-07-02,food & dining,79.48,Food & Dining,debit
+2025-07-03,shopping,418.84,Shopping,debit
+2025-07-04,shopping,12.9,Shopping,debit
+2025-07-04,food & dining,70.95,Food & Dining,debit
+2025-07-04,utilities,850.42,Utilities,debit
+2025-07-05,fitness,1035.97,Fitness,debit
+2025-07-06,transport,42.0,Transport,debit
+2025-07-06,food & dining,73.82,Food & Dining,debit
+2025-07-07,transport,10.0,Transport,debit
+2025-07-10,transport,10.0,Transport,debit
+2025-07-11,entertainment,777.84,Entertainment,debit
+2025-07-13,rent & housing,12423.53,Rent & Housing,debit
+2025-07-13,healthcare,665.26,Healthcare,debit
+2025-07-15,education,729.89,Education,debit
+2025-07-16,food & dining,22.4,Food & Dining,debit
+2025-07-17,loan / emi,5174.03,Loan / EMI,debit
+2025-07-18,groceries,188.01,Groceries,debit
+2025-07-18,entertainment,165.02,Entertainment,debit
+2025-07-18,transport,41.17,Transport,debit
+2025-07-19,transport,10.0,Transport,debit
+2025-07-20,subscriptions,462.1,Subscriptions,debit
+2025-07-20,groceries,281.18,Groceries,debit
+2025-07-21,investments,4014.49,Investments,debit
+2025-07-21,transport,54.68,Transport,debit
+2025-07-21,food & dining,59.96,Food & Dining,debit
+2025-07-22,transport,30.0,Transport,debit
+2025-07-22,groceries,252.68,Groceries,debit
+2025-07-22,insurance,2165.45,Insurance,debit
+2025-07-23,groceries,549.03,Groceries,debit
+2025-07-25,food & dining,20.63,Food & Dining,debit
+2025-07-25,shopping,400.32,Shopping,debit
+2025-07-26,food & dining,98.67,Food & Dining,debit
+2025-07-26,cash withdrawal,1111.96,Cash Withdrawal,debit
+2025-07-26,groceries,207.63,Groceries,debit
+2025-07-27,utilities,1527.69,Utilities,debit
+2025-07-27,subscriptions,272.41,Subscriptions,debit
+2025-07-29,salary credit,51151.79,Income,credit
+2025-07-29,transport,34.04,Transport,debit
+2025-07-29,food & dining,10.0,Food & Dining,debit
+2025-07-30,subscriptions,172.3,Subscriptions,debit
+2025-07-31,food & dining,10.0,Food & Dining,debit
+2025-08-03,groceries,496.6,Groceries,debit
+2025-08-03,education,848.1,Education,debit
+2025-08-03,shopping,10.0,Shopping,debit
+2025-08-04,transport,19.8,Transport,debit
+2025-08-04,food & dining,85.91,Food & Dining,debit
+2025-08-05,food & dining,27.21,Food & Dining,debit
+2025-08-06,entertainment,816.71,Entertainment,debit
+2025-08-07,fitness,1038.39,Fitness,debit
+2025-08-08,shopping,399.7,Shopping,debit
+2025-08-08,investments,4070.28,Investments,debit
+2025-08-08,food & dining,103.11,Food & Dining,debit
+2025-08-09,shopping,71.99,Shopping,debit
+2025-08-09,healthcare,592.05,Healthcare,debit
+2025-08-10,transport,13.2,Transport,debit
+2025-08-11,food & dining,153.93,Food & Dining,debit
+2025-08-12,insurance,2171.95,Insurance,debit
+2025-08-12,food & dining,166.86,Food & Dining,debit
+2025-08-13,food & dining,10.0,Food & Dining,debit
+2025-08-13,utilities,2203.59,Utilities,debit
+2025-08-14,loan / emi,5173.02,Loan / EMI,debit
+2025-08-16,food & dining,45.16,Food & Dining,debit
+2025-08-16,subscriptions,571.46,Subscriptions,debit
+2025-08-17,transport,50.84,Transport,debit
+2025-08-18,shopping,304.59,Shopping,debit
+2025-08-20,cash withdrawal,1046.5,Cash Withdrawal,debit
+2025-08-20,groceries,69.39,Groceries,debit
+2025-08-21,transport,21.24,Transport,debit
+2025-08-22,transport,58.4,Transport,debit
+2025-08-22,groceries,559.41,Groceries,debit
+2025-08-23,transport,72.41,Transport,debit
+2025-08-24,rent & housing,12461.74,Rent & Housing,debit
+2025-08-25,transport,19.56,Transport,debit
+2025-08-26,groceries,188.2,Groceries,debit
+2025-08-29,salary credit,57990.36,Income,credit
+2025-08-29,food & dining,101.03,Food & Dining,debit
+2025-08-31,shopping,716.64,Shopping,debit
+2025-08-31,subscriptions,738.18,Subscriptions,debit
+2025-08-31,cash withdrawal,1024.03,Cash Withdrawal,debit
+2025-08-31,rent & housing,12504.35,Rent & Housing,debit
+2025-09-01,transport,10.0,Transport,debit
+2025-09-01,groceries,57.74,Groceries,debit
+2025-09-01,investments,3361.21,Investments,debit
+2025-09-02,groceries,80.74,Groceries,debit
+2025-09-03,healthcare,525.68,Healthcare,debit
+2025-09-03,shopping,10.93,Shopping,debit
+2025-09-04,transport,136.38,Transport,debit
+2025-09-05,food & dining,104.8,Food & Dining,debit
+2025-09-05,subscriptions,10.0,Subscriptions,debit
+2025-09-06,food & dining,10.0,Food & Dining,debit
+2025-09-06,shopping,213.09,Shopping,debit
+2025-09-07,entertainment,863.66,Entertainment,debit
+2025-09-08,food & dining,10.0,Food & Dining,debit
+2025-09-09,fitness,1041.23,Fitness,debit
+2025-09-09,food & dining,72.81,Food & Dining,debit
+2025-09-09,transport,62.6,Transport,debit
+2025-09-10,transport,19.44,Transport,debit
+2025-09-11,utilities,36.48,Utilities,debit
+2025-09-12,transport,28.7,Transport,debit
+2025-09-13,food & dining,10.0,Food & Dining,debit
+2025-09-13,shopping,55.41,Shopping,debit
+2025-09-14,utilities,2290.97,Utilities,debit
+2025-09-14,food & dining,121.29,Food & Dining,debit
+2025-09-14,groceries,392.09,Groceries,debit
+2025-09-15,transport,30.48,Transport,debit
+2025-09-16,insurance,2163.63,Insurance,debit
+2025-09-16,transport,10.0,Transport,debit
+2025-09-20,loan / emi,5174.98,Loan / EMI,debit
+2025-09-22,groceries,129.17,Groceries,debit
+2025-09-22,food & dining,141.44,Food & Dining,debit
+2025-09-23,groceries,83.9,Groceries,debit
+2025-09-24,food & dining,11.52,Food & Dining,debit
+2025-09-25,education,790.61,Education,debit
+2025-09-26,groceries,477.76,Groceries,debit
+2025-09-27,investments,285.22,Investments,debit
+2025-09-28,transport,10.0,Transport,debit
+2025-09-29,food & dining,10.0,Food & Dining,debit
+2025-09-29,groceries,462.3,Groceries,debit
+2025-09-29,transport,43.13,Transport,debit
+2025-09-29,salary credit,59868.25,Income,credit
+2025-09-30,shopping,65.39,Shopping,debit
+2025-10-01,groceries,233.13,Groceries,debit
+2025-10-02,healthcare,713.36,Healthcare,debit
+2025-10-02,education,732.58,Education,debit
+2025-10-03,subscriptions,130.75,Subscriptions,debit
+2025-10-03,utilities,1663.54,Utilities,debit
+2025-10-03,rent & housing,12516.12,Rent & Housing,debit
+2025-10-04,food & dining,10.0,Food & Dining,debit
+2025-10-05,transport,26.07,Transport,debit
+2025-10-05,food & dining,14.54,Food & Dining,debit
+2025-10-06,food & dining,106.57,Food & Dining,debit
+2025-10-06,fitness,1041.5,Fitness,debit
+2025-10-07,transport,24.91,Transport,debit
+2025-10-08,transport,39.7,Transport,debit
+2025-10-09,transport,22.3,Transport,debit
+2025-10-10,groceries,115.24,Groceries,debit
+2025-10-11,transport,69.65,Transport,debit
+2025-10-12,transport,43.26,Transport,debit
+2025-10-12,food & dining,230.01,Food & Dining,debit
+2025-10-12,investments,4106.59,Investments,debit
+2025-10-13,insurance,2173.24,Insurance,debit
+2025-10-13,travel,646.06,Travel,debit
+2025-10-15,shopping,310.36,Shopping,debit
+2025-10-15,subscriptions,456.35,Subscriptions,debit
+2025-10-16,groceries,203.71,Groceries,debit
+2025-10-16,utilities,532.02,Utilities,debit
+2025-10-16,food & dining,20.82,Food & Dining,debit
+2025-10-16,transport,10.0,Transport,debit
+2025-10-17,groceries,30.15,Groceries,debit
+2025-10-18,transport,10.0,Transport,debit
+2025-10-21,cash withdrawal,373.28,Cash Withdrawal,debit
+2025-10-21,groceries,347.78,Groceries,debit
+2025-10-22,food & dining,66.85,Food & Dining,debit
+2025-10-23,food & dining,42.78,Food & Dining,debit
+2025-10-23,shopping,343.98,Shopping,debit
+2025-10-23,subscriptions,151.69,Subscriptions,debit
+2025-10-24,food & dining,11.63,Food & Dining,debit
+2025-10-24,entertainment,1292.87,Entertainment,debit
+2025-10-26,travel,6470.86,Travel,debit
+2025-10-26,shopping,295.92,Shopping,debit
+2025-10-26,loan / emi,5185.62,Loan / EMI,debit
+2025-10-26,transport,13.68,Transport,debit
+2025-10-27,cash withdrawal,394.51,Cash Withdrawal,debit
+2025-10-28,transport,34.88,Transport,debit
+2025-10-29,shopping,41.08,Shopping,debit
+2025-10-29,transport,33.54,Transport,debit
+2025-10-29,salary credit,51914.22,Income,credit
+2025-10-29,fitness,1047.77,Fitness,debit
+2025-10-30,cash withdrawal,110.97,Cash Withdrawal,debit
+2025-10-31,subscriptions,82.63,Subscriptions,debit
+2025-10-31,shopping,113.22,Shopping,debit
+2025-11-01,food & dining,14.45,Food & Dining,debit
+2025-11-02,transport,10.0,Transport,debit
+2025-11-03,food & dining,103.65,Food & Dining,debit
+2025-11-04,shopping,470.72,Shopping,debit
+2025-11-05,transport,125.31,Transport,debit
+2025-11-06,cash withdrawal,899.1,Cash Withdrawal,debit
+2025-11-06,food & dining,164.94,Food & Dining,debit
+2025-11-06,groceries,443.57,Groceries,debit
+2025-11-06,transport,57.6,Transport,debit
+2025-11-07,transport,10.0,Transport,debit
+2025-11-07,food & dining,65.64,Food & Dining,debit
+2025-11-08,transport,10.0,Transport,debit
+2025-11-10,groceries,295.9,Groceries,debit
+2025-11-11,subscriptions,647.35,Subscriptions,debit
+2025-11-11,insurance,2187.61,Insurance,debit
+2025-11-11,loan / emi,5205.4,Loan / EMI,debit
+2025-11-11,healthcare,1074.31,Healthcare,debit
+2025-11-11,transport,10.0,Transport,debit
+2025-11-12,groceries,409.66,Groceries,debit
+2025-11-13,food & dining,55.22,Food & Dining,debit
+2025-11-14,transport,10.0,Transport,debit
+2025-11-15,transport,10.0,Transport,debit
+2025-11-16,groceries,161.06,Groceries,debit
+2025-11-17,shopping,813.6,Shopping,debit
+2025-11-17,entertainment,21.5,Entertainment,debit
+2025-11-17,groceries,159.48,Groceries,debit
+2025-11-17,rent & housing,12531.26,Rent & Housing,debit
+2025-11-18,utilities,1992.14,Utilities,debit
+2025-11-19,transport,25.56,Transport,debit
+2025-11-19,entertainment,971.85,Entertainment,debit
+2025-11-20,food & dining,14.79,Food & Dining,debit
+2025-11-21,food & dining,10.0,Food & Dining,debit
+2025-11-22,food & dining,93.14,Food & Dining,debit
+2025-11-22,education,1076.22,Education,debit
+2025-11-23,transport,10.0,Transport,debit
+2025-11-26,groceries,44.27,Groceries,debit
+2025-11-26,investments,3823.85,Investments,debit
+2025-11-27,travel,4293.68,Travel,debit
+2025-11-29,salary credit,54652.04,Income,credit
+2025-11-30,groceries,207.19,Groceries,debit
+2025-11-30,food & dining,75.96,Food & Dining,debit
+2025-12-01,food & dining,34.63,Food & Dining,debit
+2025-12-01,gifts & charity,1390.37,Gifts & Charity,debit
+2025-12-01,transport,95.98,Transport,debit
+2025-12-02,insurance,2198.29,Insurance,debit
+2025-12-02,shopping,212.93,Shopping,debit
+2025-12-02,education,1177.59,Education,debit
+2025-12-03,healthcare,719.84,Healthcare,debit
+2025-12-03,utilities,1673.7,Utilities,debit
+2025-12-03,food & dining,81.93,Food & Dining,debit
+2025-12-03,shopping,674.0,Shopping,debit
+2025-12-04,transport,10.0,Transport,debit
+2025-12-05,groceries,896.25,Groceries,debit
+2025-12-06,transport,62.82,Transport,debit
+2025-12-07,shopping,585.56,Shopping,debit
+2025-12-07,groceries,168.24,Groceries,debit
+2025-12-08,food & dining,106.22,Food & Dining,debit
+2025-12-11,food & dining,57.79,Food & Dining,debit
+2025-12-11,cash withdrawal,1190.44,Cash Withdrawal,debit
+2025-12-11,transport,45.94,Transport,debit
+2025-12-12,entertainment,865.9,Entertainment,debit
+2025-12-12,investments,3546.03,Investments,debit
+2025-12-13,food & dining,136.94,Food & Dining,debit
+2025-12-13,transport,10.0,Transport,debit
+2025-12-14,loan / emi,5222.63,Loan / EMI,debit
+2025-12-17,transport,20.09,Transport,debit
+2025-12-17,subscriptions,723.97,Subscriptions,debit
+2025-12-18,rent & housing,12564.2,Rent & Housing,debit
+2025-12-18,groceries,10.0,Groceries,debit
+2025-12-19,subscriptions,12.86,Subscriptions,debit
+2025-12-19,utilities,276.39,Utilities,debit
+2025-12-20,groceries,863.73,Groceries,debit
+2025-12-20,transport,78.15,Transport,debit
+2025-12-23,transport,10.0,Transport,debit
+2025-12-25,fitness,1050.49,Fitness,debit
+2025-12-26,entertainment,38.12,Entertainment,debit
+2025-12-26,food & dining,20.41,Food & Dining,debit
+2025-12-27,transport,28.55,Transport,debit
+2025-12-28,shopping,56.69,Shopping,debit
+2025-12-29,salary credit,57463.41,Income,credit
+2025-12-30,food & dining,15.47,Food & Dining,debit
+2025-12-31,transport,51.27,Transport,debit
+2025-12-31,utilities,2255.58,Utilities,debit
+2026-01-03,food & dining,27.66,Food & Dining,debit
+2026-01-04,subscriptions,718.48,Subscriptions,debit
+2026-01-05,transport,40.41,Transport,debit
+2026-01-05,groceries,30.69,Groceries,debit
+2026-01-05,shopping,544.34,Shopping,debit
+2026-01-06,food & dining,109.62,Food & Dining,debit
+2026-01-06,healthcare,781.9,Healthcare,debit
+2026-01-07,shopping,814.23,Shopping,debit
+2026-01-07,transport,11.9,Transport,debit
+2026-01-09,groceries,214.91,Groceries,debit
+2026-01-10,shopping,10.0,Shopping,debit
+2026-01-10,subscriptions,18.93,Subscriptions,debit
+2026-01-11,food & dining,17.87,Food & Dining,debit
+2026-01-11,entertainment,885.06,Entertainment,debit
+2026-01-12,groceries,10.0,Groceries,debit
+2026-01-12,insurance,2190.9,Insurance,debit
+2026-01-13,transport,62.28,Transport,debit
+2026-01-13,food & dining,40.56,Food & Dining,debit
+2026-01-14,rent & housing,12641.07,Rent & Housing,debit
+2026-01-14,groceries,193.13,Groceries,debit
+2026-01-15,investments,588.01,Investments,debit
+2026-01-17,transport,81.49,Transport,debit
+2026-01-18,food & dining,44.75,Food & Dining,debit
+2026-01-18,groceries,488.69,Groceries,debit
+2026-01-19,food & dining,116.3,Food & Dining,debit
+2026-01-20,transport,40.32,Transport,debit
+2026-01-20,food & dining,31.29,Food & Dining,debit
+2026-01-21,groceries,1086.7,Groceries,debit
+2026-01-22,transport,27.23,Transport,debit
+2026-01-22,investments,2847.49,Investments,debit
+2026-01-25,entertainment,324.53,Entertainment,debit
+2026-01-25,transport,20.33,Transport,debit
+2026-01-26,education,909.08,Education,debit
+2026-01-26,cash withdrawal,1372.61,Cash Withdrawal,debit
+2026-01-26,loan / emi,5247.13,Loan / EMI,debit
+2026-01-27,food & dining,51.85,Food & Dining,debit
+2026-01-27,fitness,1048.64,Fitness,debit
+2026-01-28,transport,72.5,Transport,debit
+2026-01-29,salary credit,52313.04,Income,credit
+2026-01-29,subscriptions,47.4,Subscriptions,debit
+2026-01-29,groceries,873.79,Groceries,debit
+2026-01-30,shopping,195.81,Shopping,debit
+2026-01-30,food & dining,10.0,Food & Dining,debit
+2026-01-30,transport,90.43,Transport,debit
+2026-02-01,transport,10.0,Transport,debit
+2026-02-02,education,535.36,Education,debit
+2026-02-03,cash withdrawal,430.07,Cash Withdrawal,debit
+2026-02-03,transport,10.0,Transport,debit
+2026-02-04,investments,168.89,Investments,debit
+2026-02-05,groceries,313.48,Groceries,debit
+2026-02-06,transport,38.1,Transport,debit
+2026-02-09,entertainment,796.69,Entertainment,debit
+2026-02-09,food & dining,30.12,Food & Dining,debit
+2026-02-10,investments,3368.93,Investments,debit
+2026-02-11,healthcare,523.15,Healthcare,debit
+2026-02-11,loan / emi,5242.93,Loan / EMI,debit
+2026-02-11,utilities,2217.28,Utilities,debit
+2026-02-12,fitness,1053.06,Fitness,debit
+2026-02-13,food & dining,62.35,Food & Dining,debit
+2026-02-16,food & dining,222.03,Food & Dining,debit
+2026-02-16,shopping,614.7,Shopping,debit
+2026-02-17,insurance,2203.91,Insurance,debit
+2026-02-18,transport,92.31,Transport,debit
+2026-02-19,groceries,523.73,Groceries,debit
+2026-02-19,rent & housing,12693.3,Rent & Housing,debit
+2026-02-19,food & dining,10.0,Food & Dining,debit
+2026-02-19,shopping,484.06,Shopping,debit
+2026-02-20,food & dining,124.97,Food & Dining,debit
+2026-02-20,transport,50.71,Transport,debit
+2026-02-20,groceries,40.1,Groceries,debit
+2026-02-22,subscriptions,368.52,Subscriptions,debit
+2026-02-22,food & dining,24.8,Food & Dining,debit
+2026-02-23,subscriptions,327.74,Subscriptions,debit
+2026-02-23,food & dining,12.37,Food & Dining,debit
+2026-02-24,cash withdrawal,680.12,Cash Withdrawal,debit
+2026-02-28,fitness,1076.08,Fitness,debit
+2026-02-28,food & dining,18.77,Food & Dining,debit
+2026-03-01,salary credit,58465.55,Income,credit
+2026-03-01,food & dining,34.85,Food & Dining,debit
+2026-03-01,groceries,534.46,Groceries,debit
+2026-03-01,gifts & charity,1191.68,Gifts & Charity,debit
+2026-03-04,groceries,29.17,Groceries,debit
+2026-03-05,rent & housing,12719.03,Rent & Housing,debit
+2026-03-05,healthcare,748.05,Healthcare,debit
+2026-03-05,shopping,937.95,Shopping,debit
+2026-03-10,transport,37.29,Transport,debit
+2026-03-11,transport,29.65,Transport,debit
+2026-03-11,food & dining,11.46,Food & Dining,debit
+2026-03-11,subscriptions,145.08,Subscriptions,debit
+2026-03-12,transport,44.41,Transport,debit
+2026-03-14,utilities,1288.1,Utilities,debit
+2026-03-14,investments,3152.23,Investments,debit
+2026-03-15,transport,10.0,Transport,debit
+2026-03-15,groceries,548.29,Groceries,debit
+2026-03-16,education,539.9,Education,debit
+2026-03-16,loan / emi,5235.09,Loan / EMI,debit
+2026-03-16,groceries,83.7,Groceries,debit
+2026-03-17,transport,131.33,Transport,debit
+2026-03-18,shopping,167.46,Shopping,debit
+2026-03-21,entertainment,732.24,Entertainment,debit
+2026-03-21,groceries,292.85,Groceries,debit
+2026-03-21,food & dining,20.59,Food & Dining,debit
+2026-03-21,cash withdrawal,1284.68,Cash Withdrawal,debit
+2026-03-22,insurance,2202.54,Insurance,debit
+2026-03-22,groceries,163.04,Groceries,debit
+2026-03-23,food & dining,201.0,Food & Dining,debit
+2026-03-23,shopping,128.34,Shopping,debit
+2026-03-23,subscriptions,287.05,Subscriptions,debit
+2026-03-25,food & dining,78.27,Food & Dining,debit
+2026-03-26,transport,20.02,Transport,debit
+2026-03-26,utilities,1007.94,Utilities,debit
+2026-03-27,subscriptions,316.66,Subscriptions,debit
+2026-03-27,food & dining,108.98,Food & Dining,debit
+2026-03-27,transport,18.87,Transport,debit

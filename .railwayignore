@@ -1,0 +1,12 @@
+.venv/
+env/
+node_modules/
+__pycache__/
+*.pyc
+*.csv
+*.xlsx
+*.pkl
+.ipynb_checkpoints/
+.git/
+dist/
+build/

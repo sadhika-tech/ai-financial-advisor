@@ -1,0 +1,2001 @@
+date,description,amount,category,txn_type
+2023-01-01,spotify,2218.37,Entertainment,debit
+2023-01-01,metro,2154.9,Transport,debit
+2023-01-01,uber,2316.99,Transport,debit
+2023-01-01,uber,3985.82,Transport,debit
+2023-01-01,fresh mart,2318.7,Groceries,debit
+2023-01-02,clothing store,3243.18,Shopping,debit
+2023-01-03,water bill,4941.69,Utilities,debit
+2023-01-03,internet bill,4620.42,Utilities,debit
+2023-01-03,pharmacy,995.7,Health,debit
+2023-01-03,fuel,2455.49,Transport,debit
+2023-01-03,fresh mart,3219.95,Groceries,debit
+2023-01-04,doctor visit,3512.66,Health,debit
+2023-01-04,metro,4328.49,Transport,debit
+2023-01-04,mobile recharge,2426.68,Utilities,debit
+2023-01-04,movie,1993.47,Entertainment,debit
+2023-01-04,cafe,4821.16,Food,debit
+2023-01-04,uber,3031.34,Transport,debit
+2023-01-05,fuel,4219.86,Transport,debit
+2023-01-05,bus ticket,1817.0,Transport,debit
+2023-01-05,water bill,389.26,Utilities,debit
+2023-01-06,bonus,76229.61,Income,credit
+2023-01-06,local store,1687.1,Groceries,debit
+2023-01-06,electronics,308.58,Shopping,debit
+2023-01-06,flipkart,2839.76,Shopping,debit
+2023-01-06,internet bill,356.24,Utilities,debit
+2023-01-07,fresh mart,2989.65,Groceries,debit
+2023-01-07,grocery bazaar,4073.66,Groceries,debit
+2023-01-07,fresh mart,4956.12,Groceries,debit
+2023-01-07,bonus,78593.03,Income,credit
+2023-01-07,local store,3320.87,Groceries,debit
+2023-01-07,supermarket,4997.06,Groceries,debit
+2023-01-07,grocery bazaar,4779.02,Groceries,debit
+2023-01-07,grocery bazaar,3838.95,Groceries,debit
+2023-01-08,grocery bazaar,77.27,Groceries,debit
+2023-01-08,gaming,763.29,Entertainment,debit
+2023-01-08,flipkart,4442.93,Shopping,debit
+2023-01-08,doctor visit,4054.35,Health,debit
+2023-01-08,mobile recharge,4246.88,Utilities,debit
+2023-01-08,local store,451.24,Groceries,debit
+2023-01-09,zomato,2171.66,Food,debit
+2023-01-09,uber,1051.73,Transport,debit
+2023-01-09,supermarket,350.35,Groceries,debit
+2023-01-09,fresh mart,2610.93,Groceries,debit
+2023-01-09,gaming,3625.26,Entertainment,debit
+2023-01-09,local store,1431.44,Groceries,debit
+2023-01-09,flipkart,3650.01,Shopping,debit
+2023-01-09,netflix,4282.6,Entertainment,debit
+2023-01-09,restaurant,1503.26,Food,debit
+2023-01-10,supermarket,1355.8,Groceries,debit
+2023-01-10,bus ticket,3163.42,Transport,debit
+2023-01-10,swiggy,221.26,Food,debit
+2023-01-10,fuel,1829.75,Transport,debit
+2023-01-11,fresh mart,1207.84,Groceries,debit
+2023-01-11,amazon,3647.66,Shopping,debit
+2023-01-11,fresh mart,4886.93,Groceries,debit
+2023-01-11,local store,3090.36,Groceries,debit
+2023-01-11,movie,392.62,Entertainment,debit
+2023-01-11,supermarket,1401.59,Groceries,debit
+2023-01-11,spotify,4291.43,Entertainment,debit
+2023-01-11,amazon,467.58,Shopping,debit
+2023-01-11,restaurant,845.39,Food,debit
+2023-01-11,bus ticket,4587.88,Transport,debit
+2023-01-11,movie,317.64,Entertainment,debit
+2023-01-12,netflix,2712.7,Entertainment,debit
+2023-01-12,pharmacy,190.04,Health,debit
+2023-01-13,swiggy,3436.92,Food,debit
+2023-01-13,fuel,1913.33,Transport,debit
+2023-01-13,fresh mart,525.3,Groceries,debit
+2023-01-13,swiggy,1566.57,Food,debit
+2023-01-13,fresh mart,3611.21,Groceries,debit
+2023-01-14,water bill,113.41,Utilities,debit
+2023-01-14,amazon,3443.37,Shopping,debit
+2023-01-14,mobile recharge,2986.65,Utilities,debit
+2023-01-14,bus ticket,4498.11,Transport,debit
+2023-01-14,uber,1954.75,Transport,debit
+2023-01-15,uber,4052.77,Transport,debit
+2023-01-15,local store,3949.96,Groceries,debit
+2023-01-15,gym membership,1642.04,Health,debit
+2023-01-16,zomato,1450.98,Food,debit
+2023-01-16,cafe,3206.63,Food,debit
+2023-01-16,bonus,61909.13,Income,credit
+2023-01-16,internet bill,4323.75,Utilities,debit
+2023-01-16,cafe,4465.45,Food,debit
+2023-01-16,uber,4627.56,Transport,debit
+2023-01-17,restaurant,3246.2,Food,debit
+2023-01-17,electricity bill,2535.52,Utilities,debit
+2023-01-18,internet bill,1008.05,Utilities,debit
+2023-01-18,mobile recharge,220.23,Utilities,debit
+2023-01-18,grocery bazaar,1709.55,Groceries,debit
+2023-01-19,bus ticket,2769.75,Transport,debit
+2023-01-19,grocery bazaar,2416.02,Groceries,debit
+2023-01-19,electricity bill,2012.25,Utilities,debit
+2023-01-19,movie,3740.34,Entertainment,debit
+2023-01-19,movie,2255.06,Entertainment,debit
+2023-01-19,spotify,1878.15,Entertainment,debit
+2023-01-19,cafe,2294.44,Food,debit
+2023-01-20,fuel,4439.49,Transport,debit
+2023-01-20,electricity bill,376.09,Utilities,debit
+2023-01-20,local store,4988.87,Groceries,debit
+2023-01-20,metro,2966.05,Transport,debit
+2023-01-20,gym membership,4811.52,Health,debit
+2023-01-21,supermarket,1317.43,Groceries,debit
+2023-01-21,zomato,2971.77,Food,debit
+2023-01-21,electronics,182.18,Shopping,debit
+2023-01-21,electronics,1740.69,Shopping,debit
+2023-01-21,doctor visit,2798.79,Health,debit
+2023-01-21,fresh mart,3659.73,Groceries,debit
+2023-01-21,local store,1322.74,Groceries,debit
+2023-01-22,local store,1766.82,Groceries,debit
+2023-01-22,fuel,1617.55,Transport,debit
+2023-01-22,zomato,4372.8,Food,debit
+2023-01-22,doctor visit,1764.6,Health,debit
+2023-01-22,swiggy,3780.19,Food,debit
+2023-01-22,internet bill,3461.31,Utilities,debit
+2023-01-22,swiggy,1295.82,Food,debit
+2023-01-23,uber,2070.89,Transport,debit
+2023-01-23,zomato,4823.19,Food,debit
+2023-01-23,amazon,395.46,Shopping,debit
+2023-01-23,internet bill,2195.99,Utilities,debit
+2023-01-23,fresh mart,2123.77,Groceries,debit
+2023-01-23,electronics,1560.95,Shopping,debit
+2023-01-24,freelance payment,27626.29,Income,credit
+2023-01-24,swiggy,3936.47,Food,debit
+2023-01-24,netflix,1606.14,Entertainment,debit
+2023-01-24,water bill,3150.81,Utilities,debit
+2023-01-24,electronics,1221.23,Shopping,debit
+2023-01-24,zomato,4675.31,Food & Dining,debit
+2023-01-24,electricity bill,2656.82,Utilities,debit
+2023-01-24,metro,1964.42,Transport,debit
+2023-01-25,freelance payment,67787.24,Income,credit
+2023-01-25,fresh mart,4609.68,Groceries,debit
+2023-01-25,doctor visit,3444.71,Health,debit
+2023-01-25,electronics,4435.7,Shopping,debit
+2023-01-25,fresh mart,2076.22,Groceries,debit
+2023-01-25,flipkart,233.4,Shopping,debit
+2023-01-25,pharmacy,4362.45,Health,debit
+2023-01-25,bus ticket,4264.57,Transport,debit
+2023-01-26,grocery bazaar,887.31,Groceries,debit
+2023-01-26,bonus,13834.75,Income,credit
+2023-01-26,internet bill,4433.91,Utilities,debit
+2023-01-26,electronics,3597.42,Shopping,debit
+2023-01-26,electricity bill,1209.03,Utilities,debit
+2023-01-26,bonus,79163.52,Income,credit
+2023-01-27,swiggy,1389.01,Food,debit
+2023-01-27,movie,4074.31,Entertainment,debit
+2023-01-27,internet bill,970.86,Utilities,debit
+2023-01-27,supermarket,4110.76,Groceries,debit
+2023-01-27,water bill,4813.74,Utilities,debit
+2023-01-27,internet bill,1748.05,Utilities,debit
+2023-01-27,mobile recharge,4424.22,Utilities,debit
+2023-01-27,bus ticket,4040.24,Transport,debit
+2023-01-28,salary,16359.2,Income,credit
+2023-01-28,zomato,837.49,Food,debit
+2023-01-28,salary,43343.09,Income,credit
+2023-01-28,metro,458.48,Transport,debit
+2023-01-28,salary,60049.67,Income,credit
+2023-01-28,internet bill,1085.91,Utilities,debit
+2023-01-28,cafe,2591.5,Food,debit
+2023-01-28,salary,68810.04,Income,credit
+2023-01-28,fuel,2612.45,Transport,debit
+2023-01-28,salary,70442.67,Income,credit
+2023-01-28,salary,37375.2,Income,credit
+2023-01-29,supermarket,3038.35,Groceries,debit
+2023-01-29,zomato,1189.42,Food,debit
+2023-01-30,supermarket,4979.44,Groceries,debit
+2023-01-30,mobile recharge,1717.03,Utilities,debit
+2023-01-30,flipkart,2322.0,Shopping,debit
+2023-01-30,internet bill,4291.65,Utilities,debit
+2023-01-30,local store,3329.66,Groceries,debit
+2023-01-31,movie,3183.97,Entertainment,debit
+2023-01-31,amazon,1123.71,Shopping,debit
+2023-01-31,freelance payment,49858.71,Income,credit
+2023-01-31,grocery bazaar,4685.87,Groceries,debit
+2023-01-31,mobile recharge,617.13,Utilities,debit
+2023-02-01,restaurant,719.59,Food,debit
+2023-02-01,zomato,1719.48,Food,debit
+2023-02-01,mobile recharge,2620.33,Utilities,debit
+2023-02-01,fresh mart,4139.1,Groceries,debit
+2023-02-01,amazon,3031.6,Shopping,debit
+2023-02-01,zomato,2443.21,Food,debit
+2023-02-01,clothing store,400.18,Shopping,debit
+2023-02-01,fresh mart,491.73,Groceries,debit
+2023-02-02,mobile recharge,2355.22,Utilities,debit
+2023-02-02,local store,4336.32,Groceries,debit
+2023-02-02,mobile recharge,2306.7,Utilities,debit
+2023-02-02,amazon,1877.56,Shopping,debit
+2023-02-02,flipkart,4677.38,Shopping,debit
+2023-02-02,grocery bazaar,1474.83,Groceries,debit
+2023-02-03,fresh mart,931.4,Groceries,debit
+2023-02-03,supermarket,2842.78,Groceries,debit
+2023-02-03,cafe,146.74,Food,debit
+2023-02-04,local store,4867.5,Groceries,debit
+2023-02-04,fresh mart,95.35,Groceries,debit
+2023-02-04,swiggy,3976.34,Food,debit
+2023-02-04,electronics,452.92,Shopping,debit
+2023-02-05,internet bill,4300.44,Utilities,debit
+2023-02-05,gym membership,1542.85,Health,debit
+2023-02-05,freelance payment,42299.42,Income,credit
+2023-02-05,grocery bazaar,1560.83,Groceries,debit
+2023-02-05,flipkart,2023.93,Shopping,debit
+2023-02-05,mobile recharge,1676.45,Utilities,debit
+2023-02-05,gaming,506.56,Entertainment,debit
+2023-02-05,flipkart,3568.01,Shopping,debit
+2023-02-05,zomato,4834.12,Food,debit
+2023-02-06,swiggy,479.09,Food,debit
+2023-02-06,local store,257.41,Groceries,debit
+2023-02-06,metro,4963.25,Transport,debit
+2023-02-06,movie,4698.38,Entertainment,debit
+2023-02-06,flipkart,2013.95,Shopping,debit
+2023-02-06,freelance payment,49575.14,Income,credit
+2023-02-06,local store,2117.17,Groceries,debit
+2023-02-06,netflix,2039.99,Entertainment,debit
+2023-02-07,water bill,3828.45,Utilities,debit
+2023-02-07,clothing store,1109.47,Shopping,debit
+2023-02-07,supermarket,2998.56,Groceries,debit
+2023-02-07,spotify,468.66,Entertainment,debit
+2023-02-07,fuel,3249.23,Transport,debit
+2023-02-07,water bill,4288.33,Utilities,debit
+2023-02-07,swiggy,4772.53,Food,debit
+2023-02-07,amazon,3780.77,Shopping,debit
+2023-02-07,freelance payment,73814.78,Income,credit
+2023-02-08,zomato,4417.32,Food,debit
+2023-02-08,zomato,2167.4,Food,debit
+2023-02-08,gym membership,3909.5,Health,debit
+2023-02-09,internet bill,3482.76,Utilities,debit
+2023-02-09,cafe,1572.96,Food,debit
+2023-02-09,metro,2713.2,Transport,debit
+2023-02-09,fuel,193.94,Transport,debit
+2023-02-10,movie,897.93,Entertainment,debit
+2023-02-10,cafe,1216.11,Food,debit
+2023-02-10,internet bill,2666.16,Utilities,debit
+2023-02-10,electronics,1020.11,Shopping,debit
+2023-02-10,swiggy,4192.58,Food,debit
+2023-02-10,electronics,4300.31,Shopping,debit
+2023-02-10,grocery bazaar,1042.55,Groceries,debit
+2023-02-11,bonus,36398.37,Income,credit
+2023-02-11,fresh mart,2219.55,Groceries,debit
+2023-02-11,bonus,10761.89,Income,credit
+2023-02-11,electricity bill,591.38,Utilities,debit
+2023-02-11,metro,2052.93,Transport,debit
+2023-02-12,mobile recharge,1704.24,Utilities,debit
+2023-02-12,local store,3318.19,Groceries,debit
+2023-02-12,pharmacy,1761.06,Health,debit
+2023-02-12,water bill,4741.6,Utilities,debit
+2023-02-12,flipkart,584.15,Shopping,debit
+2023-02-13,swiggy,3474.61,Food,debit
+2023-02-13,restaurant,142.38,Food,debit
+2023-02-13,cafe,4349.54,Food,debit
+2023-02-13,bus ticket,3267.7,Transport,debit
+2023-02-13,zomato,2060.64,Food,debit
+2023-02-13,electronics,379.94,Shopping,debit
+2023-02-13,water bill,4115.46,Utilities,debit
+2023-02-14,internet bill,4188.51,Utilities,debit
+2023-02-14,uber,2477.2,Transport,debit
+2023-02-14,amazon,2163.25,Shopping,debit
+2023-02-14,restaurant,4235.49,Food,debit
+2023-02-14,movie,4532.33,Entertainment,debit
+2023-02-14,water bill,1191.35,Utilities,debit
+2023-02-15,swiggy,4025.75,Food,debit
+2023-02-15,restaurant,4957.21,Food,debit
+2023-02-16,restaurant,4837.56,Food,debit
+2023-02-16,pharmacy,1089.66,Health,debit
+2023-02-16,cafe,3798.34,Food,debit
+2023-02-16,water bill,2060.06,Utilities,debit
+2023-02-16,amazon,3865.11,Shopping,debit
+2023-02-16,fuel,404.97,Transport,debit
+2023-02-16,internet bill,1733.56,Utilities,debit
+2023-02-17,fuel,2210.96,Transport,debit
+2023-02-17,fresh mart,1602.55,Groceries,debit
+2023-02-17,pharmacy,2679.1,Health,debit
+2023-02-17,supermarket,1703.32,Groceries,debit
+2023-02-17,grocery bazaar,1582.16,Groceries,debit
+2023-02-17,cafe,3776.83,Food,debit
+2023-02-17,zomato,789.11,Food,debit
+2023-02-17,water bill,1090.69,Utilities,debit
+2023-02-18,local store,3825.82,Groceries,debit
+2023-02-18,doctor visit,251.96,Health,debit
+2023-02-18,bus ticket,2457.54,Transport,debit
+2023-02-18,bus ticket,1874.69,Transport,debit
+2023-02-19,swiggy,3374.62,Food,debit
+2023-02-19,zomato,1450.28,Food,debit
+2023-02-19,mobile recharge,3981.34,Utilities,debit
+2023-02-19,internet bill,1006.25,Utilities,debit
+2023-02-20,flipkart,340.79,Shopping,debit
+2023-02-20,electronics,3763.96,Shopping,debit
+2023-02-20,supermarket,4818.46,Groceries,debit
+2023-02-20,cafe,758.99,Food,debit
+2023-02-20,swiggy,1573.28,Food,debit
+2023-02-20,restaurant,3465.93,Food,debit
+2023-02-20,doctor visit,2445.03,Health,debit
+2023-02-21,gaming,3767.37,Entertainment,debit
+2023-02-21,metro,1019.08,Transport,debit
+2023-02-21,zomato,1459.97,Food,debit
+2023-02-22,water bill,884.77,Utilities,debit
+2023-02-22,pharmacy,1430.29,Health,debit
+2023-02-22,amazon,4736.03,Shopping,debit
+2023-02-22,water bill,3769.68,Utilities,debit
+2023-02-22,local store,4574.03,Groceries,debit
+2023-02-22,uber,3919.56,Transport,debit
+2023-02-22,restaurant,4878.94,Food,debit
+2023-02-22,zomato,1883.41,Food,debit
+2023-02-23,freelance payment,39015.81,Income,credit
+2023-02-23,local store,3052.99,Groceries,debit
+2023-02-23,netflix,4091.61,Entertainment,debit
+2023-02-23,swiggy,1486.89,Food,debit
+2023-02-23,local store,3549.02,Groceries,debit
+2023-02-24,cafe,2005.97,Food,debit
+2023-02-24,local store,722.68,Groceries,debit
+2023-02-24,metro,2715.71,Transport,debit
+2023-02-24,electricity bill,2393.69,Utilities,debit
+2023-02-24,fuel,1880.88,Transport,debit
+2023-02-24,amazon,2342.93,Shopping,debit
+2023-02-24,mobile recharge,198.36,Utilities,debit
+2023-02-25,grocery bazaar,2887.71,Groceries,debit
+2023-02-25,bonus,69026.25,Income,credit
+2023-02-25,movie,1209.61,Entertainment,debit
+2023-02-25,cafe,3976.69,Food,debit
+2023-02-26,grocery bazaar,224.95,Groceries,debit
+2023-02-26,amazon,271.17,Shopping,debit
+2023-02-26,cafe,3240.89,Food,debit
+2023-02-26,bus ticket,4231.12,Transport,debit
+2023-02-26,movie,263.12,Entertainment,debit
+2023-02-26,fuel,730.59,Transport,debit
+2023-02-26,pharmacy,623.74,Health,debit
+2023-02-26,grocery bazaar,2990.39,Groceries,debit
+2023-02-27,mobile recharge,3222.9,Utilities,debit
+2023-02-27,zomato,1374.31,Food,debit
+2023-02-27,zomato,4963.53,Food,debit
+2023-02-27,fuel,1206.18,Transport,debit
+2023-02-27,supermarket,4211.58,Groceries,debit
+2023-02-27,bus ticket,4740.08,Transport,debit
+2023-02-28,local store,4249.19,Groceries,debit
+2023-02-28,electricity bill,2512.24,Utilities,debit
+2023-02-28,flipkart,2180.05,Shopping,debit
+2023-02-28,clothing store,4544.92,Shopping,debit
+2023-02-28,salary,36801.33,Income,credit
+2023-02-28,swiggy,997.22,Food,debit
+2023-02-28,swiggy,128.79,Food,debit
+2023-03-01,gym membership,2234.15,Health,debit
+2023-03-01,supermarket,3979.38,Groceries,debit
+2023-03-01,freelance payment,16094.75,Income,credit
+2023-03-01,spotify,151.83,Entertainment,debit
+2023-03-01,supermarket,2872.86,Groceries,debit
+2023-03-02,flipkart,2022.86,Shopping,debit
+2023-03-02,netflix,2478.05,Entertainment,debit
+2023-03-02,spotify,74.17,Entertainment,debit
+2023-03-02,amazon,2399.3,Shopping,debit
+2023-03-02,uber,1857.56,Transport,debit
+2023-03-02,spotify,4889.82,Entertainment,debit
+2023-03-02,zomato,1916.65,Food,debit
+2023-03-02,cafe,4400.54,Food,debit
+2023-03-02,clothing store,4911.06,Shopping,debit
+2023-03-02,grocery bazaar,2111.16,Groceries,debit
+2023-03-02,netflix,4374.45,Entertainment,debit
+2023-03-02,restaurant,703.88,Food,debit
+2023-03-02,bonus,13459.06,Income,credit
+2023-03-03,fresh mart,638.15,Groceries,debit
+2023-03-03,grocery bazaar,3600.38,Groceries,debit
+2023-03-03,gaming,302.15,Entertainment,debit
+2023-03-03,grocery bazaar,787.56,Groceries,debit
+2023-03-03,restaurant,1547.21,Food,debit
+2023-03-03,electronics,3210.76,Shopping,debit
+2023-03-04,mobile recharge,4480.83,Utilities,debit
+2023-03-04,gaming,1613.18,Entertainment,debit
+2023-03-04,grocery bazaar,3886.18,Groceries,debit
+2023-03-04,clothing store,3405.11,Shopping,debit
+2023-03-04,bus ticket,134.19,Transport,debit
+2023-03-04,electronics,3392.48,Shopping,debit
+2023-03-04,spotify,4954.8,Entertainment,debit
+2023-03-04,metro,4111.32,Transport,debit
+2023-03-04,bonus,36093.53,Income,credit
+2023-03-05,gaming,1168.8,Entertainment,debit
+2023-03-05,gaming,2681.74,Entertainment,debit
+2023-03-05,restaurant,4026.3,Food,debit
+2023-03-05,restaurant,3998.55,Food,debit
+2023-03-05,bus ticket,4418.36,Transport,debit
+2023-03-05,clothing store,2391.94,Shopping,debit
+2023-03-06,amazon,2406.7,Shopping,debit
+2023-03-06,restaurant,3370.01,Food,debit
+2023-03-06,zomato,1194.03,Food,debit
+2023-03-06,electronics,4035.15,Shopping,debit
+2023-03-06,metro,1467.61,Transport,debit
+2023-03-06,freelance payment,62847.02,Income,credit
+2023-03-07,amazon,2013.0,Shopping,debit
+2023-03-07,amazon,1688.85,Shopping,debit
+2023-03-07,flipkart,1692.1,Shopping,debit
+2023-03-07,zomato,1873.07,Food,debit
+2023-03-07,electricity bill,432.84,Utilities,debit
+2023-03-07,movie,2125.03,Entertainment,debit
+2023-03-07,restaurant,2312.82,Food,debit
+2023-03-08,fresh mart,232.97,Groceries,debit
+2023-03-08,amazon,2962.69,Shopping,debit
+2023-03-08,flipkart,2794.03,Shopping,debit
+2023-03-08,gaming,3185.86,Entertainment,debit
+2023-03-08,zomato,4505.87,Food,debit
+2023-03-08,clothing store,3982.67,Shopping,debit
+2023-03-09,restaurant,1723.06,Food,debit
+2023-03-09,amazon,125.9,Shopping,debit
+2023-03-09,grocery bazaar,2401.61,Groceries,debit
+2023-03-10,grocery bazaar,2839.05,Groceries,debit
+2023-03-10,bonus,72501.52,Income,credit
+2023-03-10,metro,1035.88,Transport,debit
+2023-03-10,gym membership,682.45,Health,debit
+2023-03-10,fresh mart,2636.73,Groceries,debit
+2023-03-11,fuel,657.76,Transport,debit
+2023-03-11,clothing store,215.99,Shopping,debit
+2023-03-11,cafe,4902.43,Food,debit
+2023-03-11,netflix,4239.35,Entertainment,debit
+2023-03-11,gaming,2351.1,Entertainment,debit
+2023-03-12,cafe,4301.91,Food,debit
+2023-03-12,internet bill,4255.23,Utilities,debit
+2023-03-12,swiggy,2509.18,Food,debit
+2023-03-12,uber,4084.04,Transport,debit
+2023-03-12,mobile recharge,2194.96,Utilities,debit
+2023-03-12,zomato,640.95,Food,debit
+2023-03-12,supermarket,4034.49,Groceries,debit
+2023-03-12,water bill,2205.62,Utilities,debit
+2023-03-12,clothing store,715.66,Shopping,debit
+2023-03-13,metro,3933.89,Transport,debit
+2023-03-13,mobile recharge,1021.49,Utilities,debit
+2023-03-13,fresh mart,4940.01,Groceries,debit
+2023-03-13,fuel,2851.64,Transport,debit
+2023-03-13,local store,695.9,Groceries,debit
+2023-03-14,bus ticket,4788.31,Transport,debit
+2023-03-14,doctor visit,3050.23,Health,debit
+2023-03-14,clothing store,3391.27,Shopping,debit
+2023-03-14,swiggy,3326.77,Food,debit
+2023-03-14,zomato,969.43,Food,debit
+2023-03-15,swiggy,214.07,Food,debit
+2023-03-15,electricity bill,4042.2,Utilities,debit
+2023-03-16,cafe,2294.0,Food,debit
+2023-03-16,water bill,4084.54,Utilities,debit
+2023-03-16,doctor visit,4931.89,Health,debit
+2023-03-16,local store,1432.66,Groceries,debit
+2023-03-16,bus ticket,1166.57,Transport,debit
+2023-03-16,freelance payment,25005.95,Income,credit
+2023-03-17,electronics,638.93,Shopping,debit
+2023-03-17,pharmacy,4830.68,Health,debit
+2023-03-17,freelance payment,16504.26,Income,credit
+2023-03-17,movie,865.79,Entertainment,debit
+2023-03-17,internet bill,2404.48,Utilities,debit
+2023-03-18,clothing store,2534.0,Shopping,debit
+2023-03-18,restaurant,1896.92,Food,debit
+2023-03-18,electronics,3018.12,Shopping,debit
+2023-03-18,cafe,967.1,Food,debit
+2023-03-18,flipkart,4031.44,Shopping,debit
+2023-03-18,water bill,3437.57,Utilities,debit
+2023-03-18,internet bill,4007.46,Utilities,debit
+2023-03-19,movie,3614.96,Entertainment,debit
+2023-03-19,bus ticket,4458.2,Transport,debit
+2023-03-19,clothing store,3693.87,Shopping,debit
+2023-03-19,clothing store,2346.88,Shopping,debit
+2023-03-19,gaming,997.02,Entertainment,debit
+2023-03-19,swiggy,2680.68,Food,debit
+2023-03-19,electronics,3792.28,Shopping,debit
+2023-03-19,local store,1166.81,Groceries,debit
+2023-03-19,fresh mart,2236.28,Groceries,debit
+2023-03-20,netflix,2230.49,Entertainment,debit
+2023-03-20,flipkart,915.31,Shopping,debit
+2023-03-20,local store,2179.56,Groceries,debit
+2023-03-20,uber,2340.27,Transport,debit
+2023-03-21,spotify,407.26,Entertainment,debit
+2023-03-21,bus ticket,965.79,Transport,debit
+2023-03-21,electronics,4928.49,Shopping,debit
+2023-03-21,doctor visit,2408.67,Health,debit
+2023-03-21,electricity bill,3355.04,Utilities,debit
+2023-03-21,clothing store,1003.86,Shopping,debit
+2023-03-22,bus ticket,1250.58,Transport,debit
+2023-03-22,restaurant,4606.18,Food,debit
+2023-03-22,local store,2439.49,Groceries,debit
+2023-03-22,freelance payment,64431.18,Income,credit
+2023-03-22,grocery bazaar,3822.48,Groceries,debit
+2023-03-22,internet bill,1879.36,Utilities,debit
+2023-03-23,swiggy,3365.08,Food,debit
+2023-03-23,supermarket,4521.32,Groceries,debit
+2023-03-23,bonus,64883.59,Income,credit
+2023-03-23,electricity bill,3814.76,Utilities,debit
+2023-03-23,fresh mart,3264.39,Groceries,debit
+2023-03-23,supermarket,3748.95,Groceries,debit
+2023-03-24,local store,4756.7,Groceries,debit
+2023-03-24,zomato,1733.03,Food,debit
+2023-03-24,spotify,4527.79,Entertainment,debit
+2023-03-24,gym membership,3170.84,Health,debit
+2023-03-24,internet bill,1149.87,Utilities,debit
+2023-03-25,flipkart,4189.11,Shopping,debit
+2023-03-25,swiggy,2392.37,Food,debit
+2023-03-25,grocery bazaar,2916.62,Groceries,debit
+2023-03-25,water bill,4240.4,Utilities,debit
+2023-03-25,grocery bazaar,1530.94,Groceries,debit
+2023-03-26,movie,2164.01,Entertainment,debit
+2023-03-26,mobile recharge,1913.57,Utilities,debit
+2023-03-26,spotify,161.52,Entertainment,debit
+2023-03-26,freelance payment,70842.28,Income,credit
+2023-03-26,uber,3330.1,Transport,debit
+2023-03-26,swiggy,4902.36,Food,debit
+2023-03-27,metro,2198.66,Transport,debit
+2023-03-27,gym membership,4350.88,Health,debit
+2023-03-27,fresh mart,328.94,Groceries,debit
+2023-03-27,restaurant,3619.81,Food,debit
+2023-03-27,clothing store,4307.0,Shopping,debit
+2023-03-27,internet bill,2761.86,Utilities,debit
+2023-03-27,grocery bazaar,1286.21,Groceries,debit
+2023-03-28,salary,25000.1,Income,credit
+2023-03-28,bonus,71888.88,Income,credit
+2023-03-28,zomato,4297.22,Food,debit
+2023-03-28,salary,33426.43,Income,credit
+2023-03-28,local store,3044.01,Groceries,debit
+2023-03-28,electronics,4718.95,Shopping,debit
+2023-03-28,restaurant,1711.04,Food,debit
+2023-03-28,netflix,2325.58,Entertainment,debit
+2023-03-28,supermarket,4535.8,Groceries,debit
+2023-03-28,freelance payment,19064.07,Income,credit
+2023-03-29,flipkart,2809.22,Shopping,debit
+2023-03-29,uber,1904.47,Transport,debit
+2023-03-29,supermarket,664.54,Groceries,debit
+2023-03-29,swiggy,359.45,Food,debit
+2023-03-29,grocery bazaar,3340.49,Groceries,debit
+2023-03-30,local store,1907.03,Groceries,debit
+2023-03-30,grocery bazaar,497.17,Groceries,debit
+2023-03-30,electronics,4453.64,Shopping,debit
+2023-03-30,zomato,3965.82,Food,debit
+2023-03-30,gaming,75.65,Entertainment,debit
+2023-03-30,swiggy,3204.28,Food,debit
+2023-03-31,clothing store,3128.56,Shopping,debit
+2023-03-31,uber,2038.12,Transport,debit
+2023-03-31,swiggy,4212.75,Food,debit
+2023-03-31,fuel,614.79,Transport,debit
+2023-03-31,fresh mart,4173.88,Groceries,debit
+2023-03-31,cafe,4355.94,Food,debit
+2023-03-31,freelance payment,18082.08,Income,credit
+2023-03-31,supermarket,118.13,Groceries,debit
+2023-04-01,gaming,4499.48,Entertainment,debit
+2023-04-01,freelance payment,46082.63,Income,credit
+2023-04-01,bus ticket,2735.06,Transport,debit
+2023-04-01,clothing store,1085.22,Shopping,debit
+2023-04-02,bonus,66262.81,Income,credit
+2023-04-02,mobile recharge,1791.4,Utilities,debit
+2023-04-02,grocery bazaar,3579.23,Groceries,debit
+2023-04-02,electronics,588.31,Shopping,debit
+2023-04-02,restaurant,3160.23,Food,debit
+2023-04-02,grocery bazaar,3499.62,Groceries,debit
+2023-04-02,water bill,3657.57,Utilities,debit
+2023-04-03,doctor visit,4134.62,Health,debit
+2023-04-03,doctor visit,3231.18,Health,debit
+2023-04-03,freelance payment,29174.32,Income,credit
+2023-04-03,fresh mart,1426.31,Groceries,debit
+2023-04-03,bus ticket,720.67,Transport,debit
+2023-04-04,grocery bazaar,2186.5,Groceries,debit
+2023-04-04,fresh mart,1365.3,Groceries,debit
+2023-04-04,local store,1006.89,Groceries,debit
+2023-04-04,zomato,3411.28,Food,debit
+2023-04-04,local store,1490.52,Groceries,debit
+2023-04-05,fuel,4110.41,Transport,debit
+2023-04-05,electricity bill,4606.41,Utilities,debit
+2023-04-05,local store,2928.49,Groceries,debit
+2023-04-06,bonus,45612.91,Income,credit
+2023-04-06,grocery bazaar,2898.89,Groceries,debit
+2023-04-07,freelance payment,69128.09,Income,credit
+2023-04-07,swiggy,1618.06,Food,debit
+2023-04-07,electricity bill,405.36,Utilities,debit
+2023-04-07,doctor visit,708.78,Health,debit
+2023-04-08,gym membership,4706.88,Health,debit
+2023-04-08,clothing store,3906.95,Shopping,debit
+2023-04-08,movie,3755.16,Entertainment,debit
+2023-04-08,bus ticket,279.51,Transport,debit
+2023-04-09,movie,3883.81,Entertainment,debit
+2023-04-09,metro,3147.78,Transport,debit
+2023-04-09,netflix,1690.98,Entertainment,debit
+2023-04-09,pharmacy,4330.18,Health,debit
+2023-04-10,electronics,4941.21,Shopping,debit
+2023-04-10,amazon,2172.28,Shopping,debit
+2023-04-10,amazon,4662.0,Shopping,debit
+2023-04-10,grocery bazaar,4686.28,Groceries,debit
+2023-04-10,metro,4981.22,Transport,debit
+2023-04-11,electronics,638.37,Shopping,debit
+2023-04-11,cafe,388.75,Food,debit
+2023-04-11,fresh mart,637.11,Groceries,debit
+2023-04-11,electricity bill,4062.16,Utilities,debit
+2023-04-11,spotify,1671.18,Entertainment,debit
+2023-04-11,electricity bill,2231.71,Utilities,debit
+2023-04-12,metro,765.48,Transport,debit
+2023-04-12,bus ticket,4469.26,Transport,debit
+2023-04-12,electricity bill,3070.19,Utilities,debit
+2023-04-12,local store,536.18,Groceries,debit
+2023-04-12,swiggy,3375.18,Food,debit
+2023-04-12,local store,1914.44,Groceries,debit
+2023-04-12,restaurant,2809.55,Food,debit
+2023-04-12,gaming,2217.34,Entertainment,debit
+2023-04-13,electricity bill,3491.07,Utilities,debit
+2023-04-13,swiggy,601.19,Food,debit
+2023-04-13,metro,4767.79,Transport,debit
+2023-04-13,bus ticket,1390.67,Transport,debit
+2023-04-13,local store,1049.36,Groceries,debit
+2023-04-13,swiggy,3498.15,Food,debit
+2023-04-13,flipkart,2361.14,Shopping,debit
+2023-04-14,electronics,2745.31,Shopping,debit
+2023-04-14,restaurant,1200.22,Food,debit
+2023-04-14,netflix,2236.23,Entertainment,debit
+2023-04-14,local store,2131.37,Groceries,debit
+2023-04-14,fuel,3015.97,Transport,debit
+2023-04-14,zomato,1813.26,Food,debit
+2023-04-14,spotify,1265.85,Entertainment,debit
+2023-04-15,fuel,2180.66,Transport,debit
+2023-04-15,spotify,549.14,Entertainment,debit
+2023-04-15,gym membership,3561.83,Health,debit
+2023-04-15,fresh mart,610.79,Groceries,debit
+2023-04-15,flipkart,1625.75,Shopping,debit
+2023-04-16,movie,4716.04,Entertainment,debit
+2023-04-16,fresh mart,3518.31,Groceries,debit
+2023-04-16,bonus,76369.68,Income,credit
+2023-04-16,swiggy,2139.34,Food,debit
+2023-04-16,local store,2807.56,Groceries,debit
+2023-04-17,internet bill,3537.82,Utilities,debit
+2023-04-17,mobile recharge,3033.08,Utilities,debit
+2023-04-17,bus ticket,672.99,Transport,debit
+2023-04-17,flipkart,2441.84,Shopping,debit
+2023-04-17,cafe,4618.18,Food,debit
+2023-04-17,restaurant,2280.24,Food,debit
+2023-04-18,swiggy,889.13,Food,debit
+2023-04-18,flipkart,324.32,Shopping,debit
+2023-04-18,internet bill,1468.33,Utilities,debit
+2023-04-18,uber,1874.92,Transport,debit
+2023-04-18,grocery bazaar,1296.3,Groceries,debit
+2023-04-19,restaurant,3912.84,Food,debit
+2023-04-19,grocery bazaar,2918.22,Groceries,debit
+2023-04-19,gaming,2965.51,Entertainment,debit
+2023-04-19,internet bill,2297.65,Utilities,debit
+2023-04-20,spotify,4033.85,Entertainment,debit
+2023-04-20,grocery bazaar,794.79,Groceries,debit
+2023-04-20,swiggy,2670.6,Food,debit
+2023-04-20,fresh mart,2358.87,Groceries,debit
+2023-04-20,fresh mart,4180.08,Groceries,debit
+2023-04-20,local store,1961.08,Groceries,debit
+2023-04-21,cafe,1100.96,Food,debit
+2023-04-21,electricity bill,443.68,Utilities,debit
+2023-04-21,local store,405.04,Groceries,debit
+2023-04-21,zomato,4319.87,Food,debit
+2023-04-21,bonus,47452.37,Income,credit
+2023-04-21,spotify,458.59,Entertainment,debit
+2023-04-22,fuel,2148.62,Transport,debit
+2023-04-22,clothing store,2306.85,Shopping,debit
+2023-04-22,uber,3420.59,Transport,debit
+2023-04-22,flipkart,3492.71,Shopping,debit
+2023-04-23,freelance payment,38974.2,Income,credit
+2023-04-23,restaurant,886.81,Food,debit
+2023-04-23,gaming,3758.8,Entertainment,debit
+2023-04-23,metro,169.03,Transport,debit
+2023-04-23,netflix,2918.87,Entertainment,debit
+2023-04-23,fuel,2115.33,Transport,debit
+2023-04-23,supermarket,4814.45,Groceries,debit
+2023-04-24,movie,924.39,Entertainment,debit
+2023-04-24,fresh mart,3172.89,Groceries,debit
+2023-04-24,gaming,2516.86,Entertainment,debit
+2023-04-24,water bill,4770.47,Utilities,debit
+2023-04-25,zomato,3834.13,Food,debit
+2023-04-25,supermarket,3187.53,Groceries,debit
+2023-04-25,cafe,4280.22,Food,debit
+2023-04-25,supermarket,1124.15,Groceries,debit
+2023-04-25,zomato,1577.59,Food,debit
+2023-04-25,restaurant,2165.12,Food,debit
+2023-04-25,restaurant,3157.46,Food,debit
+2023-04-25,movie,4542.98,Entertainment,debit
+2023-04-26,clothing store,2039.58,Shopping,debit
+2023-04-26,electronics,1230.55,Shopping,debit
+2023-04-27,gaming,4298.31,Entertainment,debit
+2023-04-27,clothing store,2443.89,Shopping,debit
+2023-04-27,supermarket,2649.26,Groceries,debit
+2023-04-27,fresh mart,2934.7,Groceries,debit
+2023-04-27,clothing store,3580.8,Shopping,debit
+2023-04-28,salary,39224.1,Income,credit
+2023-04-28,salary,21609.41,Income,credit
+2023-04-28,fresh mart,4596.48,Groceries,debit
+2023-04-28,salary,68394.92,Income,credit
+2023-04-28,internet bill,1127.58,Utilities,debit
+2023-04-28,electricity bill,2149.88,Utilities,debit
+2023-04-28,amazon,964.75,Shopping,debit
+2023-04-28,salary,62976.95,Income,credit
+2023-04-29,clothing store,3002.13,Shopping,debit
+2023-04-29,grocery bazaar,3918.15,Groceries,debit
+2023-04-29,water bill,4193.59,Utilities,debit
+2023-04-29,local store,2357.9,Groceries,debit
+2023-04-29,amazon,2027.02,Shopping,debit
+2023-04-30,spotify,3727.98,Entertainment,debit
+2023-04-30,amazon,3822.94,Shopping,debit
+2023-04-30,cafe,2420.15,Food,debit
+2023-04-30,netflix,4471.04,Entertainment,debit
+2023-04-30,cafe,4889.58,Food,debit
+2023-04-30,gaming,1703.8,Entertainment,debit
+2023-05-01,flipkart,3526.1,Shopping,debit
+2023-05-01,electricity bill,451.58,Utilities,debit
+2023-05-01,metro,807.97,Transport,debit
+2023-05-01,internet bill,2131.28,Utilities,debit
+2023-05-01,clothing store,1236.77,Shopping,debit
+2023-05-02,bonus,16527.7,Income,credit
+2023-05-02,metro,1738.69,Transport,debit
+2023-05-02,spotify,3909.04,Entertainment,debit
+2023-05-03,zomato,798.12,Food,debit
+2023-05-03,zomato,2040.96,Food,debit
+2023-05-03,uber,790.94,Transport,debit
+2023-05-03,water bill,739.86,Utilities,debit
+2023-05-03,zomato,3820.72,Food,debit
+2023-05-03,electricity bill,2326.14,Utilities,debit
+2023-05-04,fuel,4177.3,Transport,debit
+2023-05-04,grocery bazaar,3345.19,Groceries,debit
+2023-05-04,metro,2848.31,Transport,debit
+2023-05-04,clothing store,3334.91,Shopping,debit
+2023-05-04,bus ticket,842.85,Transport,debit
+2023-05-04,fresh mart,1127.05,Groceries,debit
+2023-05-04,spotify,1195.17,Entertainment,debit
+2023-05-04,local store,3741.66,Groceries,debit
+2023-05-05,swiggy,2803.24,Food,debit
+2023-05-05,zomato,2158.93,Food,debit
+2023-05-05,supermarket,4298.41,Groceries,debit
+2023-05-05,restaurant,2600.27,Food,debit
+2023-05-05,zomato,3327.09,Food,debit
+2023-05-05,amazon,3737.39,Shopping,debit
+2023-05-05,bus ticket,1107.27,Transport,debit
+2023-05-07,gym membership,565.39,Health,debit
+2023-05-07,bus ticket,4695.74,Transport,debit
+2023-05-07,internet bill,2789.64,Utilities,debit
+2023-05-07,flipkart,4646.9,Shopping,debit
+2023-05-07,restaurant,1047.77,Food,debit
+2023-05-07,fresh mart,2167.15,Groceries,debit
+2023-05-08,water bill,4986.87,Utilities,debit
+2023-05-08,grocery bazaar,620.11,Groceries,debit
+2023-05-08,supermarket,3889.21,Groceries,debit
+2023-05-08,bonus,45598.71,Income,credit
+2023-05-08,bonus,45320.54,Income,credit
+2023-05-08,electronics,2175.78,Shopping,debit
+2023-05-09,bus ticket,3065.05,Transport,debit
+2023-05-09,mobile recharge,3403.29,Utilities,debit
+2023-05-09,freelance payment,32513.78,Income,credit
+2023-05-10,flipkart,3528.97,Shopping,debit
+2023-05-10,grocery bazaar,2229.4,Groceries,debit
+2023-05-10,local store,705.97,Groceries,debit
+2023-05-10,netflix,3577.49,Entertainment,debit
+2023-05-10,cafe,56.52,Food,debit
+2023-05-11,flipkart,1440.65,Shopping,debit
+2023-05-11,flipkart,1509.71,Shopping,debit
+2023-05-11,pharmacy,2821.47,Health,debit
+2023-05-11,uber,789.63,Transport,debit
+2023-05-11,uber,2652.49,Transport,debit
+2023-05-12,cafe,1872.52,Food,debit
+2023-05-12,restaurant,292.93,Food,debit
+2023-05-12,gym membership,4760.02,Health,debit
+2023-05-12,amazon,3309.33,Shopping,debit
+2023-05-14,amazon,4406.96,Shopping,debit
+2023-05-14,bonus,63481.42,Income,credit
+2023-05-15,gym membership,2980.66,Health,debit
+2023-05-15,metro,2661.08,Transport,debit
+2023-05-16,doctor visit,1316.79,Health,debit
+2023-05-16,internet bill,3487.85,Utilities,debit
+2023-05-16,amazon,4763.87,Shopping,debit
+2023-05-16,zomato,2704.88,Food,debit
+2023-05-17,swiggy,1619.89,Food,debit
+2023-05-17,zomato,4901.27,Food,debit
+2023-05-18,bonus,51971.51,Income,credit
+2023-05-18,water bill,3897.02,Utilities,debit
+2023-05-18,swiggy,83.56,Food,debit
+2023-05-18,zomato,4957.48,Food,debit
+2023-05-19,restaurant,591.12,Food,debit
+2023-05-19,restaurant,1817.13,Food,debit
+2023-05-20,fuel,2915.02,Transport,debit
+2023-05-20,grocery bazaar,2508.62,Groceries,debit
+2023-05-20,freelance payment,33361.84,Income,credit
+2023-05-20,electronics,4643.33,Shopping,debit
+2023-05-21,mobile recharge,1643.94,Utilities,debit
+2023-05-21,restaurant,3481.28,Food,debit
+2023-05-21,mobile recharge,4752.34,Utilities,debit
+2023-05-22,zomato,2521.24,Food,debit
+2023-05-22,cafe,1120.49,Food,debit
+2023-05-22,supermarket,610.45,Groceries,debit
+2023-05-22,doctor visit,771.93,Health,debit
+2023-05-23,local store,4038.59,Groceries,debit
+2023-05-23,cafe,4142.58,Food,debit
+2023-05-23,supermarket,2055.4,Groceries,debit
+2023-05-23,internet bill,626.0,Utilities,debit
+2023-05-24,spotify,71.37,Entertainment,debit
+2023-05-24,swiggy,4162.72,Food,debit
+2023-05-24,swiggy,2007.5,Food,debit
+2023-05-24,electronics,1339.99,Shopping,debit
+2023-05-24,restaurant,1336.67,Food,debit
+2023-05-24,grocery bazaar,3360.95,Groceries,debit
+2023-05-25,local store,4475.42,Groceries,debit
+2023-05-25,grocery bazaar,4312.92,Groceries,debit
+2023-05-25,grocery bazaar,4380.11,Groceries,debit
+2023-05-25,cafe,1805.52,Food,debit
+2023-05-25,cafe,2527.09,Food,debit
+2023-05-26,bonus,71369.83,Income,credit
+2023-05-26,fresh mart,2333.03,Groceries,debit
+2023-05-26,gaming,2324.86,Entertainment,debit
+2023-05-26,mobile recharge,2563.66,Utilities,debit
+2023-05-26,cafe,3137.5,Food,debit
+2023-05-26,fuel,1727.23,Transport,debit
+2023-05-27,restaurant,4890.04,Food,debit
+2023-05-27,flipkart,1611.41,Shopping,debit
+2023-05-27,internet bill,3155.05,Utilities,debit
+2023-05-27,zomato,3815.38,Food,debit
+2023-05-27,gym membership,570.44,Health,debit
+2023-05-28,fresh mart,1794.46,Groceries,debit
+2023-05-28,salary,56201.26,Income,credit
+2023-05-28,salary,18159.55,Income,credit
+2023-05-28,freelance payment,13557.33,Income,credit
+2023-05-28,fuel,2501.17,Transport,debit
+2023-05-28,salary,76947.28,Income,credit
+2023-05-28,local store,2955.43,Groceries,debit
+2023-05-28,salary,62381.39,Income,credit
+2023-05-28,clothing store,1399.92,Shopping,debit
+2023-05-28,grocery bazaar,1539.57,Groceries,debit
+2023-05-28,uber,617.28,Transport,debit
+2023-05-28,supermarket,4731.02,Groceries,debit
+2023-05-28,fuel,2790.95,Transport,debit
+2023-05-29,spotify,4821.14,Entertainment,debit
+2023-05-29,electricity bill,1868.39,Utilities,debit
+2023-05-29,zomato,1337.4,Food,debit
+2023-05-29,internet bill,442.81,Utilities,debit
+2023-05-29,internet bill,758.72,Utilities,debit
+2023-05-29,internet bill,1203.52,Utilities,debit
+2023-05-29,fresh mart,3156.29,Groceries,debit
+2023-05-30,movie,1474.03,Entertainment,debit
+2023-05-30,pharmacy,1502.45,Health,debit
+2023-05-30,clothing store,2517.68,Shopping,debit
+2023-05-31,electronics,1930.61,Shopping,debit
+2023-05-31,flipkart,309.97,Shopping,debit
+2023-05-31,swiggy,4502.25,Food,debit
+2023-05-31,pharmacy,3167.08,Health,debit
+2023-06-01,pharmacy,1750.47,Health,debit
+2023-06-01,fresh mart,4695.87,Groceries,debit
+2023-06-01,amazon,3499.22,Shopping,debit
+2023-06-01,gaming,1875.17,Entertainment,debit
+2023-06-01,restaurant,3812.18,Food,debit
+2023-06-01,supermarket,2733.27,Groceries,debit
+2023-06-02,grocery bazaar,861.74,Groceries,debit
+2023-06-02,grocery bazaar,3101.08,Groceries,debit
+2023-06-02,fresh mart,4670.62,Groceries,debit
+2023-06-02,fuel,3991.87,Transport,debit
+2023-06-02,fuel,1408.29,Transport,debit
+2023-06-02,internet bill,3759.81,Utilities,debit
+2023-06-02,bus ticket,2498.7,Transport,debit
+2023-06-03,fuel,73.99,Transport,debit
+2023-06-03,restaurant,1197.6,Food,debit
+2023-06-03,internet bill,4313.92,Utilities,debit
+2023-06-04,restaurant,1084.02,Food,debit
+2023-06-04,freelance payment,23720.31,Income,credit
+2023-06-04,amazon,4419.33,Shopping,debit
+2023-06-05,netflix,3997.33,Entertainment,debit
+2023-06-05,fuel,1800.68,Transport,debit
+2023-06-05,pharmacy,2233.74,Health,debit
+2023-06-06,fresh mart,2062.85,Groceries,debit
+2023-06-06,water bill,4119.95,Utilities,debit
+2023-06-06,fresh mart,590.37,Groceries,debit
+2023-06-06,internet bill,2324.05,Utilities,debit
+2023-06-06,fresh mart,3430.59,Groceries,debit
+2023-06-06,uber,4877.98,Transport,debit
+2023-06-06,uber,4638.97,Transport,debit
+2023-06-06,internet bill,3275.3,Utilities,debit
+2023-06-06,zomato,3891.5,Food,debit
+2023-06-07,clothing store,3192.86,Shopping,debit
+2023-06-07,metro,1646.66,Transport,debit
+2023-06-07,water bill,3273.74,Utilities,debit
+2023-06-07,restaurant,2019.24,Food,debit
+2023-06-07,uber,2879.64,Transport,debit
+2023-06-07,uber,2571.67,Transport,debit
+2023-06-08,local store,2434.22,Groceries,debit
+2023-06-08,electronics,4756.22,Shopping,debit
+2023-06-08,zomato,725.27,Food,debit
+2023-06-08,freelance payment,12892.5,Income,credit
+2023-06-08,cafe,2928.43,Food,debit
+2023-06-08,uber,1414.16,Transport,debit
+2023-06-09,freelance payment,73632.81,Income,credit
+2023-06-09,mobile recharge,395.58,Utilities,debit
+2023-06-09,clothing store,3661.91,Shopping,debit
+2023-06-09,local store,1044.94,Groceries,debit
+2023-06-09,cafe,2566.14,Food,debit
+2023-06-10,electronics,942.84,Shopping,debit
+2023-06-10,clothing store,2597.37,Shopping,debit
+2023-06-10,bonus,41064.26,Income,credit
+2023-06-10,swiggy,2679.14,Food,debit
+2023-06-10,clothing store,1128.33,Shopping,debit
+2023-06-11,internet bill,4636.35,Utilities,debit
+2023-06-11,gaming,2428.34,Entertainment,debit
+2023-06-11,spotify,632.83,Entertainment,debit
+2023-06-11,cafe,2594.98,Food,debit
+2023-06-12,spotify,2044.59,Entertainment,debit
+2023-06-12,flipkart,509.45,Shopping,debit
+2023-06-12,supermarket,1572.79,Groceries,debit
+2023-06-12,fresh mart,3107.39,Groceries,debit
+2023-06-12,mobile recharge,1616.66,Utilities,debit
+2023-06-12,grocery bazaar,437.34,Groceries,debit
+2023-06-12,cafe,4912.65,Food,debit
+2023-06-12,supermarket,3055.2,Groceries,debit
+2023-06-12,local store,1279.82,Groceries,debit
+2023-06-12,electronics,1602.3,Shopping,debit
+2023-06-12,bus ticket,3801.71,Transport,debit
+2023-06-13,bus ticket,4656.68,Transport,debit
+2023-06-13,swiggy,660.11,Food,debit
+2023-06-13,gym membership,1008.97,Health,debit
+2023-06-13,local store,3542.27,Groceries,debit
+2023-06-13,spotify,1232.74,Entertainment,debit
+2023-06-13,cafe,4955.56,Food,debit
+2023-06-13,grocery bazaar,2953.17,Groceries,debit
+2023-06-13,movie,3686.38,Entertainment,debit
+2023-06-14,electricity bill,805.66,Utilities,debit
+2023-06-14,spotify,3551.34,Entertainment,debit
+2023-06-14,flipkart,910.17,Shopping,debit
+2023-06-14,supermarket,3383.06,Groceries,debit
+2023-06-14,pharmacy,4341.84,Health,debit
+2023-06-14,amazon,2403.28,Shopping,debit
+2023-06-15,restaurant,2129.94,Food,debit
+2023-06-15,water bill,3271.15,Utilities,debit
+2023-06-15,mobile recharge,3665.12,Utilities,debit
+2023-06-15,supermarket,3795.33,Groceries,debit
+2023-06-15,doctor visit,2793.99,Health,debit
+2023-06-15,grocery bazaar,2324.86,Groceries,debit
+2023-06-16,fresh mart,1196.98,Groceries,debit
+2023-06-16,zomato,2846.43,Food,debit
+2023-06-16,netflix,577.3,Entertainment,debit
+2023-06-16,flipkart,2912.88,Shopping,debit
+2023-06-16,netflix,4837.51,Entertainment,debit
+2023-06-17,local store,3202.42,Groceries,debit
+2023-06-17,cafe,1034.1,Food,debit
+2023-06-17,zomato,3287.53,Food,debit
+2023-06-17,swiggy,1861.45,Food,debit
+2023-06-17,pharmacy,1644.27,Health,debit
+2023-06-17,flipkart,2127.4,Shopping,debit
+2023-06-17,grocery bazaar,3878.86,Groceries,debit
+2023-06-18,local store,2891.86,Groceries,debit
+2023-06-18,supermarket,770.65,Groceries,debit
+2023-06-18,restaurant,4496.67,Food,debit
+2023-06-18,bonus,54158.06,Income,credit
+2023-06-19,local store,3909.24,Groceries,debit
+2023-06-19,flipkart,3206.17,Shopping,debit
+2023-06-19,doctor visit,3938.8,Health,debit
+2023-06-19,zomato,744.0,Food,debit
+2023-06-19,clothing store,1262.8,Shopping,debit
+2023-06-19,bonus,11735.69,Income,credit
+2023-06-19,spotify,3733.47,Entertainment,debit
+2023-06-20,bonus,72146.11,Income,credit
+2023-06-20,uber,1917.52,Transport,debit
+2023-06-20,local store,2432.47,Groceries,debit
+2023-06-20,mobile recharge,1819.23,Utilities,debit
+2023-06-21,grocery bazaar,4867.66,Groceries,debit
+2023-06-21,fresh mart,1494.56,Groceries,debit
+2023-06-21,swiggy,2515.02,Food,debit
+2023-06-21,electronics,4715.28,Shopping,debit
+2023-06-21,spotify,3810.46,Entertainment,debit
+2023-06-21,pharmacy,1965.19,Health,debit
+2023-06-22,cafe,3173.69,Food,debit
+2023-06-22,local store,1480.54,Groceries,debit
+2023-06-22,metro,989.56,Transport,debit
+2023-06-22,bonus,52160.0,Income,credit
+2023-06-23,electricity bill,3456.91,Utilities,debit
+2023-06-23,restaurant,926.87,Food,debit
+2023-06-24,local store,3151.03,Groceries,debit
+2023-06-24,netflix,3577.09,Entertainment,debit
+2023-06-24,uber,3028.84,Transport,debit
+2023-06-24,clothing store,3575.92,Shopping,debit
+2023-06-24,freelance payment,31336.28,Income,credit
+2023-06-24,gym membership,3363.14,Health,debit
+2023-06-24,local store,924.73,Groceries,debit
+2023-06-25,mobile recharge,4166.03,Utilities,debit
+2023-06-25,fuel,2207.24,Transport,debit
+2023-06-25,internet bill,4608.21,Utilities,debit
+2023-06-25,bonus,17593.12,Income,credit
+2023-06-25,clothing store,1405.79,Shopping,debit
+2023-06-25,cafe,2709.5,Food,debit
+2023-06-25,netflix,3036.85,Entertainment,debit
+2023-06-25,local store,1994.74,Groceries,debit
+2023-06-26,grocery bazaar,286.74,Groceries,debit
+2023-06-26,mobile recharge,1407.23,Utilities,debit
+2023-06-26,grocery bazaar,4708.64,Groceries,debit
+2023-06-27,amazon,4907.1,Shopping,debit
+2023-06-27,swiggy,4472.09,Food,debit
+2023-06-27,amazon,820.66,Shopping,debit
+2023-06-27,doctor visit,2807.72,Health,debit
+2023-06-27,water bill,505.43,Utilities,debit
+2023-06-28,mobile recharge,1037.58,Utilities,debit
+2023-06-28,local store,2216.96,Groceries,debit
+2023-06-28,salary,12538.37,Income,credit
+2023-06-28,electricity bill,556.12,Utilities,debit
+2023-06-28,salary,55840.46,Income,credit
+2023-06-28,salary,21145.94,Income,credit
+2023-06-28,restaurant,974.41,Food,debit
+2023-06-28,salary,53272.86,Income,credit
+2023-06-28,salary,71568.47,Income,credit
+2023-06-28,salary,45017.05,Income,credit
+2023-06-28,amazon,3146.2,Shopping,debit
+2023-06-28,salary,17384.5,Income,credit
+2023-06-29,supermarket,3653.26,Groceries,debit
+2023-06-29,electricity bill,2605.77,Utilities,debit
+2023-06-29,movie,4631.84,Entertainment,debit
+2023-06-29,local store,906.09,Groceries,debit
+2023-06-29,pharmacy,1734.31,Health,debit
+2023-06-29,fresh mart,4283.01,Groceries,debit
+2023-06-29,gym membership,4198.87,Health,debit
+2023-06-29,movie,3343.4,Entertainment,debit
+2023-06-30,amazon,4088.47,Shopping,debit
+2023-06-30,metro,1336.53,Transport,debit
+2023-06-30,water bill,2801.76,Utilities,debit
+2023-06-30,zomato,4097.78,Food,debit
+2023-07-01,bonus,52066.11,Income,credit
+2023-07-01,gaming,1282.56,Entertainment,debit
+2023-07-01,supermarket,1273.18,Groceries,debit
+2023-07-01,cafe,3308.61,Food,debit
+2023-07-02,flipkart,2660.03,Shopping,debit
+2023-07-02,cafe,2468.71,Food,debit
+2023-07-02,swiggy,2362.69,Food,debit
+2023-07-03,spotify,1762.7,Entertainment,debit
+2023-07-03,fuel,851.28,Transport,debit
+2023-07-03,supermarket,326.42,Groceries,debit
+2023-07-04,flipkart,2761.28,Shopping,debit
+2023-07-04,local store,3784.55,Groceries,debit
+2023-07-04,clothing store,2253.22,Shopping,debit
+2023-07-04,gym membership,3010.9,Health,debit
+2023-07-04,fuel,2834.92,Transport,debit
+2023-07-04,local store,1736.63,Groceries,debit
+2023-07-04,internet bill,4260.0,Utilities,debit
+2023-07-04,metro,1490.66,Transport,debit
+2023-07-04,internet bill,2346.75,Utilities,debit
+2023-07-04,flipkart,4376.27,Shopping,debit
+2023-07-04,spotify,1576.88,Entertainment,debit
+2023-07-05,netflix,3219.78,Entertainment,debit
+2023-07-05,amazon,2071.58,Shopping,debit
+2023-07-05,bonus,59012.17,Income,credit
+2023-07-05,gym membership,4858.75,Health,debit
+2023-07-05,local store,1493.56,Groceries,debit
+2023-07-05,gym membership,3565.53,Health,debit
+2023-07-05,metro,4925.13,Transport,debit
+2023-07-06,electronics,1187.78,Shopping,debit
+2023-07-06,fresh mart,4537.84,Groceries,debit
+2023-07-06,fresh mart,2676.53,Groceries,debit
+2023-07-06,electricity bill,1371.03,Utilities,debit
+2023-07-07,fresh mart,4260.64,Groceries,debit
+2023-07-07,fresh mart,1638.13,Groceries,debit
+2023-07-07,zomato,200.75,Food,debit
+2023-07-07,grocery bazaar,3165.82,Groceries,debit
+2023-07-07,swiggy,1884.69,Food,debit
+2023-07-07,swiggy,3417.1,Food,debit
+2023-07-07,fresh mart,2047.55,Groceries,debit
+2023-07-08,restaurant,1543.71,Food,debit
+2023-07-08,cafe,3671.83,Food,debit
+2023-07-08,fresh mart,2014.74,Groceries,debit
+2023-07-08,fresh mart,1257.83,Groceries,debit
+2023-07-08,freelance payment,60237.42,Income,credit
+2023-07-08,internet bill,4117.04,Utilities,debit
+2023-07-08,movie,158.89,Entertainment,debit
+2023-07-08,zomato,157.46,Food,debit
+2023-07-08,amazon,117.62,Shopping,debit
+2023-07-09,local store,1038.49,Groceries,debit
+2023-07-09,metro,4466.2,Transport,debit
+2023-07-09,netflix,315.03,Entertainment,debit
+2023-07-09,electronics,2835.91,Shopping,debit
+2023-07-09,grocery bazaar,3534.8,Groceries,debit
+2023-07-09,electronics,3352.12,Shopping,debit
+2023-07-09,fuel,4156.93,Transport,debit
+2023-07-10,clothing store,1676.72,Shopping,debit
+2023-07-10,freelance payment,70801.48,Income,credit
+2023-07-10,electronics,2231.57,Shopping,debit
+2023-07-10,supermarket,4072.77,Groceries,debit
+2023-07-10,supermarket,3739.89,Groceries,debit
+2023-07-10,water bill,1038.94,Utilities,debit
+2023-07-11,clothing store,2143.07,Shopping,debit
+2023-07-11,uber,493.63,Transport,debit
+2023-07-11,movie,1356.42,Entertainment,debit
+2023-07-11,restaurant,1293.4,Food,debit
+2023-07-12,local store,3929.17,Groceries,debit
+2023-07-12,local store,2030.12,Groceries,debit
+2023-07-12,flipkart,2296.42,Shopping,debit
+2023-07-12,uber,3496.97,Transport,debit
+2023-07-12,grocery bazaar,1074.39,Groceries,debit
+2023-07-13,grocery bazaar,111.36,Groceries,debit
+2023-07-13,netflix,2478.76,Entertainment,debit
+2023-07-13,clothing store,3199.13,Shopping,debit
+2023-07-13,doctor visit,1496.16,Health,debit
+2023-07-13,clothing store,57.36,Shopping,debit
+2023-07-14,swiggy,3058.66,Food,debit
+2023-07-14,supermarket,1484.32,Groceries,debit
+2023-07-14,bus ticket,2477.1,Transport,debit
+2023-07-14,restaurant,3168.02,Food,debit
+2023-07-14,uber,4768.11,Transport,debit
+2023-07-15,bus ticket,3069.85,Transport,debit
+2023-07-15,fresh mart,4317.41,Groceries,debit
+2023-07-15,doctor visit,1174.67,Health,debit
+2023-07-15,mobile recharge,1732.71,Utilities,debit
+2023-07-15,gaming,811.6,Entertainment,debit
+2023-07-16,water bill,1917.03,Utilities,debit
+2023-07-16,spotify,718.0,Entertainment,debit
+2023-07-16,fuel,2068.35,Transport,debit
+2023-07-16,cafe,3480.54,Food,debit
+2023-07-16,bus ticket,937.14,Transport,debit
+2023-07-16,restaurant,1466.55,Food,debit
+2023-07-16,electricity bill,3867.91,Utilities,debit
+2023-07-18,water bill,4596.87,Utilities,debit
+2023-07-18,swiggy,3833.52,Food,debit
+2023-07-18,clothing store,1150.5,Shopping,debit
+2023-07-19,freelance payment,28169.2,Income,credit
+2023-07-19,gym membership,4027.83,Health,debit
+2023-07-19,gaming,1339.25,Entertainment,debit
+2023-07-19,metro,4233.14,Transport,debit
+2023-07-19,freelance payment,12545.95,Income,credit
+2023-07-19,pharmacy,3806.17,Health,debit
+2023-07-19,gaming,108.22,Entertainment,debit
+2023-07-19,fuel,2919.66,Transport,debit
+2023-07-19,supermarket,4277.54,Groceries,debit
+2023-07-19,fresh mart,835.17,Groceries,debit
+2023-07-19,electricity bill,4199.19,Utilities,debit
+2023-07-20,supermarket,3057.89,Groceries,debit
+2023-07-20,electronics,1750.1,Shopping,debit
+2023-07-20,fuel,2739.29,Transport,debit
+2023-07-21,local store,2120.03,Groceries,debit
+2023-07-21,fuel,1214.72,Transport,debit
+2023-07-21,clothing store,2593.37,Shopping,debit
+2023-07-21,supermarket,3167.22,Groceries,debit
+2023-07-21,clothing store,413.4,Shopping,debit
+2023-07-21,flipkart,4862.12,Shopping,debit
+2023-07-21,electronics,4419.55,Shopping,debit
+2023-07-21,spotify,4370.93,Entertainment,debit
+2023-07-21,electricity bill,2796.88,Utilities,debit
+2023-07-22,electricity bill,956.19,Utilities,debit
+2023-07-22,flipkart,4410.32,Shopping,debit
+2023-07-22,zomato,1349.86,Food,debit
+2023-07-22,doctor visit,1988.72,Health,debit
+2023-07-22,zomato,3192.33,Food,debit
+2023-07-22,gaming,3583.31,Entertainment,debit
+2023-07-23,electronics,3166.18,Shopping,debit
+2023-07-23,metro,435.75,Transport,debit
+2023-07-23,netflix,417.99,Entertainment,debit
+2023-07-23,pharmacy,1622.84,Health,debit
+2023-07-23,amazon,1207.2,Shopping,debit
+2023-07-23,uber,3368.62,Transport,debit
+2023-07-23,grocery bazaar,3833.09,Groceries,debit
+2023-07-24,netflix,4195.27,Entertainment,debit
+2023-07-24,water bill,944.73,Utilities,debit
+2023-07-24,pharmacy,214.14,Health,debit
+2023-07-24,supermarket,4907.5,Groceries,debit
+2023-07-24,electricity bill,4202.78,Utilities,debit
+2023-07-24,cafe,3224.69,Food,debit
+2023-07-24,local store,3882.23,Groceries,debit
+2023-07-25,swiggy,2283.42,Food,debit
+2023-07-25,amazon,470.05,Shopping,debit
+2023-07-25,mobile recharge,1069.43,Utilities,debit
+2023-07-25,uber,385.22,Transport,debit
+2023-07-25,amazon,4525.29,Shopping,debit
+2023-07-26,flipkart,3316.94,Shopping,debit
+2023-07-26,grocery bazaar,683.83,Groceries,debit
+2023-07-26,mobile recharge,4383.9,Utilities,debit
+2023-07-26,swiggy,474.8,Food,debit
+2023-07-26,cafe,4797.13,Food,debit
+2023-07-26,fuel,3617.17,Transport,debit
+2023-07-27,movie,4487.67,Entertainment,debit
+2023-07-27,movie,2344.68,Entertainment,debit
+2023-07-27,supermarket,2601.25,Groceries,debit
+2023-07-27,grocery bazaar,4080.72,Groceries,debit
+2023-07-27,cafe,4236.88,Food,debit
+2023-07-27,restaurant,1236.65,Food,debit
+2023-07-28,spotify,3019.33,Entertainment,debit
+2023-07-28,netflix,2077.69,Entertainment,debit
+2023-07-28,zomato,4571.86,Food,debit
+2023-07-28,flipkart,1330.21,Shopping,debit
+2023-07-28,salary,29806.84,Income,credit
+2023-07-28,salary,73771.26,Income,credit
+2023-07-28,salary,68697.09,Income,credit
+2023-07-28,metro,2296.08,Transport,debit
+2023-07-29,zomato,4987.23,Food,debit
+2023-07-29,local store,4233.57,Groceries,debit
+2023-07-29,bonus,77649.83,Income,credit
+2023-07-29,fuel,2852.21,Transport,debit
+2023-07-29,water bill,4246.97,Utilities,debit
+2023-07-29,supermarket,3807.41,Groceries,debit
+2023-07-29,electronics,1576.27,Shopping,debit
+2023-07-30,freelance payment,79488.57,Income,credit
+2023-07-30,grocery bazaar,3030.93,Groceries,debit
+2023-07-30,water bill,4401.24,Utilities,debit
+2023-07-30,fresh mart,3025.79,Groceries,debit
+2023-07-30,electronics,2550.26,Shopping,debit
+2023-07-31,cafe,3997.45,Food,debit
+2023-07-31,cafe,825.71,Food,debit
+2023-07-31,grocery bazaar,1564.46,Groceries,debit
+2023-07-31,swiggy,1665.11,Food,debit
+2023-08-01,supermarket,2792.01,Groceries,debit
+2023-08-01,fresh mart,2993.91,Groceries,debit
+2023-08-01,doctor visit,4617.39,Health,debit
+2023-08-01,electronics,3395.89,Shopping,debit
+2023-08-01,zomato,2516.83,Food,debit
+2023-08-01,restaurant,3676.29,Food,debit
+2023-08-01,amazon,2643.8,Shopping,debit
+2023-08-02,water bill,4287.08,Utilities,debit
+2023-08-02,supermarket,4106.56,Groceries,debit
+2023-08-02,uber,1002.64,Transport,debit
+2023-08-02,restaurant,4764.14,Food,debit
+2023-08-02,swiggy,4598.89,Food,debit
+2023-08-02,swiggy,1511.41,Food,debit
+2023-08-03,pharmacy,3095.77,Health,debit
+2023-08-03,pharmacy,3065.13,Health,debit
+2023-08-03,local store,3840.69,Groceries,debit
+2023-08-03,mobile recharge,1581.54,Utilities,debit
+2023-08-04,fuel,3238.64,Transport,debit
+2023-08-04,local store,2823.55,Groceries,debit
+2023-08-04,spotify,3491.9,Entertainment,debit
+2023-08-04,local store,2631.59,Groceries,debit
+2023-08-04,netflix,2741.34,Entertainment,debit
+2023-08-05,cafe,3949.97,Food,debit
+2023-08-05,cafe,2884.31,Food,debit
+2023-08-05,metro,3378.84,Transport,debit
+2023-08-05,internet bill,64.63,Utilities,debit
+2023-08-05,electricity bill,1002.11,Utilities,debit
+2023-08-05,electricity bill,2630.91,Utilities,debit
+2023-08-05,cafe,2271.05,Food,debit
+2023-08-05,mobile recharge,2554.66,Utilities,debit
+2023-08-05,gym membership,1995.87,Health,debit
+2023-08-05,fresh mart,3429.97,Groceries,debit
+2023-08-06,cafe,4949.76,Food,debit
+2023-08-06,local store,2074.63,Groceries,debit
+2023-08-06,grocery bazaar,4084.81,Groceries,debit
+2023-08-06,doctor visit,4834.34,Health,debit
+2023-08-06,netflix,3509.87,Entertainment,debit
+2023-08-06,fuel,4944.69,Transport,debit
+2023-08-06,spotify,4490.63,Entertainment,debit
+2023-08-07,mobile recharge,868.97,Utilities,debit
+2023-08-07,bonus,11261.91,Income,credit
+2023-08-07,netflix,4577.93,Entertainment,debit
+2023-08-07,bonus,69210.91,Income,credit
+2023-08-08,cafe,842.65,Food,debit
+2023-08-08,doctor visit,1966.47,Health,debit
+2023-08-08,bus ticket,3344.15,Transport,debit
+2023-08-08,mobile recharge,2135.66,Utilities,debit
+2023-08-08,bus ticket,3794.39,Transport,debit
+2023-08-08,water bill,1806.06,Utilities,debit
+2023-08-09,bonus,68574.21,Income,credit
+2023-08-09,mobile recharge,2313.76,Utilities,debit
+2023-08-09,fresh mart,131.16,Groceries,debit
+2023-08-09,cafe,4811.91,Food,debit
+2023-08-09,electronics,891.25,Shopping,debit
+2023-08-09,electronics,3001.77,Shopping,debit
+2023-08-10,amazon,3934.43,Shopping,debit
+2023-08-10,spotify,4471.5,Entertainment,debit
+2023-08-10,clothing store,3475.72,Shopping,debit
+2023-08-10,gaming,1211.93,Entertainment,debit
+2023-08-10,freelance payment,28828.15,Income,credit
+2023-08-10,fuel,1650.34,Transport,debit
+2023-08-10,internet bill,3205.2,Utilities,debit
+2023-08-10,zomato,568.99,Food,debit
+2023-08-10,netflix,1811.07,Entertainment,debit
+2023-08-11,flipkart,4877.72,Shopping,debit
+2023-08-11,fuel,444.28,Transport,debit
+2023-08-11,bus ticket,3655.58,Transport,debit
+2023-08-11,local store,4272.74,Groceries,debit
+2023-08-11,uber,4837.41,Transport,debit
+2023-08-12,cafe,3411.05,Food,debit
+2023-08-12,uber,4780.33,Transport,debit
+2023-08-12,gaming,2114.51,Entertainment,debit
+2023-08-12,local store,746.87,Groceries,debit
+2023-08-13,water bill,1142.48,Utilities,debit
+2023-08-13,mobile recharge,2349.24,Utilities,debit
+2023-08-14,doctor visit,4317.69,Health,debit
+2023-08-14,zomato,4962.51,Food,debit
+2023-08-14,local store,806.32,Groceries,debit
+2023-08-14,pharmacy,4532.97,Health,debit
+2023-08-14,grocery bazaar,194.28,Groceries,debit
+2023-08-14,movie,3591.71,Entertainment,debit
+2023-08-14,local store,4307.21,Groceries,debit
+2023-08-14,fuel,2005.8,Transport,debit
+2023-08-14,netflix,2014.98,Entertainment,debit
+2023-08-14,cafe,410.19,Food,debit
+2023-08-15,internet bill,649.26,Utilities,debit
+2023-08-15,uber,3450.47,Transport,debit
+2023-08-16,water bill,2642.11,Utilities,debit
+2023-08-16,grocery bazaar,2617.93,Groceries,debit
+2023-08-16,gaming,4135.62,Entertainment,debit
+2023-08-16,spotify,4908.46,Entertainment,debit
+2023-08-16,amazon,2170.28,Shopping,debit
+2023-08-16,local store,360.73,Groceries,debit
+2023-08-17,movie,1313.31,Entertainment,debit
+2023-08-17,electricity bill,3612.51,Utilities,debit
+2023-08-18,clothing store,750.59,Shopping,debit
+2023-08-18,netflix,4537.07,Entertainment,debit
+2023-08-18,water bill,318.84,Utilities,debit
+2023-08-18,bus ticket,2330.18,Transport,debit
+2023-08-18,restaurant,3312.92,Food,debit
+2023-08-18,mobile recharge,3712.01,Utilities,debit
+2023-08-19,water bill,1203.64,Utilities,debit
+2023-08-19,spotify,4354.43,Entertainment,debit
+2023-08-19,electricity bill,3586.42,Utilities,debit
+2023-08-19,swiggy,2718.18,Food,debit
+2023-08-20,water bill,3712.27,Utilities,debit
+2023-08-20,netflix,2396.66,Entertainment,debit
+2023-08-20,spotify,1912.03,Entertainment,debit
+2023-08-20,mobile recharge,2318.34,Utilities,debit
+2023-08-21,flipkart,4283.65,Shopping,debit
+2023-08-21,swiggy,1110.37,Food,debit
+2023-08-21,cafe,2249.18,Food,debit
+2023-08-21,restaurant,3540.42,Food,debit
+2023-08-22,grocery bazaar,3639.66,Groceries,debit
+2023-08-22,bus ticket,644.13,Transport,debit
+2023-08-22,amazon,3746.15,Shopping,debit
+2023-08-22,pharmacy,4811.14,Health,debit
+2023-08-23,clothing store,270.59,Shopping,debit
+2023-08-23,local store,293.67,Groceries,debit
+2023-08-23,cafe,4532.19,Food,debit
+2023-08-24,pharmacy,2272.16,Health,debit
+2023-08-24,bus ticket,1600.67,Transport,debit
+2023-08-24,spotify,3887.39,Entertainment,debit
+2023-08-24,amazon,1093.94,Shopping,debit
+2023-08-24,fuel,2008.05,Transport,debit
+2023-08-25,fresh mart,3000.71,Groceries,debit
+2023-08-25,uber,587.44,Transport,debit
+2023-08-25,cafe,3013.47,Food,debit
+2023-08-25,fresh mart,2488.82,Groceries,debit
+2023-08-25,flipkart,306.57,Shopping,debit
+2023-08-26,electronics,2775.85,Shopping,debit
+2023-08-26,bonus,42785.12,Income,credit
+2023-08-26,mobile recharge,631.54,Utilities,debit
+2023-08-26,local store,1539.67,Groceries,debit
+2023-08-26,fresh mart,3299.64,Groceries,debit
+2023-08-27,flipkart,1056.0,Shopping,debit
+2023-08-27,bonus,28996.03,Income,credit
+2023-08-27,fuel,2928.96,Transport,debit
+2023-08-27,zomato,2600.48,Food,debit
+2023-08-28,salary,70432.48,Income,credit
+2023-08-28,cafe,1630.04,Food,debit
+2023-08-28,swiggy,938.74,Food,debit
+2023-08-28,grocery bazaar,4917.13,Groceries,debit
+2023-08-28,supermarket,2017.57,Groceries,debit
+2023-08-28,zomato,4795.69,Food,debit
+2023-08-28,mobile recharge,2285.3,Utilities,debit
+2023-08-28,flipkart,2436.17,Shopping,debit
+2023-08-29,internet bill,4707.47,Utilities,debit
+2023-08-29,mobile recharge,2800.9,Utilities,debit
+2023-08-29,metro,4148.9,Transport,debit
+2023-08-29,grocery bazaar,2308.83,Groceries,debit
+2023-08-30,flipkart,1344.87,Shopping,debit
+2023-08-30,doctor visit,1430.46,Health,debit
+2023-08-31,metro,3283.74,Transport,debit
+2023-08-31,fuel,3526.23,Transport,debit
+2023-09-01,uber,4776.59,Transport,debit
+2023-09-01,fresh mart,4852.9,Groceries,debit
+2023-09-01,freelance payment,73321.65,Income,credit
+2023-09-01,local store,3451.18,Groceries,debit
+2023-09-01,supermarket,1916.38,Groceries,debit
+2023-09-02,fresh mart,2144.35,Groceries,debit
+2023-09-02,spotify,2470.01,Entertainment,debit
+2023-09-02,freelance payment,52097.59,Income,credit
+2023-09-02,fresh mart,4823.5,Groceries,debit
+2023-09-02,doctor visit,428.16,Health,debit
+2023-09-03,mobile recharge,1222.13,Utilities,debit
+2023-09-03,bonus,68285.11,Income,credit
+2023-09-03,swiggy,2801.28,Food,debit
+2023-09-03,local store,2458.86,Groceries,debit
+2023-09-03,restaurant,3088.28,Food,debit
+2023-09-03,spotify,680.31,Entertainment,debit
+2023-09-04,grocery bazaar,1135.2,Groceries,debit
+2023-09-04,movie,1415.69,Entertainment,debit
+2023-09-04,local store,3535.45,Groceries,debit
+2023-09-04,uber,708.07,Transport,debit
+2023-09-04,grocery bazaar,2925.91,Groceries,debit
+2023-09-04,electronics,3222.06,Shopping,debit
+2023-09-04,bus ticket,60.47,Transport,debit
+2023-09-05,restaurant,2604.32,Food,debit
+2023-09-05,grocery bazaar,3034.66,Groceries,debit
+2023-09-05,internet bill,3707.74,Utilities,debit
+2023-09-05,supermarket,641.09,Groceries,debit
+2023-09-05,mobile recharge,4935.07,Utilities,debit
+2023-09-05,movie,837.72,Entertainment,debit
+2023-09-05,supermarket,2792.13,Groceries,debit
+2023-09-05,bonus,57143.31,Income,credit
+2023-09-06,flipkart,4479.63,Shopping,debit
+2023-09-06,swiggy,4343.8,Food,debit
+2023-09-06,freelance payment,28861.22,Income,credit
+2023-09-06,local store,4766.76,Groceries,debit
+2023-09-06,grocery bazaar,3854.35,Groceries,debit
+2023-09-06,pharmacy,4780.84,Health,debit
+2023-09-07,doctor visit,2885.96,Health,debit
+2023-09-07,fuel,1538.04,Transport,debit
+2023-09-07,spotify,427.05,Entertainment,debit
+2023-09-07,clothing store,2429.05,Shopping,debit
+2023-09-07,clothing store,2977.78,Shopping,debit
+2023-09-08,restaurant,2584.8,Food,debit
+2023-09-08,internet bill,4606.65,Utilities,debit
+2023-09-08,amazon,1302.48,Shopping,debit
+2023-09-08,doctor visit,128.17,Health,debit
+2023-09-08,water bill,3887.41,Utilities,debit
+2023-09-09,swiggy,3745.35,Food,debit
+2023-09-09,metro,739.66,Transport,debit
+2023-09-09,bonus,16214.88,Income,credit
+2023-09-09,spotify,1441.43,Entertainment,debit
+2023-09-09,fuel,3364.56,Transport,debit
+2023-09-09,electricity bill,3567.54,Utilities,debit
+2023-09-09,cafe,4369.06,Food,debit
+2023-09-09,bonus,39815.27,Income,credit
+2023-09-10,internet bill,4353.76,Utilities,debit
+2023-09-10,clothing store,705.73,Shopping,debit
+2023-09-10,flipkart,3799.55,Shopping,debit
+2023-09-10,fuel,2775.81,Transport,debit
+2023-09-10,zomato,2578.71,Food,debit
+2023-09-11,bonus,53540.8,Income,credit
+2023-09-11,pharmacy,1228.61,Health,debit
+2023-09-11,water bill,2791.76,Utilities,debit
+2023-09-12,fuel,618.86,Transport,debit
+2023-09-12,local store,2984.24,Groceries,debit
+2023-09-12,freelance payment,46782.8,Income,credit
+2023-09-12,gym membership,1070.74,Health,debit
+2023-09-12,electricity bill,3883.81,Utilities,debit
+2023-09-12,grocery bazaar,1092.06,Groceries,debit
+2023-09-12,internet bill,1028.29,Utilities,debit
+2023-09-13,fresh mart,1133.36,Groceries,debit
+2023-09-13,grocery bazaar,539.42,Groceries,debit
+2023-09-13,gaming,637.8,Entertainment,debit
+2023-09-14,internet bill,995.07,Utilities,debit
+2023-09-14,cafe,1006.62,Food,debit
+2023-09-14,netflix,1487.27,Entertainment,debit
+2023-09-14,clothing store,1803.52,Shopping,debit
+2023-09-14,gym membership,1035.26,Health,debit
+2023-09-14,supermarket,1919.9,Groceries,debit
+2023-09-14,fresh mart,1254.68,Groceries,debit
+2023-09-15,netflix,4126.76,Entertainment,debit
+2023-09-15,doctor visit,2364.09,Health,debit
+2023-09-15,restaurant,3504.06,Food,debit
+2023-09-15,metro,4726.02,Transport,debit
+2023-09-15,internet bill,2256.05,Utilities,debit
+2023-09-15,internet bill,2609.08,Utilities,debit
+2023-09-15,fresh mart,3220.7,Groceries,debit
+2023-09-16,bonus,70424.75,Income,credit
+2023-09-16,bus ticket,2650.4,Transport,debit
+2023-09-16,metro,3005.04,Transport,debit
+2023-09-17,electricity bill,159.56,Utilities,debit
+2023-09-17,supermarket,1862.74,Groceries,debit
+2023-09-17,movie,1919.84,Entertainment,debit
+2023-09-17,grocery bazaar,4649.92,Groceries,debit
+2023-09-17,metro,187.02,Transport,debit
+2023-09-17,bonus,39076.36,Income,credit
+2023-09-18,bonus,22111.41,Income,credit
+2023-09-18,internet bill,2571.68,Utilities,debit
+2023-09-19,restaurant,861.85,Food,debit
+2023-09-19,supermarket,153.54,Groceries,debit
+2023-09-19,doctor visit,3196.74,Health,debit
+2023-09-19,bus ticket,1002.04,Transport,debit
+2023-09-19,uber,4463.8,Transport,debit
+2023-09-19,local store,3164.94,Groceries,debit
+2023-09-19,grocery bazaar,906.53,Groceries,debit
+2023-09-19,metro,809.61,Transport,debit
+2023-09-20,clothing store,4535.89,Shopping,debit
+2023-09-20,fresh mart,2095.23,Groceries,debit
+2023-09-20,clothing store,3534.3,Shopping,debit
+2023-09-20,doctor visit,603.09,Health,debit
+2023-09-20,zomato,3880.04,Food,debit
+2023-09-21,clothing store,265.65,Shopping,debit
+2023-09-21,movie,406.06,Entertainment,debit
+2023-09-21,swiggy,1440.87,Food,debit
+2023-09-21,fresh mart,4673.28,Groceries,debit
+2023-09-21,amazon,1320.86,Shopping,debit
+2023-09-22,pharmacy,211.19,Health,debit
+2023-09-22,movie,2958.26,Entertainment,debit
+2023-09-23,grocery bazaar,886.01,Groceries,debit
+2023-09-23,zomato,1908.79,Food,debit
+2023-09-23,restaurant,294.33,Food,debit
+2023-09-23,freelance payment,59340.51,Income,credit
+2023-09-23,flipkart,2738.37,Shopping,debit
+2023-09-23,restaurant,3888.29,Food,debit
+2023-09-23,electronics,2548.36,Shopping,debit
+2023-09-23,grocery bazaar,2363.21,Groceries,debit
+2023-09-24,netflix,936.82,Entertainment,debit
+2023-09-24,grocery bazaar,848.57,Groceries,debit
+2023-09-24,mobile recharge,3507.58,Utilities,debit
+2023-09-24,amazon,379.77,Shopping,debit
+2023-09-24,electronics,3023.06,Shopping,debit
+2023-09-25,bonus,32393.16,Income,credit
+2023-09-25,grocery bazaar,2677.82,Groceries,debit
+2023-09-25,bus ticket,3632.78,Transport,debit
+2023-09-25,amazon,1167.23,Shopping,debit
+2023-09-25,restaurant,2676.16,Food,debit
+2023-09-25,gaming,1802.82,Entertainment,debit
+2023-09-25,gaming,3508.86,Entertainment,debit
+2023-09-25,grocery bazaar,1222.66,Groceries,debit
+2023-09-26,freelance payment,38929.12,Income,credit
+2023-09-26,flipkart,341.57,Shopping,debit
+2023-09-26,cafe,394.21,Food,debit
+2023-09-26,clothing store,114.89,Shopping,debit
+2023-09-27,fuel,957.39,Transport,debit
+2023-09-27,internet bill,4941.18,Utilities,debit
+2023-09-28,pharmacy,1355.41,Health,debit
+2023-09-28,internet bill,2789.15,Utilities,debit
+2023-09-28,salary,44891.15,Income,credit
+2023-09-28,salary,50395.98,Income,credit
+2023-09-28,salary,67256.61,Income,credit
+2023-09-28,zomato,1145.36,Food,debit
+2023-09-28,salary,79259.6,Income,credit
+2023-09-28,salary,42006.77,Income,credit
+2023-09-28,fresh mart,987.09,Groceries,debit
+2023-09-28,water bill,2257.75,Utilities,debit
+2023-09-28,salary,66749.04,Income,credit
+2023-09-28,gaming,1422.04,Entertainment,debit
+2023-09-28,salary,20497.28,Income,credit
+2023-09-28,cafe,1910.44,Food,debit
+2023-09-29,bus ticket,2295.49,Transport,debit
+2023-09-29,doctor visit,4295.66,Health,debit
+2023-09-29,metro,2001.04,Transport,debit
+2023-09-29,metro,3367.61,Transport,debit
+2023-09-29,fuel,1688.17,Transport,debit
+2023-09-29,doctor visit,1105.47,Health,debit
+2023-09-30,uber,3290.4,Transport,debit
+2023-09-30,freelance payment,39042.39,Income,credit
+2023-09-30,grocery bazaar,968.54,Groceries,debit
+2023-09-30,grocery bazaar,2303.07,Groceries,debit
+2023-09-30,fresh mart,4867.65,Groceries,debit
+2023-09-30,metro,2388.75,Transport,debit
+2023-09-30,electricity bill,3883.66,Utilities,debit
+2023-09-30,uber,1409.55,Transport,debit
+2023-10-01,supermarket,1791.3,Groceries,debit
+2023-10-01,movie,2136.08,Entertainment,debit
+2023-10-01,cafe,1038.75,Food,debit
+2023-10-01,restaurant,2447.62,Food,debit
+2023-10-01,bonus,40646.16,Income,credit
+2023-10-01,gaming,2798.58,Entertainment,debit
+2023-10-02,cafe,4047.02,Food,debit
+2023-10-02,fresh mart,2406.2,Groceries,debit
+2023-10-03,supermarket,227.99,Groceries,debit
+2023-10-03,supermarket,4492.99,Groceries,debit
+2023-10-04,bonus,52782.96,Income,credit
+2023-10-04,fresh mart,2056.83,Groceries,debit
+2023-10-04,swiggy,4628.61,Food,debit
+2023-10-04,electricity bill,2050.07,Utilities,debit
+2023-10-04,cafe,3605.88,Food,debit
+2023-10-04,water bill,2349.62,Utilities,debit
+2023-10-04,local store,928.25,Groceries,debit
+2023-10-05,swiggy,221.7,Food,debit
+2023-10-05,cafe,149.73,Food,debit
+2023-10-05,spotify,3133.81,Entertainment,debit
+2023-10-05,zomato,3627.6,Food,debit
+2023-10-05,clothing store,1312.65,Shopping,debit
+2023-10-05,electricity bill,99.82,Utilities,debit
+2023-10-05,mobile recharge,4208.16,Utilities,debit
+2023-10-06,fresh mart,4783.04,Groceries,debit
+2023-10-06,gym membership,1784.89,Health,debit
+2023-10-06,gym membership,1253.09,Health,debit
+2023-10-07,local store,2918.41,Groceries,debit
+2023-10-07,restaurant,2624.04,Food,debit
+2023-10-07,local store,3905.87,Groceries,debit
+2023-10-07,gaming,4059.82,Entertainment,debit
+2023-10-07,supermarket,464.63,Groceries,debit
+2023-10-07,fresh mart,1596.49,Groceries,debit
+2023-10-08,fuel,3118.25,Transport,debit
+2023-10-08,electricity bill,1140.81,Utilities,debit
+2023-10-08,doctor visit,4401.61,Health,debit
+2023-10-08,bonus,63308.52,Income,credit
+2023-10-08,movie,476.47,Entertainment,debit
+2023-10-08,doctor visit,288.15,Health,debit
+2023-10-08,swiggy,1135.7,Food,debit
+2023-10-08,local store,2749.79,Groceries,debit
+2023-10-09,restaurant,677.76,Food,debit
+2023-10-09,zomato,1772.86,Food,debit
+2023-10-09,internet bill,4729.42,Utilities,debit
+2023-10-09,fuel,4331.65,Transport,debit
+2023-10-09,zomato,4720.9,Food,debit
+2023-10-10,electricity bill,3778.14,Utilities,debit
+2023-10-10,internet bill,2762.75,Utilities,debit
+2023-10-10,grocery bazaar,1110.34,Groceries,debit
+2023-10-10,netflix,1378.46,Entertainment,debit
+2023-10-10,doctor visit,1798.6,Health,debit
+2023-10-10,amazon,4481.28,Shopping,debit
+2023-10-10,cafe,2223.47,Food,debit
+2023-10-10,internet bill,1322.78,Utilities,debit
+2023-10-11,netflix,3740.17,Entertainment,debit
+2023-10-11,grocery bazaar,3026.86,Groceries,debit
+2023-10-11,freelance payment,38027.54,Income,credit
+2023-10-11,grocery bazaar,3548.99,Groceries,debit
+2023-10-12,clothing store,2827.93,Shopping,debit
+2023-10-12,bus ticket,1974.42,Transport,debit
+2023-10-12,fuel,614.39,Transport,debit
+2023-10-13,clothing store,1115.28,Shopping,debit
+2023-10-13,cafe,1352.23,Food,debit
+2023-10-13,clothing store,3883.24,Shopping,debit
+2023-10-14,metro,3336.5,Transport,debit
+2023-10-14,bus ticket,3999.0,Transport,debit
+2023-10-14,water bill,3446.98,Utilities,debit
+2023-10-15,uber,4036.89,Transport,debit
+2023-10-15,freelance payment,23218.32,Income,credit
+2023-10-15,zomato,4588.24,Food,debit
+2023-10-15,amazon,3300.71,Shopping,debit
+2023-10-15,mobile recharge,3393.12,Utilities,debit
+2023-10-15,spotify,1401.2,Entertainment,debit
+2023-10-15,supermarket,4480.74,Groceries,debit
+2023-10-16,doctor visit,4916.87,Health,debit
+2023-10-16,doctor visit,2330.91,Health,debit
+2023-10-16,clothing store,1793.83,Shopping,debit
+2023-10-16,supermarket,4360.22,Groceries,debit
+2023-10-16,supermarket,1612.05,Groceries,debit
+2023-10-17,swiggy,52.69,Food,debit
+2023-10-17,amazon,3858.97,Shopping,debit
+2023-10-17,cafe,4859.37,Food,debit
+2023-10-17,gaming,2932.03,Entertainment,debit
+2023-10-17,clothing store,4597.13,Shopping,debit
+2023-10-18,electricity bill,2479.75,Utilities,debit
+2023-10-18,uber,1705.17,Transport,debit
+2023-10-19,local store,1018.97,Groceries,debit
+2023-10-20,local store,647.48,Groceries,debit
+2023-10-20,fresh mart,4109.75,Groceries,debit
+2023-10-20,restaurant,2217.91,Food,debit
+2023-10-20,pharmacy,3311.36,Health,debit
+2023-10-20,movie,271.51,Entertainment,debit
+2023-10-21,local store,3149.03,Groceries,debit
+2023-10-21,restaurant,3349.74,Food,debit
+2023-10-21,cafe,1324.76,Food,debit
+2023-10-22,electronics,4671.46,Shopping,debit
+2023-10-22,swiggy,843.27,Food,debit
+2023-10-22,bus ticket,1348.29,Transport,debit
+2023-10-22,uber,2022.43,Transport,debit
+2023-10-22,electronics,484.59,Shopping,debit
+2023-10-22,amazon,3148.51,Shopping,debit
+2023-10-23,amazon,4608.52,Shopping,debit
+2023-10-23,swiggy,3551.12,Food,debit
+2023-10-23,bus ticket,4575.4,Transport,debit
+2023-10-23,flipkart,804.36,Shopping,debit
+2023-10-23,bus ticket,2803.82,Transport,debit
+2023-10-23,swiggy,1599.37,Food,debit
+2023-10-24,fresh mart,4877.81,Groceries,debit
+2023-10-24,electronics,4478.14,Shopping,debit
+2023-10-24,bus ticket,1422.35,Transport,debit
+2023-10-24,internet bill,2956.73,Utilities,debit
+2023-10-25,bonus,53856.66,Income,credit
+2023-10-25,electronics,2519.02,Shopping,debit
+2023-10-25,local store,228.79,Groceries,debit
+2023-10-25,movie,836.23,Entertainment,debit
+2023-10-25,uber,1925.74,Transport,debit
+2023-10-25,water bill,4306.04,Utilities,debit
+2023-10-26,spotify,575.41,Entertainment,debit
+2023-10-26,uber,3850.5,Transport,debit
+2023-10-26,electricity bill,3539.55,Utilities,debit
+2023-10-26,uber,76.27,Transport,debit
+2023-10-26,metro,3531.25,Transport,debit
+2023-10-26,grocery bazaar,4401.23,Groceries,debit
+2023-10-26,water bill,414.52,Utilities,debit
+2023-10-27,netflix,2880.3,Entertainment,debit
+2023-10-27,gym membership,2613.09,Health,debit
+2023-10-27,doctor visit,4292.27,Health,debit
+2023-10-27,gym membership,108.2,Health,debit
+2023-10-27,mobile recharge,957.04,Utilities,debit
+2023-10-27,pharmacy,3820.85,Health,debit
+2023-10-27,supermarket,3371.78,Groceries,debit
+2023-10-27,cafe,4780.04,Food,debit
+2023-10-28,salary,44588.47,Income,credit
+2023-10-28,swiggy,2064.13,Food,debit
+2023-10-28,flipkart,4617.28,Shopping,debit
+2023-10-28,swiggy,3070.76,Food,debit
+2023-10-28,freelance payment,50310.42,Income,credit
+2023-10-28,fuel,3738.59,Transport,debit
+2023-10-29,bus ticket,4365.85,Transport,debit
+2023-10-29,gaming,4534.07,Entertainment,debit
+2023-10-29,clothing store,596.72,Shopping,debit
+2023-10-30,internet bill,1039.63,Utilities,debit
+2023-10-30,zomato,2787.03,Food,debit
+2023-10-30,supermarket,1047.01,Groceries,debit
+2023-10-31,mobile recharge,684.51,Utilities,debit
+2023-10-31,zomato,3140.32,Food,debit
+2023-10-31,flipkart,2664.46,Shopping,debit
+2023-10-31,zomato,2423.06,Food,debit
+2023-10-31,uber,4200.06,Transport,debit
+2023-10-31,internet bill,4700.95,Utilities,debit
+2023-10-31,mobile recharge,227.28,Utilities,debit
+2023-10-31,uber,4231.43,Transport,debit
+2023-11-01,bus ticket,4747.23,Transport,debit
+2023-11-01,gym membership,415.5,Health,debit
+2023-11-01,swiggy,1694.1,Food,debit
+2023-11-01,flipkart,3367.65,Shopping,debit
+2023-11-01,pharmacy,3935.89,Health,debit
+2023-11-01,gaming,4956.0,Entertainment,debit
+2023-11-01,fresh mart,1179.02,Groceries,debit
+2023-11-01,fresh mart,4265.33,Groceries,debit
+2023-11-01,cafe,3304.17,Food,debit
+2023-11-01,fresh mart,3315.01,Groceries,debit
+2023-11-02,gym membership,314.73,Health,debit
+2023-11-02,flipkart,3052.56,Shopping,debit
+2023-11-03,swiggy,1035.51,Food,debit
+2023-11-04,cafe,4897.32,Food,debit
+2023-11-04,movie,1663.38,Entertainment,debit
+2023-11-04,cafe,2436.24,Food,debit
+2023-11-04,flipkart,4089.57,Shopping,debit
+2023-11-04,fuel,1837.39,Transport,debit
+2023-11-05,internet bill,556.06,Utilities,debit
+2023-11-05,clothing store,2929.59,Shopping,debit
+2023-11-05,gym membership,3276.63,Health,debit
+2023-11-05,mobile recharge,1854.9,Utilities,debit
+2023-11-05,netflix,2210.27,Entertainment,debit
+2023-11-05,electronics,2118.97,Shopping,debit
+2023-11-05,freelance payment,74844.72,Income,credit
+2023-11-06,clothing store,167.88,Shopping,debit
+2023-11-06,zomato,606.48,Food,debit
+2023-11-06,cafe,4153.52,Food,debit
+2023-11-06,bus ticket,2660.62,Transport,debit
+2023-11-06,amazon,821.33,Shopping,debit
+2023-11-06,internet bill,1349.13,Utilities,debit
+2023-11-06,movie,4791.51,Entertainment,debit
+2023-11-07,netflix,1832.44,Entertainment,debit
+2023-11-08,movie,494.71,Entertainment,debit
+2023-11-08,supermarket,3352.27,Groceries,debit
+2023-11-08,zomato,3037.08,Food,debit
+2023-11-08,gym membership,3149.04,Health,debit
+2023-11-08,spotify,1239.73,Entertainment,debit
+2023-11-08,electricity bill,3271.85,Utilities,debit
+2023-11-09,movie,1337.22,Entertainment,debit
+2023-11-09,zomato,4357.2,Food,debit
+2023-11-10,supermarket,3142.66,Groceries,debit
+2023-11-10,restaurant,2262.94,Food,debit
+2023-11-10,grocery bazaar,4966.49,Groceries,debit
+2023-11-10,grocery bazaar,1650.8,Groceries,debit
+2023-11-10,doctor visit,1218.65,Health,debit
+2023-11-10,internet bill,3941.3,Utilities,debit
+2023-11-10,fuel,2766.64,Transport,debit
+2023-11-11,grocery bazaar,978.3,Groceries,debit
+2023-11-11,spotify,262.77,Entertainment,debit
+2023-11-11,gaming,4478.91,Entertainment,debit
+2023-11-11,gym membership,3602.06,Health,debit
+2023-11-11,supermarket,3684.49,Groceries,debit
+2023-11-11,mobile recharge,2442.91,Utilities,debit
+2023-11-11,water bill,2472.58,Utilities,debit
+2023-11-11,supermarket,2886.04,Groceries,debit
+2023-11-12,swiggy,71.99,Food,debit
+2023-11-12,grocery bazaar,3760.99,Groceries,debit
+2023-11-12,local store,861.3,Groceries,debit
+2023-11-12,cafe,341.9,Food,debit
+2023-11-12,spotify,2971.25,Entertainment,debit
+2023-11-12,internet bill,323.55,Utilities,debit
+2023-11-13,uber,3870.46,Transport,debit
+2023-11-13,netflix,1412.92,Entertainment,debit
+2023-11-13,flipkart,3111.71,Shopping,debit
+2023-11-14,cafe,4827.96,Food,debit
+2023-11-14,gaming,1606.22,Entertainment,debit
+2023-11-14,fuel,3297.49,Transport,debit
+2023-11-15,fresh mart,1712.04,Groceries,debit
+2023-11-15,bus ticket,4062.05,Transport,debit
+2023-11-16,uber,3009.72,Transport,debit
+2023-11-16,bus ticket,4500.79,Transport,debit
+2023-11-16,zomato,1672.92,Food,debit
+2023-11-16,swiggy,3077.01,Food,debit
+2023-11-16,electricity bill,2030.43,Utilities,debit
+2023-11-16,gaming,434.11,Entertainment,debit
+2023-11-17,zomato,2061.18,Food,debit
+2023-11-17,swiggy,3873.99,Food,debit
+2023-11-17,electronics,1186.27,Shopping,debit
+2023-11-17,water bill,1504.21,Utilities,debit
+2023-11-17,freelance payment,60980.7,Income,credit
+2023-11-17,grocery bazaar,2534.3,Groceries,debit
+2023-11-17,internet bill,4296.89,Utilities,debit
+2023-11-17,movie,1330.63,Entertainment,debit
+2023-11-17,movie,2163.72,Entertainment,debit
+2023-11-17,fuel,1123.24,Transport,debit
+2023-11-17,fresh mart,906.78,Groceries,debit
+2023-11-18,fresh mart,3997.24,Groceries,debit
+2023-11-18,internet bill,1191.69,Utilities,debit
+2023-11-18,spotify,1096.38,Entertainment,debit
+2023-11-18,uber,2074.61,Transport,debit
+2023-11-18,supermarket,2338.69,Groceries,debit
+2023-11-19,gym membership,4579.96,Health,debit
+2023-11-19,spotify,1256.89,Entertainment,debit
+2023-11-19,fresh mart,4343.1,Groceries,debit
+2023-11-19,cafe,4820.37,Food,debit
+2023-11-19,internet bill,1003.95,Utilities,debit
+2023-11-19,local store,3369.39,Groceries,debit
+2023-11-19,clothing store,4235.31,Shopping,debit
+2023-11-20,metro,716.96,Transport,debit
+2023-11-20,restaurant,946.19,Food,debit
+2023-11-20,water bill,1463.01,Utilities,debit
+2023-11-20,zomato,2447.93,Food,debit
+2023-11-20,uber,1463.85,Transport,debit
+2023-11-20,pharmacy,1422.9,Health,debit
+2023-11-20,flipkart,4275.86,Shopping,debit
+2023-11-21,movie,3906.56,Entertainment,debit
+2023-11-21,doctor visit,4893.05,Health,debit
+2023-11-21,fresh mart,336.88,Groceries,debit
+2023-11-21,fuel,2446.31,Transport,debit
+2023-11-21,local store,2234.76,Groceries,debit
+2023-11-21,fresh mart,2018.06,Groceries,debit
+2023-11-21,cafe,1466.48,Food,debit
+2023-11-22,bonus,56596.29,Income,credit
+2023-11-22,gym membership,4942.38,Health,debit
+2023-11-22,amazon,1035.69,Shopping,debit
+2023-11-22,gym membership,4635.46,Health,debit
+2023-11-22,uber,3622.95,Transport,debit
+2023-11-22,water bill,1439.58,Utilities,debit
+2023-11-23,flipkart,1145.92,Shopping,debit
+2023-11-23,fresh mart,691.6,Groceries,debit
+2023-11-24,grocery bazaar,1844.09,Groceries,debit
+2023-11-24,electricity bill,3471.93,Utilities,debit
+2023-11-24,flipkart,3441.95,Shopping,debit
+2023-11-24,local store,3222.15,Groceries,debit
+2023-11-25,pharmacy,875.59,Health,debit
+2023-11-25,swiggy,2602.48,Food,debit
+2023-11-25,flipkart,2767.51,Shopping,debit
+2023-11-26,supermarket,1301.78,Groceries,debit
+2023-11-26,supermarket,4784.19,Groceries,debit
+2023-11-26,gaming,2471.73,Entertainment,debit
+2023-11-26,fuel,3805.01,Transport,debit
+2023-11-26,gym membership,915.82,Health,debit
+2023-11-26,mobile recharge,2871.28,Utilities,debit
+2023-11-27,spotify,3692.5,Entertainment,debit
+2023-11-27,fresh mart,2441.39,Groceries,debit
+2023-11-27,bonus,25391.31,Income,credit
+2023-11-27,zomato,4180.99,Food,debit
+2023-11-27,swiggy,4443.74,Food,debit
+2023-11-27,uber,4153.86,Transport,debit
+2023-11-27,local store,769.6,Groceries,debit
+2023-11-27,freelance payment,28615.74,Income,credit
+2023-11-28,salary,19808.98,Income,credit
+2023-11-28,metro,2896.45,Transport,debit
+2023-11-28,grocery bazaar,1456.59,Groceries,debit
+2023-11-28,salary,41113.65,Income,credit
+2023-11-28,flipkart,2883.96,Shopping,debit
+2023-11-28,bonus,61707.33,Income,credit
+2023-11-28,internet bill,1145.71,Utilities,debit
+2023-11-28,salary,18219.9,Income,credit
+2023-11-28,electronics,569.05,Shopping,debit
+2023-11-28,uber,3386.95,Transport,debit
+2023-11-28,bus ticket,2962.22,Transport,debit
+2023-11-28,fresh mart,3772.29,Groceries,debit
+2023-11-28,salary,51657.12,Income,credit
+2023-11-28,salary,14239.33,Income,credit
+2023-11-28,salary,55532.39,Income,credit
+2023-11-29,pharmacy,4166.28,Health,debit
+2023-11-29,gaming,3845.76,Entertainment,debit
+2023-11-29,grocery bazaar,689.14,Groceries,debit
+2023-11-29,pharmacy,2842.7,Health,debit
+2023-11-29,freelance payment,14947.38,Income,credit
+2023-11-30,spotify,1082.95,Entertainment,debit
+2023-11-30,water bill,2528.27,Utilities,debit
+2023-12-01,electronics,2024.49,Shopping,debit
+2023-12-01,fuel,790.02,Transport,debit
+2023-12-01,bonus,47619.28,Income,credit
+2023-12-01,restaurant,797.66,Food,debit
+2023-12-02,swiggy,2907.92,Food,debit
+2023-12-02,grocery bazaar,4564.65,Groceries,debit
+2023-12-02,mobile recharge,3097.26,Utilities,debit
+2023-12-02,local store,1781.6,Groceries,debit
+2023-12-02,gaming,3547.55,Entertainment,debit
+2023-12-03,bonus,64711.85,Income,credit
+2023-12-03,spotify,2463.09,Entertainment,debit
+2023-12-03,bus ticket,2629.62,Transport,debit
+2023-12-03,fuel,4960.57,Transport,debit
+2023-12-03,flipkart,1259.65,Shopping,debit
+2023-12-04,fuel,2926.48,Transport,debit
+2023-12-04,gaming,1304.03,Entertainment,debit
+2023-12-04,gym membership,80.46,Health,debit
+2023-12-04,mobile recharge,1695.87,Utilities,debit
+2023-12-04,flipkart,2471.12,Shopping,debit
+2023-12-05,electronics,4671.67,Shopping,debit
+2023-12-05,bus ticket,2364.94,Transport,debit
+2023-12-06,gaming,2699.68,Entertainment,debit
+2023-12-06,electronics,4837.28,Shopping,debit
+2023-12-06,fresh mart,3780.25,Groceries,debit
+2023-12-06,movie,3258.13,Entertainment,debit
+2023-12-07,internet bill,1392.01,Utilities,debit
+2023-12-07,grocery bazaar,1059.26,Groceries,debit
+2023-12-07,clothing store,4573.04,Shopping,debit
+2023-12-07,zomato,2936.83,Food,debit
+2023-12-07,supermarket,280.69,Groceries,debit
+2023-12-07,movie,3676.72,Entertainment,debit
+2023-12-07,zomato,4978.27,Food,debit
+2023-12-08,bus ticket,343.75,Transport,debit
+2023-12-08,grocery bazaar,184.04,Groceries,debit
+2023-12-08,bonus,21255.57,Income,credit
+2023-12-08,bus ticket,3142.19,Transport,debit
+2023-12-08,metro,272.71,Transport,debit
+2023-12-08,water bill,4626.28,Utilities,debit
+2023-12-09,local store,4462.29,Groceries,debit
+2023-12-09,restaurant,3653.25,Food,debit
+2023-12-09,movie,3699.37,Entertainment,debit
+2023-12-09,local store,2475.74,Groceries,debit
+2023-12-09,internet bill,1770.62,Utilities,debit
+2023-12-09,fresh mart,3162.75,Groceries,debit
+2023-12-09,mobile recharge,640.84,Utilities,debit
+2023-12-10,zomato,209.73,Food,debit
+2023-12-10,netflix,1112.1,Entertainment,debit
+2023-12-10,local store,4522.16,Groceries,debit
+2023-12-10,cafe,4082.64,Food,debit
+2023-12-10,swiggy,3532.81,Food,debit
+2023-12-10,local store,1016.17,Groceries,debit
+2023-12-10,mobile recharge,1349.12,Utilities,debit
+2023-12-10,supermarket,717.37,Groceries,debit
+2023-12-11,fresh mart,4331.43,Groceries,debit
+2023-12-11,netflix,3837.75,Entertainment,debit
+2023-12-11,supermarket,3305.87,Groceries,debit
+2023-12-11,restaurant,358.18,Food,debit
+2023-12-11,local store,3756.81,Groceries,debit
+2023-12-11,zomato,1984.93,Food,debit
+2023-12-11,fuel,2496.22,Transport,debit
+2023-12-11,freelance payment,34299.01,Income,credit
+2023-12-12,fuel,2989.89,Transport,debit
+2023-12-12,swiggy,1382.14,Food,debit
+2023-12-12,bus ticket,3152.8,Transport,debit
+2023-12-12,bus ticket,3986.33,Transport,debit
+2023-12-13,pharmacy,1319.21,Health,debit
+2023-12-13,zomato,1125.82,Food,debit
+2023-12-13,spotify,1062.73,Entertainment,debit
+2023-12-13,cafe,3743.04,Food,debit
+2023-12-14,grocery bazaar,3826.5,Groceries,debit
+2023-12-14,amazon,1441.13,Shopping,debit
+2023-12-14,uber,120.71,Transport,debit
+2023-12-14,electricity bill,4933.94,Utilities,debit
+2023-12-14,fresh mart,1420.1,Groceries,debit
+2023-12-14,mobile recharge,1838.85,Utilities,debit
+2023-12-15,mobile recharge,1722.72,Utilities,debit
+2023-12-15,metro,4093.67,Transport,debit
+2023-12-15,local store,625.75,Groceries,debit
+2023-12-15,fresh mart,448.22,Groceries,debit
+2023-12-15,uber,1159.61,Transport,debit
+2023-12-16,electronics,3497.23,Shopping,debit
+2023-12-16,grocery bazaar,3753.0,Groceries,debit
+2023-12-16,grocery bazaar,4580.57,Groceries,debit
+2023-12-16,spotify,3028.16,Entertainment,debit
+2023-12-16,movie,4407.22,Entertainment,debit
+2023-12-16,swiggy,4200.78,Food,debit
+2023-12-16,netflix,4177.54,Entertainment,debit
+2023-12-16,local store,355.09,Groceries,debit
+2023-12-16,internet bill,3202.23,Utilities,debit
+2023-12-17,pharmacy,208.2,Health,debit
+2023-12-17,electronics,647.35,Shopping,debit
+2023-12-17,cafe,2074.14,Food,debit
+2023-12-17,fresh mart,506.62,Groceries,debit
+2023-12-17,supermarket,1931.16,Groceries,debit
+2023-12-18,swiggy,3742.51,Food,debit
+2023-12-18,water bill,1446.41,Utilities,debit
+2023-12-18,bonus,49422.56,Income,credit
+2023-12-19,cafe,2718.17,Food,debit
+2023-12-19,metro,1462.59,Transport,debit
+2023-12-19,gym membership,1949.86,Health,debit
+2023-12-19,clothing store,77.29,Shopping,debit
+2023-12-19,restaurant,3826.18,Food,debit
+2023-12-19,grocery bazaar,2554.3,Groceries,debit
+2023-12-20,supermarket,1243.79,Groceries,debit
+2023-12-20,restaurant,4865.15,Food,debit
+2023-12-20,gaming,523.05,Entertainment,debit
+2023-12-20,local store,182.5,Groceries,debit
+2023-12-20,spotify,321.79,Entertainment,debit
+2023-12-21,flipkart,3876.22,Shopping,debit
+2023-12-21,fresh mart,1494.75,Groceries,debit
+2023-12-21,netflix,4043.57,Entertainment,debit
+2023-12-21,zomato,2417.64,Food,debit
+2023-12-21,zomato,2117.93,Food,debit
+2023-12-21,zomato,4267.52,Food,debit
+2023-12-21,cafe,4849.49,Food,debit
+2023-12-22,restaurant,178.85,Food,debit
+2023-12-22,electricity bill,3038.51,Utilities,debit
+2023-12-22,pharmacy,1110.82,Health,debit
+2023-12-22,zomato,2609.66,Food,debit
+2023-12-22,electronics,609.56,Shopping,debit
+2023-12-23,spotify,2215.06,Entertainment,debit
+2023-12-23,metro,227.57,Transport,debit
+2023-12-23,amazon,135.84,Shopping,debit
+2023-12-23,clothing store,2075.38,Shopping,debit
+2023-12-23,spotify,2753.4,Entertainment,debit
+2023-12-23,restaurant,3606.68,Food,debit
+2023-12-24,cafe,3489.97,Food,debit
+2023-12-24,local store,4591.15,Groceries,debit
+2023-12-24,flipkart,451.03,Shopping,debit
+2023-12-24,supermarket,4986.46,Groceries,debit
+2023-12-24,netflix,3366.85,Entertainment,debit
+2023-12-24,mobile recharge,2589.74,Utilities,debit
+2023-12-25,supermarket,1682.08,Groceries,debit
+2023-12-25,supermarket,1690.95,Groceries,debit
+2023-12-25,fuel,1476.83,Transport,debit
+2023-12-25,grocery bazaar,4205.24,Groceries,debit
+2023-12-25,restaurant,96.32,Food,debit
+2023-12-25,fresh mart,2074.98,Groceries,debit
+2023-12-25,cafe,4804.27,Food,debit
+2023-12-25,zomato,1463.79,Food,debit
+2023-12-25,zomato,3666.84,Food,debit
+2023-12-25,restaurant,3863.32,Food,debit
+2023-12-25,bus ticket,4620.29,Transport,debit
+2023-12-26,supermarket,2474.21,Groceries,debit
+2023-12-26,metro,2554.0,Transport,debit
+2023-12-26,flipkart,1984.63,Shopping,debit
+2023-12-26,cafe,3670.36,Food,debit
+2023-12-26,supermarket,1827.16,Groceries,debit
+2023-12-27,internet bill,4653.63,Utilities,debit
+2023-12-27,restaurant,3278.39,Food,debit
+2023-12-27,internet bill,4512.3,Utilities,debit
+2023-12-28,fresh mart,2449.21,Groceries,debit
+2023-12-28,salary,26326.55,Income,credit
+2023-12-28,supermarket,2437.48,Groceries,debit
+2023-12-28,fresh mart,4896.55,Groceries,debit
+2023-12-28,salary,45518.97,Income,credit
+2023-12-28,restaurant,3968.83,Food,debit
+2023-12-28,electronics,306.51,Shopping,debit
+2023-12-28,salary,68235.62,Income,credit
+2023-12-28,flipkart,163.23,Shopping,debit
+2023-12-28,salary,32024.07,Income,credit
+2023-12-29,netflix,2171.12,Entertainment,debit
+2023-12-29,fresh mart,2836.62,Groceries,debit
+2023-12-30,grocery bazaar,4144.68,Groceries,debit
+2023-12-30,supermarket,1076.09,Groceries,debit
+2023-12-30,spotify,4864.25,Entertainment,debit
+2023-12-31,electronics,2005.55,Shopping,debit
+2023-12-31,zomato,3771.87,Food,debit
+2023-12-31,uber,3103.03,Transport,debit
+2024-01-01,local store,1343.31,Groceries,debit
+2024-01-01,mobile recharge,3031.15,Utilities,debit
+2024-01-01,restaurant,3594.26,Food,debit
+2024-01-01,movie,4913.94,Entertainment,debit
+2024-01-01,spotify,1241.79,Entertainment,debit
+2024-01-01,electronics,1347.76,Shopping,debit
+2024-01-01,doctor visit,2088.92,Health,debit
+2024-01-01,gym membership,341.04,Health,debit

@@ -1,6 +1,6 @@
 import axios from "axios";
 
-const BASE = "http://localhost:8000";
+const BASE = "https://ai-financial-advisor-production-b3fc.up.railway.app";
 
 const api = axios.create({ baseURL: BASE });
 
