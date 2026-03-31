@@ -23,7 +23,7 @@ app = FastAPI(title="AI Finance Advisor API", version="1.0.0")
 
 app.add_middleware(
     CORSMiddleware,
-    allow_origins     = ["http://localhost:3000"],
+    allow_origins     = ["https://ai-financial-advisor-production-b3fc.up.railway.app"],
     allow_credentials = True,
     allow_methods     = ["*"],
     allow_headers     = ["*"],
