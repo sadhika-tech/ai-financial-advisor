@@ -1,6 +1,5 @@
 import { useEffect, useState } from "react";
 import { getBudgetPlan, getCluster } from "../api";
-import Loader   from "../components/Loader";
 import ErrorBox from "../components/ErrorBox";
 import { TipSkeleton, StatCardSkeleton } from "../components/Skeleton";
 import PageWrapper from "../components/PageWrapper";

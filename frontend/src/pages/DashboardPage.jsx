@@ -1,7 +1,6 @@
 import { useEffect, useState } from "react";
 import { getSummary, getAnomalies } from "../api";
 import StatCard from "../components/StatCard";
-import Loader   from "../components/Loader";
 import ErrorBox from "../components/ErrorBox";
 import {
   BarChart, Bar, XAxis, YAxis, Tooltip,

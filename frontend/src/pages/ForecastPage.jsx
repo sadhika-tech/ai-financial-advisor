@@ -3,7 +3,7 @@ import { getForecast, getCategories } from "../api";
 import Loader   from "../components/Loader";
 import ErrorBox from "../components/ErrorBox";
 import {
-  LineChart, Line, XAxis, YAxis, Tooltip, Legend,
+   Line, XAxis, YAxis, Tooltip, Legend,
   ResponsiveContainer, Area, AreaChart, ReferenceLine,
 } from "recharts";
 import PageWrapper from "../components/PageWrapper";
