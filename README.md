@@ -48,8 +48,26 @@ Fixed categories (Rent, Subscriptions, Loan EMI) use
 a 3-month average fallback — more accurate than ML for
 perfectly regular payments.
 
----
+## Setup after cloning
 
+The trained models and data files are not in the repo (too large).
+To regenerate them:
+
+1. Run the data pipeline:
+```bash
+   python finance_data_pipeline.py
+```
+
+2. Run notebooks in order:
+   - `notebooks/03_clustering.ipynb` → saves models to `backend/models/`
+   - `notebooks/04_forecasting.ipynb` → saves Prophet models to `backend/models/prophet/`
+
+3. Start the backend:
+```bash
+   uvicorn backend.main:app --reload --port 8000
+```
+
+---
 ## Run locally
 ```bash
 # Backend
