@@ -5,7 +5,7 @@ detects patterns, forecasts future expenses, and generates
 personalized budget recommendations.
 
 **Live demo**: https://ai-financial-advisor-jet.vercel.app
-**Backend API**: https://ai-financial-advisor-production-b3fc.up.railway.app
+**Backend API**: https://ai-financial-advisor-9ah1.onrender.com
 ---
 
 ## What it does
