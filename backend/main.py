@@ -25,7 +25,6 @@ app.add_middleware(
     CORSMiddleware,
     allow_origins=[
         "http://localhost:3000",
-        "https://ai-financial-advisor-9ah1.onrender.com/",
         "https://ai-financial-advisor-jet.vercel.app",
         "https://*.vercel.app",
     ],
