@@ -23,10 +23,15 @@ app = FastAPI(title="AI Finance Advisor API", version="1.0.0")
 
 app.add_middleware(
     CORSMiddleware,
-    allow_origins     = ["https://ai-financial-advisor-production-b3fc.up.railway.app","https://ai-financial-advisor-jet.vercel.app"],
-    allow_credentials = True,
-    allow_methods     = ["*"],
-    allow_headers     = ["*"],
+    allow_origins=[
+        "http://localhost:3000",
+        "https://ai-financial-advisor-9ah1.onrender.com/",
+        "https://ai-financial-advisor-jet.vercel.app",
+        "https://*.vercel.app",
+    ],
+    allow_credentials=True,
+    allow_methods=["*"],
+    allow_headers=["*"],
 )
 
 CATEGORY_RULES = [
